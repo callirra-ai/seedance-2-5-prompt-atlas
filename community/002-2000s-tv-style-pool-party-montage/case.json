@@ -1,0 +1,37 @@
+{
+  "slug": "2000s-tv-style-pool-party-montage",
+  "position": 2,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "beech",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/beechinour/status/2088736757802209676",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/2000s-tv-style-pool-party-montage.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Generate a fast, energetic montage set at an outdoor pool party in the style of an early 2000s TV show. The footage should feel like it was shot for a teen drama / reality-TV / lifestyle series from the early",
+  "title": "2000s TV Style Pool Party Montage",
+  "summary": "A prompt for generating a fast, energetic montage of an outdoor pool party in the style of an early 2000s teen drama or reality TV show.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/2000s-tv-style-pool-party-montage",
+    "generator": "https://callirra.com/seedance2.5?atlas=2000s-tv-style-pool-party-montage&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

@@ -1,6 +1,6 @@
 # License
 
-## Prompts and documentation — CC BY 4.0
+## Our own material — CC BY 4.0
 
 Applies to `cases/**/prompt.txt`, `cases/**/README.md`, `cases/**/case.json`, `catalog.json`, and the text of this repository's `README.md`.
 
@@ -10,4 +10,13 @@ You may use, share and adapt this material **including commercially**, provided 
 
 **Clips you generate from these prompts are yours.** Attribution is appreciated but not required for generated output; the licence covers the prompt text, not what the model renders from it.
 
-Full text: https://creativecommons.org/licenses/by/4.0/
+## The community half — theirs, not ours
+
+`community/**` is **excluded from the CC BY 4.0 grant above.** Those prompts and clips belong to the
+authors credited in each case's README and in [ATTRIBUTION.md](ATTRIBUTION.md), and are included here
+under the licence named there — usually CC BY 4.0, granted by the publisher that collected them rather
+than by the person who made the clip. If you reuse any of it, carry the credit with it.
+
+Rights holder and want something removed? Open an issue and it comes down.
+
+Full text of CC BY 4.0: https://creativecommons.org/licenses/by/4.0/

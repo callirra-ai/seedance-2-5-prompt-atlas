@@ -1,0 +1,37 @@
+{
+  "slug": "maritime-museum-multilingual-tour",
+  "position": 80,
+  "category": "nature-landscape",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE (verbatim): \"Creative Commons Attribution 4.0 International — This repository content is distributed under the CC BY 4.0 license. https://creativecommons.org/licenses/by/4.0/\". README \"License\" section (verbatim): \"[CC BY 4.0] … All prompts are shared for learning, organizati",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#category-30",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/maritime-museum-multilingual-tour.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "nature landscape",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "30s multilingual Southeast Asian heritage museum documentary. One guide leads through four connected galleries about trade, migration, craft, and Singapore's regional history. Warm, authentic museum realism, not tourism advertising.\n0-7.5s Port Model Gallery, English.Singapore harbor and Malacca Strait model, moving ship lights, blue map wall. Guide: \"Singapore has always been a meeting point, not just a destination.\"\n7.5-15s Ceramics & Spice Room, Mandarin.Blue-white porcelain, spice jars, cinnamon, cloves, pepper, wooden crates, warm light. Guide: \"These ceramics and spices record a way of life that grew from the sea.\"\n15-22.5s Malacca Trade Gallery, Malay.Teak walls, ship model, batik, pewter, route maps, brass lanterns. Guide: \"Di Selat Melaka, kapal, rempah dan bahasa bertemu. Perdagangan menghubungkan banyak budaya.\"\n22.5-30s Travel Objects Gallery, Japanese.Suitcases, letters, textiles, family photos in glass cases, soft paper light. Guide: \"旅の品物は、場所を移すたびに、新しい意味を持ちます。\"\nCamera: 16:9 warm documentary style, slow museum walkthrough, guide moments mixed with object close-ups.",
+  "title": "Maritime Museum Multilingual Narration",
+  "summary": "One guide moves through different exhibits, naturally switching between English, Singapore-accented Mandarin, Malay, and Japanese.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/maritime-museum-multilingual-tour",
+    "generator": "https://callirra.com/seedance2.5?atlas=maritime-museum-multilingual-tour&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "gymnastics-floor-landing",
+  "position": 99,
+  "category": "sports-action",
+  "scene": "image-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "480p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": false
+  },
+  "credits": 87,
+  "keywords": [
+    "gymnastics video prompt",
+    "landing slow motion",
+    "image to video gymnastics",
+    "floor routine prompt"
+  ],
+  "prompt": "Hold everything in the uploaded frame, athlete, leotard and arena, and let her finish the move. She completes a double twisting salto and lands it: chest down, one arm out for balance, holding the finish for a full beat before she straightens. The camera pushes in slowly from mat level, staying tight on the feet and the settle. Bright arena with one overhead pool of light, everything beyond it falling dark. Crisp mat texture, faint chalk dust in the air.",
+  "title": "Gymnastics Floor Landing",
+  "summary": "Your still of a gymnast mid-air, continued: the double twist lands and the finish holds a full beat.",
+  "why": "A reference frame solves the hardest part of gymnastics, the body shape, so the prompt protects the athlete and the arena and spends its words on the finish: chest down, arm out, a held beat. Ending on the hold is what makes a landing look scored rather than clipped short. One overhead pool of light isolates her from a full arena, which saves the model from inventing a crowd it cannot keep consistent, and 480p is plenty for a shot this tight.",
+  "reference_note": "Upload a still of the gymnast already airborne, whole body in frame and the mat visible below her. Avoid frames shot from the stands, heavy crowd clutter, or a crop that cuts off the legs, because the landing is the entire shot and the model needs to see where she is coming down.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/gymnastics-floor-landing",
+    "generator": "https://callirra.com/seedance2.5?atlas=gymnastics-floor-landing&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

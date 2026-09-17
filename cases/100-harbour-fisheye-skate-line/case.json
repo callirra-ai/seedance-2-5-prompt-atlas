@@ -1,0 +1,29 @@
+{
+  "slug": "harbour-fisheye-skate-line",
+  "position": 100,
+  "category": "sports-action",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "4:3",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "skateboard line prompt",
+    "fisheye follow cam",
+    "vhs skate video look",
+    "skate video prompt"
+  ],
+  "prompt": "Rolling into a harbour plaza line, a skater pushes twice, ollies onto a low ledge, holds a fifty-fifty grind, then pops out and rides away. The fisheye camera follows on a board directly behind, staying about a metre off the tail the whole way. Flat overcast midday light, grey concrete, no hard shadow anywhere. Nineties tape grade, soft grain, slight wobble at the frame edges. Audio: urethane rattle, trucks scraping, wind over the microphone.",
+  "title": "Harbour Fisheye Skate Line",
+  "summary": "One fisheye follow-cam skate line: push, ollie, grind, pop out, held a metre off the tail.",
+  "why": "A skate line only reads if the trick order is fixed, so the prompt lists push, ollie, grind, pop out and stops there instead of stacking a montage. The follow-board camera and the one-metre distance are the two specifics that keep a fisheye close enough to feel fast without warping the skater. Flat overcast light is deliberate: hard sun on concrete pushes a model toward a glossy commercial look, not a tape.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/harbour-fisheye-skate-line",
+    "generator": "https://callirra.com/seedance2.5?atlas=harbour-fisheye-skate-line&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

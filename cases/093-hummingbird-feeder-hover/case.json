@@ -1,0 +1,29 @@
+{
+  "slug": "hummingbird-feeder-hover",
+  "position": 93,
+  "category": "animals-pets",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 4,
+    "resolution": "480p",
+    "aspect_ratio": "1:1",
+    "generate_audio": false
+  },
+  "credits": 69,
+  "keywords": [
+    "hummingbird slow motion",
+    "bird feeder video",
+    "hovering bird prompt",
+    "square garden wildlife"
+  ],
+  "prompt": "Arriving at a hanging feeder, a small iridescent hummingbird hovers a hand-width away, then darts in and sips twice before backing off and holding in mid-air, wings a grey blur, tail flaring. The camera eases in from a wide garden view to a tight square frame on the feeder and stops, letting the bird move inside it. Dappled light through leaves behind, bright background, saturated greens, high frame rate so the wing beat reads as a soft shimmer. No other birds, no people, no hands.",
+  "title": "Hummingbird at the Feeder",
+  "summary": "A square four-second hold on a feeder: the bird arrives, sips twice, backs off and hovers.",
+  "why": "A four-second square loop is the format hummingbird clips actually get used in, so the prompt is written as a closed action — arrive, sip, retreat, hold — with no ending left to resolve. Asking for a high frame rate and describing the wings as a soft shimmer is more reliable than asking for slow motion, which models often apply to the whole bird and make it float.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/hummingbird-feeder-hover",
+    "generator": "https://callirra.com/seedance2.5?atlas=hummingbird-feeder-hover&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

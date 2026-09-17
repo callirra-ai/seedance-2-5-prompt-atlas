@@ -1,0 +1,37 @@
+{
+  "slug": "soda-sku-swap",
+  "position": 48,
+  "category": "product-commercial",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/soda-sku-swap.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "product commercial",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "The soda beverage image is @Image 1, and the scene image is @Image 2. Showcase the soda beverage through close-up, near, medium, and long shots, with smooth lens connections and consistent subject.\n\nReplace the soda beverage bottle in @Video 1 with the pink beverage bottle from @Image 3.\n\nReplace the soda beverage bottle in @Video 2 with the purple beverage bottle from @Image 4.\n\nReplace the soda beverage bottle in @Video 3 with the green beverage bottle from @Image 5.",
+  "title": "E-Commerce SKU Batch Reuse",
+  "summary": "Batch replace product styles/colors within the same shot, covering an entire SKU line with one shoot.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/soda-sku-swap",
+    "generator": "https://callirra.com/seedance2.5?atlas=soda-sku-swap&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

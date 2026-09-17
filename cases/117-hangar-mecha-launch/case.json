@@ -1,0 +1,29 @@
+{
+  "slug": "hangar-mecha-launch",
+  "position": 117,
+  "category": "vfx-scifi",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "mecha launch prompt",
+    "sci-fi robot video",
+    "hangar launch scene",
+    "hard sci-fi prompt"
+  ],
+  "prompt": "Inside a grey concrete hangar, a masked pilot in a white flight suit straps into an open cockpit as the shoulder clamps lock down around her. The machine rises on its launch cradle, steam venting from the hip joints, then strides once into the open while the hangar doors part ahead of it. A crane camera climbs with the cockpit and settles behind the shoulder. Cold strip lighting above, blue service lamps along the floor. Audio: hydraulic hiss, servo whine, distant klaxon.",
+  "title": "Hangar Mecha Launch",
+  "summary": "A mecha launch from inside the hangar: pilot clamped in, cradle rising, the doors parting ahead.",
+  "why": "Mecha shots fail when the machine has no scale, so the prompt gives it a human action, a pilot being clamped in, and one piece of architecture it has to fit through. The crane move starts at cockpit height and ends behind the shoulder, which keeps the machine's proportions stable across the shot. Cold strip lighting and blue floor lamps are named as two separate sources so the plating picks up a rim without the whole frame glowing.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/hangar-mecha-launch",
+    "generator": "https://callirra.com/seedance2.5?atlas=hangar-mecha-launch&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "living-room-restyle",
+  "position": 42,
+  "category": "product-commercial",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/living-room-restyle.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "product commercial",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Use the input video as the exact source and preserve the original camera movement, timing, composition, room layout, lighting, shadows, furniture positions, and all objects.\nOnly edit two materials in the living room:\n1. Replace the light fabric sofa on the right side of the room with a rich brown leather sofa. Keep the exact same sofa shape, size, position, cushion layout, armrests, backrest, and perspective. The new sofa should look like realistic brown leather, with natural leather grain, subtle wrinkles, stitching, soft glossy highlights, and physically believable reflections from the window light.\n\n2. Replace the visible warm wooden floor with polished white marble flooring. Keep the exact same floor plane, perspective, scale, and room geometry. The marble should be white to light gray with natural subtle veins, realistic seams, and controlled polished reflections. The marble reflections should respond to the window light, furniture legs, plants, sofa base, and room shadows.\n\nEverything else must remain unchanged: the window, curtains, walls, wall art, TV, TV console, plants, rug, coffee table, books, radiator, shelves, doorframe, lighting, shadows, camera motion, and overall warm interior atmosphere. The rug and coffee table stay exactly where they are, on top of the new marble floor. The edit should look like a realistic interior renovation, not a new generated room.\n\nMaintain temporal consistency across the full video. The sofa and floor materials must remain stable from frame to frame with no flickering, warping, melting, or object changes. Preserve the original video’s natural daylight, warm tone, soft shadows, lens behavior, and smooth camera movement.\nNegative Prompt\nDo not change the room layout. Do not move furniture. Do not add or remove objects. Do not change the rug, coffee table, TV, plants, curtains, window, wall art, shelves, radiator, or doorframe. Do not change the camera movement. Do not change the sofa shape or size. Do not make the leather look plastic. Do not make the marble overly reflective like a mirror. Do not create broken or chaotic marble veins. Do not replace the rug with marble. Do not alter the walls or ceiling. No people, no text, no logo, no UI, no selection mask, no fantasy effect, no melting transition, no flickering.",
+  "title": "Home Renovation Plan Demo",
+  "summary": "With a simple prompt, the model reinterprets new decor styles on the same space, switching materials, furniture, colors, and lighting while keeping layout and c",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/living-room-restyle",
+    "generator": "https://callirra.com/seedance2.5?atlas=living-room-restyle&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

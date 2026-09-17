@@ -1,0 +1,37 @@
+{
+  "slug": "theatre-audience-emotion",
+  "position": 171,
+  "category": "story-dialogue",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/theatre-audience-emotion.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "story dialogue",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Theater audience, a young girl with her hands clasped near her chin, gazing at the performance on stage. Her emotions are complex and mixed; there is pride in her eyes, heartache, and the glimmer of suppressed tears. Her lips are lightly pressed together, her eyelashes tremble, tears well up in her eyes but she forces them not to fall. The core presentation is the authentic, mixed feelings of watching someone dearest to you shine.",
+  "title": "Complex Emotions In Theater Audience",
+  "summary": "A young girl in a theater audience watches a performance with a mix of pride, heartache, and suppressed tears.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/theatre-audience-emotion",
+    "generator": "https://callirra.com/seedance2.5?atlas=theatre-audience-emotion&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

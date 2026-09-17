@@ -1,0 +1,29 @@
+{
+  "slug": "droplet-crown-splash",
+  "position": 150,
+  "category": "asmr-macro",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "4:3",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "water splash macro",
+    "high speed splash prompt",
+    "asmr water video",
+    "slow motion droplet"
+  ],
+  "prompt": "A single droplet lands in a shallow pool and throws up a crown of water that spreads, thins and breaks into beads still hanging in the air. The camera pans up with the rising crown, then eases back down as it collapses. One hard side light throws the crown's shadow across a black backdrop while the water surface stays glossy and opaque, a high-speed look with frozen edges. Night studio, tank only, no hands. Audio: a sharp plink, then a scatter of tiny drips settling.",
+  "title": "Droplet Crown Splash",
+  "summary": "A droplet throws a crown of water that shatters into hanging beads, side-lit against black.",
+  "why": "Splash prompts usually fail by asking for beauty instead of mechanics, so this one specifies the crown's life cycle: rises, spreads, thins, breaks into beads still airborne. The camera pans up with it and settles back down, which mirrors the motion and keeps the breaking rim in frame the whole time. A single hard side light is chosen over backlight because the thrown shadow on the backdrop is what proves the droplets are physically there, and the two-part audio gives the impact and the aftermath separate space.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/droplet-crown-splash",
+    "generator": "https://callirra.com/seedance2.5?atlas=droplet-crown-splash&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

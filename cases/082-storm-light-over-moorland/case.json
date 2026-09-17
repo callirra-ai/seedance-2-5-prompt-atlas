@@ -1,0 +1,29 @@
+{
+  "slug": "storm-light-over-moorland",
+  "position": 82,
+  "category": "nature-landscape",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "storm light prompt",
+    "dramatic sky video",
+    "moorland landscape shot",
+    "weather break b-roll"
+  ],
+  "prompt": "Rain has just stopped over a wide open moor. The camera tilts slowly down from a torn black cloud base to a line of low hills, where a shaft of sun drops through a single gap and slides across wet heather. Cloud shadow sweeps the slope and the surface glitters in the same beat. High dynamic range, deep contrast, muted olive and slate palette. Audio: gusting wind, dripping water, one rolling clap of distant thunder.",
+  "title": "Storm Light Over Open Moorland",
+  "summary": "After the rain, the camera tilts down from a black cloud base to a shaft of sun crossing wet heather.",
+  "why": "The shot is really about one light event, so the prompt names it precisely — a single gap in the cloud — and lets the tilt carry the reveal rather than a cut. Saying what the shadow does gives the model a moving element on an otherwise static hillside, and the contrast and palette notes protect the wet, high-dynamic-range look that makes storm light read as storm light.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/storm-light-over-moorland",
+    "generator": "https://callirra.com/seedance2.5?atlas=storm-light-over-moorland&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

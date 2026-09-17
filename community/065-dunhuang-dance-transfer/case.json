@@ -1,0 +1,37 @@
+{
+  "slug": "dunhuang-dance-transfer",
+  "position": 65,
+  "category": "dance-music",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/dunhuang-dance-transfer.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "dance music",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Referencing the character movements in @Video 1, generate a dance video featuring a character wearing Dunhuang-style attire in front of the Mogao Caves.",
+  "title": "Dance Motion Transfer",
+  "summary": "Using a real dancer's motion video as reference, precisely transfer the movements to a target character, aligning motion paths, rhythm, and limb details while r",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/dunhuang-dance-transfer",
+    "generator": "https://callirra.com/seedance2.5?atlas=dunhuang-dance-transfer&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

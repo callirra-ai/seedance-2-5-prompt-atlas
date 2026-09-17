@@ -1,0 +1,37 @@
+{
+  "slug": "woman-running-on-treadmill-at-sunset",
+  "position": 84,
+  "category": "nature-landscape",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Not Real Women",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/NotRealWomenAI/status/2092064754026402270",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/woman-running-on-treadmill-at-sunset.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "nature landscape",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "woman running on a treadmill in a modern workout room of a modern mansion with a California beach view during golden hour sunset. cinematic, photorealistic, epic",
+  "title": "Woman Running on Treadmill at Sunset",
+  "summary": "A photorealistic cinematic scene of a woman running on a treadmill in a modern mansion gym with a California beach view during golden hour.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/woman-running-on-treadmill-at-sunset",
+    "generator": "https://callirra.com/seedance2.5?atlas=woman-running-on-treadmill-at-sunset&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

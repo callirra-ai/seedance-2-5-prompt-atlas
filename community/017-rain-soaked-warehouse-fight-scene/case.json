@@ -1,0 +1,37 @@
+{
+  "slug": "rain-soaked-warehouse-fight-scene",
+  "position": 17,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Jason Heaton",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/JasonHeatony7/status/2088369662295695610",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/rain-soaked-warehouse-fight-scene.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "30-second ultra-realistic cinematic fight scene, 16:9. Two adult male fighters face off inside a rain-soaked abandoned warehouse at night. Keep the SAME two men, clothing, and appearances throughout. Intense",
+  "title": "Rain-Soaked Warehouse Fight Scene",
+  "summary": "A prompt for a 30-second ultra-realistic cinematic fight scene between two men in a rainy abandoned warehouse.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/rain-soaked-warehouse-fight-scene",
+    "generator": "https://callirra.com/seedance2.5?atlas=rain-soaked-warehouse-fight-scene&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

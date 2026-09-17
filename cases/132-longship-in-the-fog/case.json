@@ -1,0 +1,30 @@
+{
+  "slug": "longship-in-the-fog",
+  "position": 132,
+  "category": "historical-fantasy",
+  "scene": "image-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "viking longship prompt",
+    "image to video costume reference",
+    "fog at sea cinematic prompt",
+    "historical ai video prompt"
+  ],
+  "prompt": "Keep the ship, crew and costume details exactly as in the reference image. Oars bite together in slow rhythm, the longship pushes through flat fog, and one crew member at the bow turns to look back along the hull. The camera drifts forward past the shield rail at water level, then tilts up the mast in one move. Cold grey dawn, no visible horizon, spray beading on tarred planks and wool cloaks. Oar creak, water slap, low wind.",
+  "title": "Longship in the Fog",
+  "summary": "A longship pushes through flat fog, oars biting together, in a reference-locked image-to-video shot.",
+  "why": "Image-to-video is where period costumes either hold or fall apart, so the first sentence locks clothing, crew and ship before any motion is described. The only motion asked for is rowing and one head turn, which is what a five-second clip can actually sustain. Fog does the heavy lifting for atmosphere and hides anything the reference does not cover.",
+  "reference_note": "Upload a costume or character reference — a full-body shot of a period wool and leather outfit works best, ideally with the ship or a similar timber hull behind it. Avoid reference images with modern clothing, visible plastic or bright colours, because the model carries those straight through into the shot.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/longship-in-the-fog",
+    "generator": "https://callirra.com/seedance2.5?atlas=longship-in-the-fog&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

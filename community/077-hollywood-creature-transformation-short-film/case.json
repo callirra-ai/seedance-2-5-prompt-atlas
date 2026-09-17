@@ -1,0 +1,37 @@
+{
+  "slug": "hollywood-creature-transformation-short-film",
+  "position": 77,
+  "category": "nature-landscape",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "auqib",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/auqibhabib/status/2098103270086725812",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/hollywood-creature-transformation-short-film.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "nature landscape",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Cinematic Hollywood-style creature-transformation short film, dramatic and emotionally grounded, edited in quick intercut segments with strategic slow-motion beats during key action moments. > [0-3s] Close-up on a man's face in a dark forest",
+  "title": "Hollywood Creature Transformation Short Film",
+  "summary": "A prompt for a cinematic short film featuring a dramatic creature transformation with quick intercuts and slow-motion action beats.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/hollywood-creature-transformation-short-film",
+    "generator": "https://callirra.com/seedance2.5?atlas=hollywood-creature-transformation-short-film&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

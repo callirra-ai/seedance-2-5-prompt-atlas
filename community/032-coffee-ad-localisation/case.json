@@ -1,0 +1,37 @@
+{
+  "slug": "coffee-ad-localisation",
+  "position": 32,
+  "category": "product-commercial",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/coffee-ad-localisation.mp4",
+  "settings": {
+    "duration_seconds": 12,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 466,
+  "keywords": [
+    "product commercial",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "@Image 1 is the product image, @Image 2 is the host and scene image. The host waves their hands in sync with the lines while speaking. The expression is genuine and natural.\n0-2 seconds: Fixed shot of @Image 2, the host speaks to the camera in Chinese, the line is \"The first cup of coffee in the morning, can't wait.\".\n(2–5s) Press the switch, fixed shot, the line is \"Press once, coffee in 3 seconds.\"\n(5–9s) Continue looking at the camera and speaking, the line is \"Office, business trips, late-night work—freshly ground coffee always with you.\"\n(9–12s) Look at the camera and speak, the line is \"The lifesaver for workers, limited-time price drop.\"\nReplace the person in the video with an American female, and change the copy voiceover to English.\nReplace the person in the video with a Spanish male, and change the copy voiceover to Spanish.\nReplace the person in the video with an Indonesian female, and change the copy voiceover to Indonesian.\nReplace the person in the video with a Malaysian male, and change the copy voiceover to Malaysian.",
+  "title": "Localization For Overseas Ads",
+  "summary": "Quickly produce multi-region versions by changing ethnicity, product, or copy while keeping shots and rhythm.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/coffee-ad-localisation",
+    "generator": "https://callirra.com/seedance2.5?atlas=coffee-ad-localisation&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

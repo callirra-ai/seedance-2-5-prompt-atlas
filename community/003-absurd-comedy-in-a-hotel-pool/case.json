@@ -1,0 +1,37 @@
+{
+  "slug": "absurd-comedy-in-a-hotel-pool",
+  "position": 3,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Alpha Mom",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/YourAlphaMom/status/2088749172543410403",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/absurd-comedy-in-a-hotel-pool.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Photorealistic absurd surreal comedy scene in a small indoor hotel pool. Low-budget real-world environment: tiled pool, metal ladders, fluorescent lighting, depth markers on the wall, white plastic chairs, a vending machine in the background",
+  "title": "Absurd Comedy In A Hotel Pool",
+  "summary": "A prompt for generating a photorealistic, low-budget surreal comedy scene set in a small indoor hotel pool.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/absurd-comedy-in-a-hotel-pool",
+    "generator": "https://callirra.com/seedance2.5?atlas=absurd-comedy-in-a-hotel-pool&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

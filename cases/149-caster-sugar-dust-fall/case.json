@@ -1,0 +1,29 @@
+{
+  "slug": "caster-sugar-dust-fall",
+  "position": 149,
+  "category": "asmr-macro",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "sugar pouring video",
+    "asmr powder prompt",
+    "macro dust fall",
+    "slit light macro"
+  ],
+  "prompt": "Fine white sugar leaves the lip of a spoon and falls as a continuous curtain, individual crystals catching and losing the light, mounding softly where they land. The camera sits below the stream, looking up through the falling dust. A narrow slit of light between two black flags cuts the curtain out of a dark backdrop, with only a soft top light for the mound. Airborne particles stay crisp and granular, mid-afternoon. Audio: a dry continuous hiss, then a soft pat as the pile settles.",
+  "title": "Caster Sugar Dust Fall",
+  "summary": "Fine sugar falls as a lit curtain through a slit of light, shot from below, with the dry hiss on.",
+  "why": "Powder is hard because it either renders as fog or as static noise, so the prompt asks for a continuous curtain with individual crystals catching and losing light, and keeps them granular rather than soft. Shooting from below turns the fall into a tall vertical shape, which is why the frame is 9:16. The narrow slit of light is the real technique here: two black flags isolate the stream so the grains have something to be bright against, and the audio pairs a continuous hiss with one soft landing beat.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/caster-sugar-dust-fall",
+    "generator": "https://callirra.com/seedance2.5?atlas=caster-sugar-dust-fall&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

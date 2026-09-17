@@ -1,0 +1,37 @@
+{
+  "slug": "dark-fantasy-energy-clash-sequence",
+  "position": 5,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Louis",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/louis_vuis/status/2088433834023116931",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/dark-fantasy-energy-clash-sequence.mp4",
+  "settings": {
+    "duration_seconds": 24,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 932,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "24s Live-Action Dark-Fantasy Energy Clash 16:9, 24 seconds, 24fps, ultra-realistic live action, cinematic multi-shot sequence, rapid readable cuts, no slow motion, photorealistic VFX, powerful physical impact",
+  "title": "Dark Fantasy Energy Clash Sequence",
+  "summary": "A prompt for a 24-second, ultra-realistic live-action cinematic sequence of a dark-fantasy energy clash.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/dark-fantasy-energy-clash-sequence",
+    "generator": "https://callirra.com/seedance2.5?atlas=dark-fantasy-energy-clash-sequence&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

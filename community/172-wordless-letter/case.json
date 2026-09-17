@@ -1,0 +1,37 @@
+{
+  "slug": "wordless-letter",
+  "position": 172,
+  "category": "story-dialogue",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/wordless-letter.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "story dialogue",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "A 30-second wordless visual story, imbued with the quiet elegance of the French countryside, set on a summer afternoon in Provence. A young woman in a beige linen dress finishes writing a letter by hand at an old wooden table in a stone cottage, then steps outside, walks along a gravel path through a sunflower field, and gently slips the letter into a vintage yellow mailbox at the village edge. The shot begins with a shallow depth-of-field close-up on the indoor table, passes through the doorway—where light gradually gives way to shadow—and finally pulls up and out to reveal a wide panoramic view of the golden valley. Only ambient sounds throughout—cicadas, wind, the rustle of pen on paper, and the soft click of the mailbox closing—like the lingering silence after sending a letter to a distant place.",
+  "title": "Wordless Narrative",
+  "summary": "From writing a letter indoors to posting it, the shots transition from shallow depth-of-field to a golden valley panorama, maintaining a consistent mood.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/wordless-letter",
+    "generator": "https://callirra.com/seedance2.5?atlas=wordless-letter&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

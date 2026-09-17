@@ -1,0 +1,29 @@
+{
+  "slug": "watercolour-train-commuter",
+  "position": 59,
+  "category": "anime-motion",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "watercolour anime prompt",
+    "train window scene",
+    "lo-fi anime loop",
+    "hand painted background"
+  ],
+  "prompt": "A lone commuter in a yellow raincoat leans her cheek against the window of a rural train, watching rice fields slide past. The camera tracks beside the carriage at window height, then eases into a close-up of her reflection as a tunnel mouth swallows the light. Late afternoon sun, warm gold melting into blue shadow. Loose watercolour animation with visible paper grain and bleeding edges, hand-painted backgrounds. Audio: rail clatter, a soft sigh, a distant crossing bell.",
+  "title": "Watercolour Train Commuter",
+  "summary": "A watercolour commuter watches the fields slide past until a tunnel swallows the light.",
+  "why": "Watercolour reads as watercolour mainly through paper grain and bleeding edges, so the rendering line names both and separates the hand-painted background from the animated figure. Tying the tracking move to a real object, the carriage, keeps the camera at a believable speed, and the tunnel gives the shot a natural ending inside five seconds. The crossing bell is written as one distant sound so it cannot fight the rail clatter.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/watercolour-train-commuter",
+    "generator": "https://callirra.com/seedance2.5?atlas=watercolour-train-commuter&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

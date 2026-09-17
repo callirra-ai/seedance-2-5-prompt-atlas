@@ -1,0 +1,29 @@
+{
+  "slug": "flock-lifts-off-water",
+  "position": 89,
+  "category": "animals-pets",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "480p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 87,
+  "keywords": [
+    "birds taking flight",
+    "flock lift off video",
+    "slow motion wings",
+    "wetland bird b-roll"
+  ],
+  "prompt": "Resting on a shallow lagoon, a dense raft of small wading birds suddenly bursts upward in one simultaneous wingbeat, splitting into two streams and settling into a tight turning formation. The camera whips up after them, then holds while they bank against the sky. It is the last ten minutes before sunrise: the water is pale grey, the birds dark against a deep blue band. Fast, urgent energy, slight blur on the nearest wings. Audio: a rush of wingbeats, water splashing, thin calls.",
+  "title": "Flock Lifting Off the Water",
+  "summary": "A raft of small wading birds on a lagoon bursts into flight, the camera whipping up after them.",
+  "why": "The burst lasts a fraction of a second, so the prompt describes it as one simultaneous wingbeat rather than a gradual take-off — that is what stops the flock dissolving into birds leaving one at a time. The camera whips up and then holds, which buys the formation screen time, and 480p suits the soft pre-sunrise tones without hiding the wing blur.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/flock-lifts-off-water",
+    "generator": "https://callirra.com/seedance2.5?atlas=flock-lifts-off-water&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

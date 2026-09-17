@@ -1,0 +1,29 @@
+{
+  "slug": "manga-panel-comes-alive",
+  "position": 54,
+  "category": "anime-motion",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "3:4",
+    "generate_audio": false
+  },
+  "credits": 195,
+  "keywords": [
+    "manga panel animation",
+    "comic page to video",
+    "halftone anime prompt",
+    "panel transition"
+  ],
+  "prompt": "Inked lines shiver across a black-and-white page, and the runner drawn inside the panel steps over the border into the next one, halftone dots rippling where he crosses. The camera looks straight down at the open spread and pulls back slowly as the gutters bend. One warm desk lamp pools on the page, the room dark around it. Monochrome manga rendering, halftone shading, hatching, crisp panel borders that flex like paper.",
+  "title": "Manga Panel Comes Alive",
+  "summary": "A manga panel comes alive: the inked runner steps over the border into the next panel.",
+  "why": "A panel-coming-alive shot fails when the model animates the drawing into 3D, so the medium is fixed first: halftone shading, hatching, borders that flex like paper. The top-down view of the spread is what sells the trick, because the gutter and the crossing are visible in the same frame at the same time. Only one action is requested, a single step across a border, which is small enough to finish cleanly in five seconds with no cut. The upright 3:4 frame matches the shape of a page.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/manga-panel-comes-alive",
+    "generator": "https://callirra.com/seedance2.5?atlas=manga-panel-comes-alive&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

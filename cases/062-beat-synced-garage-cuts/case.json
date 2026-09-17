@@ -1,0 +1,29 @@
+{
+  "slug": "beat-synced-garage-cuts",
+  "position": 62,
+  "category": "dance-music",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "1:1",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "beat sync video prompt",
+    "cut on the beat",
+    "solo dance loop",
+    "music video edit"
+  ],
+  "prompt": "One dancer in a concrete parking garage holds the same spot while the edit cuts on every kick drum: jacket changes, angle changes, hair changes, body never leaves frame. The camera never moves, locked at chest height and centred. One caged work lamp on a pillar throws a long shadow forward, floor dark, no fill. Cold industrial grade, slight grain. Audio: a four-on-the-floor kick with a hat on the offbeat.",
+  "title": "Beat-Synced Garage Cuts",
+  "summary": "One dancer, one locked frame, a cut on every kick: jacket and angle change, body stays.",
+  "why": "This is a cut-driven case, so everything that normally moves is frozen: camera locked, dancer centred, same spot. What changes on each kick is only costume and angle, which the model can swap without re-solving the body, and that is exactly why the shot survives a hard edit. The work lamp gives one long shadow to read the footwork against, and a four-on-the-floor kick with an offbeat hat tells the edit precisely where each cut belongs. The square frame keeps the pose centred on every social placement.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/beat-synced-garage-cuts",
+    "generator": "https://callirra.com/seedance2.5?atlas=beat-synced-garage-cuts&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

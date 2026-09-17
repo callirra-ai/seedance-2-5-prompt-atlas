@@ -1,0 +1,37 @@
+{
+  "slug": "live-action-tv-commercial",
+  "position": 94,
+  "category": "animals-pets",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": null,
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "official"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/live-action-tv-commercial.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "animals pets",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Produce a 30-second vertical home furnishing advertisement. The main product is a light gray-green modular sectional sofa with rounded curved lines, low thick cushions, paired with a beige blanket and brown pillows. The first 15 seconds are a pure white seamless studio product showcase: the sofa is displayed completely, the camera slowly pushes in close, pans horizontally, and moves laterally to show the outline and form, finally pulling back to a full shot and freeze. Lighting is even and soft, background is pure white and clean, no sweeping lights, no flash whites. The last 15 seconds transition into a warm-lit living room at dusk: the hostess, wearing beige knit loungewear, sits on the sofa reading a book, legs on the beige blanket; she gently places a coffee cup, a cat jumps onto the sofa; a child runs in and leans on her shoulder, the hostess looks down and smiles; at night, a floor lamp lights up, the three quietly lean on the sofa, the camera slowly pulls back and freezes, leaving space for the brand logo. The overall style is restrained, gentle, clean, with authentic and natural visuals.",
+  "title": "Live-Action TV Commercial",
+  "summary": "A single 30s vertical ad fully carrying brand narrative from product details to scene performance.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/live-action-tv-commercial",
+    "generator": "https://callirra.com/seedance2.5?atlas=live-action-tv-commercial&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

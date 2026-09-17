@@ -1,0 +1,30 @@
+{
+  "slug": "downtown-collapse-shockwave",
+  "position": 114,
+  "category": "vfx-scifi",
+  "scene": "image-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "480p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": false
+  },
+  "credits": 87,
+  "keywords": [
+    "city destruction prompt",
+    "shockwave vfx video",
+    "collapsing buildings prompt",
+    "image to video destruction"
+  ],
+  "prompt": "Grow the collapse already underway in the reference frame: same block, same camera height, same grey light. The shockwave rolls out from the far end, parked-car alarms kick on, glass bows inward and then bursts outward, and a blizzard of paper and dust crosses the empty street. The drone retreats straight back and rises slowly, keeping the avenue centred. Hazy late afternoon, dust-filtered sun, everything past the second block silhouetted.",
+  "title": "Downtown Collapse Shockwave",
+  "summary": "Your collapsing block, continued: the shockwave crosses, glass bursts outward, the drone retreats.",
+  "why": "The reference frame fixes the block and the light, so the prompt only has to describe propagation: shockwave, alarms, glass, paper. It states the street is empty, which stops the model filling the frame with people and keeps the shot advertiser-safe. This is also where 480p earns its place: dust and a retreating drone hide the resolution, so it is the case to draft cheaply before spending credits on a 720p re-run.",
+  "reference_note": "Upload a wide still of a city block that is already partly collapsing, shot from an elevated position, with no people in frame and no readable shopfront text. Avoid close-ups of damage and avoid any frame with crowds, because the clip will not remove what it is given.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/downtown-collapse-shockwave",
+    "generator": "https://callirra.com/seedance2.5?atlas=downtown-collapse-shockwave&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

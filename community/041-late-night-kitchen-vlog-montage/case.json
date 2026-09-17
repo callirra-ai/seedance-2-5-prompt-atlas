@@ -1,0 +1,37 @@
+{
+  "slug": "late-night-kitchen-vlog-montage",
+  "position": 41,
+  "category": "product-commercial",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Shore Lyn",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/Shorelyn_/status/2088447546230546444",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/late-night-kitchen-vlog-montage.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "product commercial",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "A late-night, intimate vlog montage shot with a wide-angle lens in a dimly lit kitchen. The subject is a young man with messy wavy dark hair wearing a casual gray hoodie.",
+  "title": "Late-Night Kitchen Vlog Montage",
+  "summary": "A prompt for creating a vlog-style montage of a young man making ramen in a dimly lit kitchen at night.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/late-night-kitchen-vlog-montage",
+    "generator": "https://callirra.com/seedance2.5?atlas=late-night-kitchen-vlog-montage&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

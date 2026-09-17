@@ -1,0 +1,29 @@
+{
+  "slug": "rain-street-magic-casting",
+  "position": 119,
+  "category": "vfx-scifi",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "magic casting prompt",
+    "water magic vfx",
+    "rain magic video prompt",
+    "spell casting effect"
+  ],
+  "prompt": "Both hands open over a rain puddle and the water answers: beads lift off the surface, gather into a spinning ring and harden into thin ice that holds for a single breath, then drops back as rain. The camera is handheld and close on the hands, racking focus from the puddle up to the ring and back down. Overcast drizzle, flat grey daylight, wet asphalt throwing pale reflections. Fantasy realism, fine skin and water detail. Audio: faint crackle, rain on stone.",
+  "title": "Rain Street Magic Casting",
+  "summary": "Magic over a rain puddle: water beads lift, gather into a ring of ice, then fall back as rain.",
+  "why": "Magic needs a physical anchor or it turns into abstract noise, so the effect is written as something water can be seen to do: beads lifting, a ring forming, ice holding for a breath, then rain again. Racking focus between the puddle and the ring keeps the viewer's eye on the hands, which is where a model renders most stably. Flat overcast daylight lets the ice read as a material with thickness rather than as a glow effect.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/rain-street-magic-casting",
+    "generator": "https://callirra.com/seedance2.5?atlas=rain-street-magic-casting&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

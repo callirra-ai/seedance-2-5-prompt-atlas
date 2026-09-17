@@ -7,70 +7,173 @@
     {
       "slug": "cinematic",
       "name": "Cinematic & film scenes",
-      "count": 11
+      "count": 27
     },
     {
       "slug": "product-commercial",
       "name": "Product & commercial",
-      "count": 11
+      "count": 21
     },
     {
       "slug": "anime-motion",
       "name": "Anime & stylised motion",
-      "count": 10
+      "count": 12
     },
     {
       "slug": "dance-music",
       "name": "Dance & music video",
-      "count": 10
+      "count": 11
     },
     {
       "slug": "nature-landscape",
       "name": "Nature & landscapes",
-      "count": 10
+      "count": 13
     },
     {
       "slug": "animals-pets",
       "name": "Animals & pets",
-      "count": 10
+      "count": 13
     },
     {
       "slug": "sports-action",
       "name": "Sports & action",
-      "count": 10
+      "count": 11
     },
     {
       "slug": "vfx-scifi",
       "name": "VFX & sci-fi",
-      "count": 10
+      "count": 12
     },
     {
       "slug": "historical-fantasy",
       "name": "Historical & fantasy",
-      "count": 10
+      "count": 15
     },
     {
       "slug": "urban-city",
       "name": "City & street",
-      "count": 10
+      "count": 13
     },
     {
       "slug": "asmr-macro",
       "name": "Macro & ASMR",
-      "count": 10
+      "count": 11
     },
     {
       "slug": "story-dialogue",
       "name": "Story & dialogue",
-      "count": 10
+      "count": 13
     }
   ],
   "cases": [
     {
-      "slug": "bridge-pursuit-headlights",
+      "slug": "1980s-japanese-game-show-obstacle-course-broadca",
       "position": 1,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "1980s Japanese Game-Show Obstacle Course Broadcast",
+      "summary": "A prompt for creating a 30-second video that mimics a classic 1980s Japanese game show with live-action footage and broadcast aesthetics.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create a 30-second authentic 1980s Japanese game-show broadcast sequence inspired by classic Japanese obstacle-course television. Realistic live-action footage, broadcast-camera aesthetics, natural handheld movement, analog film grain, slightly washed",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/1980s-japanese-game-show-obstacle-course-broadca",
+      "generator": "https://callirra.com/seedance2.5?atlas=1980s-japanese-game-show-obstacle-course-broadca&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "simeon-sanai",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/Naiknelofar788/status/2088690280979718295",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/1980s-japanese-game-show-obstacle-course-broadca.mp4",
+      "clip_file": "community/001-1980s-japanese-game-show-obstacle-course-broadca/output.mp4"
+    },
+    {
+      "slug": "2000s-tv-style-pool-party-montage",
+      "position": 2,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "2000s TV Style Pool Party Montage",
+      "summary": "A prompt for generating a fast, energetic montage of an outdoor pool party in the style of an early 2000s teen drama or reality TV show.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Generate a fast, energetic montage set at an outdoor pool party in the style of an early 2000s TV show. The footage should feel like it was shot for a teen drama / reality-TV / lifestyle series from the early",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/2000s-tv-style-pool-party-montage",
+      "generator": "https://callirra.com/seedance2.5?atlas=2000s-tv-style-pool-party-montage&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "beech",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/beechinour/status/2088736757802209676",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/2000s-tv-style-pool-party-montage.mp4",
+      "clip_file": "community/002-2000s-tv-style-pool-party-montage/output.mp4"
+    },
+    {
+      "slug": "absurd-comedy-in-a-hotel-pool",
+      "position": 3,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Absurd Comedy In A Hotel Pool",
+      "summary": "A prompt for generating a photorealistic, low-budget surreal comedy scene set in a small indoor hotel pool.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Photorealistic absurd surreal comedy scene in a small indoor hotel pool. Low-budget real-world environment: tiled pool, metal ladders, fluorescent lighting, depth markers on the wall, white plastic chairs, a vending machine in the background",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/absurd-comedy-in-a-hotel-pool",
+      "generator": "https://callirra.com/seedance2.5?atlas=absurd-comedy-in-a-hotel-pool&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Alpha Mom",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/YourAlphaMom/status/2088749172543410403",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/absurd-comedy-in-a-hotel-pool.mp4",
+      "clip_file": "community/003-absurd-comedy-in-a-hotel-pool/output.mp4"
+    },
+    {
+      "slug": "bridge-pursuit-headlights",
+      "position": 4,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Bridge Pursuit Headlights",
       "summary": "A telephoto pursuit in 21:9: a coupe weaves across a dusk bridge while the lens pans with the traffic.",
       "config": {
@@ -91,10 +194,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=bridge-pursuit-headlights&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "edit-suite-screen-glow",
-      "position": 2,
+      "slug": "dark-fantasy-energy-clash-sequence",
+      "position": 5,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Dark Fantasy Energy Clash Sequence",
+      "summary": "A prompt for a 24-second, ultra-realistic live-action cinematic sequence of a dark-fantasy energy clash.",
+      "config": {
+        "resolution": "720p",
+        "duration": "24",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 932,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "24s Live-Action Dark-Fantasy Energy Clash 16:9, 24 seconds, 24fps, ultra-realistic live action, cinematic multi-shot sequence, rapid readable cuts, no slow motion, photorealistic VFX, powerful physical impact",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/dark-fantasy-energy-clash-sequence",
+      "generator": "https://callirra.com/seedance2.5?atlas=dark-fantasy-energy-clash-sequence&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Louis",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/louis_vuis/status/2088433834023116931",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/dark-fantasy-energy-clash-sequence.mp4",
+      "clip_file": "community/005-dark-fantasy-energy-clash-sequence/output.mp4"
+    },
+    {
+      "slug": "edit-suite-screen-glow",
+      "position": 6,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Edit Suite Screen Glow",
       "summary": "A five-second pull-back in a dark edit suite, lit only by a flickering monitor and a red standby lamp.",
       "config": {
@@ -115,10 +253,79 @@
       "generator": "https://callirra.com/seedance2.5?atlas=edit-suite-screen-glow&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "hollywood-needed-a-crew-for-this-your-agent",
+      "position": 7,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Hollywood Needed A Crew For This. Your Agent",
+      "summary": "Hollywood needed a crew for this.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Hollywood needed a crew for this. Your agent only needs a prompt. We added Seedance 2.5 to AIsa, bringing cinematic video generation straight into your agent workflow. Action, lighting, motion, atmosphere. You describe the scene, Seedance handles the rest. One key. Pay only",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/hollywood-needed-a-crew-for-this-your-agent",
+      "generator": "https://callirra.com/seedance2.5?atlas=hollywood-needed-a-crew-for-this-your-agent&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Alsa",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/AIsaOneHQ/status/2085911580273696933",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/hollywood-needed-a-crew-for-this-your-agent.mp4",
+      "clip_file": "community/007-hollywood-needed-a-crew-for-this-your-agent/output.mp4"
+    },
+    {
+      "slug": "japanese-summer-evening-slice-of-life",
+      "position": 8,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Japanese Summer Evening Slice-of-Life",
+      "summary": "An ultra-realistic cinematic video prompt depicting a young woman in a peaceful Japanese neighborhood at dusk.",
+      "config": {
+        "resolution": "720p",
+        "duration": "20",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 777,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create an ultra-realistic cinematic slice-of-life video set in a peaceful Japanese residential neighborhood during a warm summer evening. Main subject: A young Japanese woman in her early 20s, natural appearance,",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/japanese-summer-evening-slice-of-life",
+      "generator": "https://callirra.com/seedance2.5?atlas=japanese-summer-evening-slice-of-life&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Maverick | AI",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/RizwanAly07/status/2092808426024022269",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/japanese-summer-evening-slice-of-life.mp4",
+      "clip_file": "community/008-japanese-summer-evening-slice-of-life/output.mp4"
+    },
+    {
       "slug": "midnight-diner-encounter",
-      "position": 3,
+      "position": 9,
       "category": "cinematic",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Midnight Diner Encounter",
       "summary": "A diner photo extended into a slow lateral dolly: one glance, two cups, steam in tungsten light.",
       "config": {
@@ -140,10 +347,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=midnight-diner-encounter&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "neon-rain-alley-chase",
-      "position": 4,
+      "slug": "motorcyclist-vs-giant-octopus-on-bridge",
+      "position": 10,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Motorcyclist vs. Giant Octopus on Bridge",
+      "summary": "A cinematic action sequence of a lone motorcyclist trapped on a bridge as a giant octopus erupts from the water.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Generate a 30-second cinematic action sequence, one continuous visual narrative following KAITO, a lone motorcyclist, trapped on a busy two-way bridge when KYODAKO, a colossal octopus, suddenly erupts from the water and destroys the bridge.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/motorcyclist-vs-giant-octopus-on-bridge",
+      "generator": "https://callirra.com/seedance2.5?atlas=motorcyclist-vs-giant-octopus-on-bridge&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "harryskomi",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/HarrysKomi/status/2089899950134153457",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/motorcyclist-vs-giant-octopus-on-bridge.mp4",
+      "clip_file": "community/010-motorcyclist-vs-giant-octopus-on-bridge/output.mp4"
+    },
+    {
+      "slug": "neon-rain-alley-chase",
+      "position": 11,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Neon Rain Alley Chase",
       "summary": "A courier sprints through a rain-soaked neon alley, camera low and close, one unbroken take.",
       "config": {
@@ -166,9 +408,10 @@
     },
     {
       "slug": "one-take-corridor-walk",
-      "position": 5,
+      "position": 12,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "One-Take Corridor Walk",
       "summary": "One unbroken gimbal take: two colleagues walk a hotel corridor while the camera leads them backward.",
       "config": {
@@ -190,10 +433,79 @@
       "generator": "https://callirra.com/seedance2.5?atlas=one-take-corridor-walk&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "phone-video-to-fast-fashion-montage",
+      "position": 13,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Phone Video To Fast Fashion Montage",
+      "summary": "A photorealistic 15-second vertical comedy clip shot like a phone video, featuring a character named Maya in a fast fashion montage.",
+      "config": {
+        "resolution": "720p",
+        "duration": "15",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 583,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "15 second vertical comedy clip, 9:16, photorealistic, shot like a real phone video that turns into a fast fashion montage. Cut driven, handheld, no music. MAYA. 27, olive skin, long chestnut brown wavy hair with sun lightened",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/phone-video-to-fast-fashion-montage",
+      "generator": "https://callirra.com/seedance2.5?atlas=phone-video-to-fast-fashion-montage&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "BMX",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/bmx_ai13/status/2088746978641609156",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/phone-video-to-fast-fashion-montage.mp4",
+      "clip_file": "community/013-phone-video-to-fast-fashion-montage/output.mp4"
+    },
+    {
+      "slug": "photographer-prepares-equipment-vlog",
+      "position": 14,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Photographer Prepares Equipment Vlog",
+      "summary": "A prompt for creating a cinematic vlog of a female photographer preparing her equipment.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create an ultra-photorealistic cinematic professional photographer lifestyle vlog. STORY: A female professional photographer prepares her camera equipment at",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/photographer-prepares-equipment-vlog",
+      "generator": "https://callirra.com/seedance2.5?atlas=photographer-prepares-equipment-vlog&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Elsa Ai",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/ElsaSofia__AI/status/2092418643212795940",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/photographer-prepares-equipment-vlog.mp4",
+      "clip_file": "community/014-photographer-prepares-equipment-vlog/output.mp4"
+    },
+    {
       "slug": "platform-farewell-train",
-      "position": 6,
+      "position": 15,
       "category": "cinematic",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Platform Farewell Train",
       "summary": "A station photo sent into motion: the lens racks focus from a raised hand to train windows sliding past.",
       "config": {
@@ -215,9 +527,10 @@
     },
     {
       "slug": "pre-dawn-kitchen-letter",
-      "position": 7,
+      "position": 16,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Pre-Dawn Kitchen Letter",
       "summary": "A quiet pre-dawn beat: one slow push-in on a woman reading a single page under a warm bulb.",
       "config": {
@@ -238,10 +551,79 @@
       "generator": "https://callirra.com/seedance2.5?atlas=pre-dawn-kitchen-letter&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "rehearsal-mirror-turn",
-      "position": 8,
+      "slug": "rain-soaked-warehouse-fight-scene",
+      "position": 17,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Rain-Soaked Warehouse Fight Scene",
+      "summary": "A prompt for a 30-second ultra-realistic cinematic fight scene between two men in a rainy abandoned warehouse.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "30-second ultra-realistic cinematic fight scene, 16:9. Two adult male fighters face off inside a rain-soaked abandoned warehouse at night. Keep the SAME two men, clothing, and appearances throughout. Intense",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rain-soaked-warehouse-fight-scene",
+      "generator": "https://callirra.com/seedance2.5?atlas=rain-soaked-warehouse-fight-scene&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Jason Heaton",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/JasonHeatony7/status/2088369662295695610",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/rain-soaked-warehouse-fight-scene.mp4",
+      "clip_file": "community/017-rain-soaked-warehouse-fight-scene/output.mp4"
+    },
+    {
+      "slug": "realistic-early-2000s-korean-minidv-video",
+      "position": 18,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Realistic Early-2000s Korean MiniDV Video",
+      "summary": "A prompt to generate a realistic 30-second video mimicking authentic early-2000s Korean MiniDV footage found on an old camcorder.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create a highly realistic 30-second Seedance 2.5 video that feels like genuine early-2000s Korean MiniDV footage accidentally preserved on an old consumer camcorder. 16:9 aspect",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/realistic-early-2000s-korean-minidv-video",
+      "generator": "https://callirra.com/seedance2.5?atlas=realistic-early-2000s-korean-minidv-video&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Johnn",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/john_my07/status/2092455222350405757",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/realistic-early-2000s-korean-minidv-video.mp4",
+      "clip_file": "community/018-realistic-early-2000s-korean-minidv-video/output.mp4"
+    },
+    {
+      "slug": "rehearsal-mirror-turn",
+      "position": 19,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Rehearsal Mirror Turn",
       "summary": "An eight-second rehearsal beat: a handheld half-circle reveals the mirror and doubles the actor mid-line.",
       "config": {
@@ -263,9 +645,10 @@
     },
     {
       "slug": "service-tunnel-sprint",
-      "position": 9,
+      "position": 20,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Service Tunnel Sprint",
       "summary": "An eight-second tunnel sprint: a trolley camera retreats at knee height as a train headlight floods in.",
       "config": {
@@ -287,9 +670,10 @@
     },
     {
       "slug": "stairwell-heist-standoff",
-      "position": 10,
+      "position": 21,
       "category": "cinematic",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Stairwell Heist Standoff",
       "summary": "A heist beat held in one tilt: a hooded figure freezes on a stairwell landing as a torch beam climbs.",
       "config": {
@@ -310,10 +694,79 @@
       "generator": "https://callirra.com/seedance2.5?atlas=stairwell-heist-standoff&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "steampunk-clockwork-30s-one-take",
+      "position": 22,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Steampunk Clockwork — 30s One-Take",
+      "summary": "A 30-second steampunk miniature 3D sequence with continuous orbiting, pass-through camera moves.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A high-end, deeply cinematic 30-second 3D motion-graphics sequence in refined steampunk and vintage-miniature style, with continuous fluid orbiting and pass-through camera moves. [0-10s] Macro close-up of an antique brass clock face that unfolds layer by layer into meshing rotating gear rings and volumetric fog. The camera pierces down through the gears; a mechanical ornithopter spirals up from a miniature canyon of stacked weathered old books. [10-20s] The camera glides forward tracking the ornithopter, seamlessly passing into a fast-spinning ornate brass zoetrope projecting galloping mechanical-horse light. The light leaps out and the scene becomes a brass floating cable car on glimmering copper rails through a forest of gears, bathed in cinematic golden-hour light. [20-30s] The camera pans elegantly down; below appears an exquisite clockwork wooden sailing ship cutting deep-blue glass-textured waves, which morph into a glowing giant moon with lantern-holding explorer silhouettes trekking a crystal-vein ridge under stars. The camera spirals smoothly back through ethereal clouds to the ticking brass clock face. Hyper-real mechanical textures, rich brass and gold tones, cinematic shallow depth of field, smooth seamless pass-through camerawork, epic fantastical adventure atmosphere.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/steampunk-clockwork-30s-one-take",
+      "generator": "https://callirra.com/seedance2.5?atlas=steampunk-clockwork-30s-one-take&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Volcengine Ark",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "official"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/steampunk-clockwork-30s-one-take.mp4",
+      "clip_file": "community/022-steampunk-clockwork-30s-one-take/output.mp4"
+    },
+    {
+      "slug": "stormy-beach-cinematic-action-scene",
+      "position": 23,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Stormy Beach Cinematic Action Scene",
+      "summary": "A prompt for a serious, dramatic 30-second video set on a dark, stormy beach at dusk.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create a 30-second cinematic realistic action video with serious dramatic tone, not comedy. Core visual tone A stormy beach at late evening before nightfall. It is dark and cloudy, with rain and thunder in",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/stormy-beach-cinematic-action-scene",
+      "generator": "https://callirra.com/seedance2.5?atlas=stormy-beach-cinematic-action-scene&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Alpha Mom",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/YourAlphaMom/status/2097754490652754080",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/stormy-beach-cinematic-action-scene.mp4",
+      "clip_file": "community/023-stormy-beach-cinematic-action-scene/output.mp4"
+    },
+    {
       "slug": "tailor-measuring-hands",
-      "position": 11,
+      "position": 24,
       "category": "cinematic",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Tailor Measuring Hands",
       "summary": "A tailor-shop photo animated with one slow arc: tape along a shoulder, chalk on wool, soft window light.",
       "config": {
@@ -334,10 +787,113 @@
       "generator": "https://callirra.com/seedance2.5?atlas=tailor-measuring-hands&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "the-video-lab-the-rivalry-between-two",
+      "position": 25,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "The Video Lab - The Rivalry Between Two",
+      "summary": "THE VIDEO LAB - The rivalry between two young alchemists.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "THE VIDEO LAB - The rivalry between two young alchemists. This was created entirely with Dreamina Seedance 2.5, the newest video model now live on Dreamina AI; the model's official platform, built for cinema-grade, high-aesthetic visuals with real consistency across every shot.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/the-video-lab-the-rivalry-between-two",
+      "generator": "https://callirra.com/seedance2.5?atlas=the-video-lab-the-rivalry-between-two&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Skipper VanderWall",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/RobotCleopatra/status/2085459960532451729",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/the-video-lab-the-rivalry-between-two.mp4",
+      "clip_file": "community/025-the-video-lab-the-rivalry-between-two/output.mp4"
+    },
+    {
+      "slug": "time-freeze-comedy-action-scene",
+      "position": 26,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Time Freeze Comedy Action Scene",
+      "summary": "A prompt for a 30-second, cinematic, photorealistic video featuring Hollywood-style comedy action and time freeze visual effects.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "FORMAT: 30 seconds | 16:9 | 24fps cinematic | ultra photorealistic live action | Hollywood studio comedy action | realistic human anatomy | premium VFX time freeze | daytime natural light",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/time-freeze-comedy-action-scene",
+      "generator": "https://callirra.com/seedance2.5?atlas=time-freeze-comedy-action-scene&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "BMX",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/bmx_ai13/status/2092370860082680234",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/time-freeze-comedy-action-scene.mp4",
+      "clip_file": "community/026-time-freeze-comedy-action-scene/output.mp4"
+    },
+    {
+      "slug": "to-understand-a-model-i-usually-do-a",
+      "position": 27,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "To Understand A Model, I Usually Do A",
+      "summary": "To understand a model, I usually do a brief test.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "To understand a model, I usually do a brief test. Meaning I give it a sort of creative brief or guideline without specifying details like environment, camera movement, and so on. So, I just let the model have the freedom to fill in the gaps. I usually do this to see how",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/to-understand-a-model-i-usually-do-a",
+      "generator": "https://callirra.com/seedance2.5?atlas=to-understand-a-model-i-usually-do-a&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "taruma sakti",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/tarumainfo/status/2085906536732508406",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/to-understand-a-model-i-usually-do-a.mp4",
+      "clip_file": "community/027-to-understand-a-model-i-usually-do-a/output.mp4"
+    },
+    {
       "slug": "burger-sizzle-flame-grill",
-      "position": 12,
+      "position": 28,
       "category": "product-commercial",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Burger Sizzle and Flame",
       "summary": "A patty searing on a flat-top, steam cut by a hard hood light, one rise from plate to flame.",
       "config": {
@@ -359,9 +915,10 @@
     },
     {
       "slug": "chilled-orange-soda-crack-open",
-      "position": 13,
+      "position": 29,
       "category": "product-commercial",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Chilled Soda Can Crack-Open",
       "summary": "Your can photo comes alive: the ring pull lifts, mist escapes, one slow arc keeps the label readable.",
       "config": {
@@ -383,9 +940,10 @@
     },
     {
       "slug": "chocolate-unwrap-snap-beat",
-      "position": 14,
+      "position": 30,
       "category": "product-commercial",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Chocolate Unwrap and Snap",
       "summary": "Eight seconds of foil, snap and crumb: a warm low-key unwrap that keeps the wrapper facing the lens.",
       "config": {
@@ -406,10 +964,79 @@
       "generator": "https://callirra.com/seedance2.5?atlas=chocolate-unwrap-snap-beat&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "cinematic-luxury-perfume-commercial",
+      "position": 31,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Cinematic Luxury Perfume Commercial",
+      "summary": "A prompt for a cinematic commercial featuring an elegant woman presenting a sleek black perfume bottle in a minimalist studio.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A cinematic luxury perfume commercial featuring an elegant woman in a minimalist studio wearing a sophisticated black outfit, presenting a sleek black perfume bottle to the camera; close-up macro shots highlight the bottle and spray nozzle",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/cinematic-luxury-perfume-commercial",
+      "generator": "https://callirra.com/seedance2.5?atlas=cinematic-luxury-perfume-commercial&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Talia",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/TaliaAariz/status/2097791048147677313",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/cinematic-luxury-perfume-commercial.mp4",
+      "clip_file": "community/031-cinematic-luxury-perfume-commercial/output.mp4"
+    },
+    {
+      "slug": "coffee-ad-localisation",
+      "position": 32,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Localization For Overseas Ads",
+      "summary": "Quickly produce multi-region versions by changing ethnicity, product, or copy while keeping shots and rhythm.",
+      "config": {
+        "resolution": "720p",
+        "duration": "12",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 466,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "@Image 1 is the product image, @Image 2 is the host and scene image. The host waves their hands in sync with the lines while speaking. The expression is genuine and natural.\n0-2 seconds: Fixed shot of @Image 2, the host speaks to the camera in Chinese, the line is \"The first cup of coffee in the morning, can't wait.\".\n(2–5s) Press the switch, fixed shot, the line is \"Press once, coffee in 3 seconds.\"\n(5–9s) Continue looking at the camera and speaking, the line is \"Office, business trips, late-night work—freshly ground coffee always with you.\"\n(9–12s) Look at the camera and speak, the line is \"The lifesaver for workers, limited-time price drop.\"\nReplace the person in the video with an American female, and change the copy voiceover to English.\nReplace the person in the video with a Spanish male, and change the copy voiceover to Spanish.\nReplace the person in the video with an Indonesian female, and change the copy voiceover to Indonesian.\nReplace the person in the video with a Malaysian male, and change the copy voiceover to Malaysian.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/coffee-ad-localisation",
+      "generator": "https://callirra.com/seedance2.5?atlas=coffee-ad-localisation&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/coffee-ad-localisation.mp4",
+      "clip_file": "community/032-coffee-ad-localisation/output.mp4"
+    },
+    {
       "slug": "coffee-pour-hero-shot",
-      "position": 15,
+      "position": 33,
       "category": "product-commercial",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Coffee Pour Hero Shot",
       "summary": "Your product photo, turned into a five-second hero shot: a slow pour, rising steam, one clean camera push.",
       "config": {
@@ -432,9 +1059,10 @@
     },
     {
       "slug": "earbud-case-hinge-macro",
-      "position": 16,
+      "position": 34,
       "category": "product-commercial",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Earbud Case Hinge Macro",
       "summary": "An unbranded charging case opens under one sweeping highlight, probed at macro scale for eight seconds.",
       "config": {
@@ -456,9 +1084,10 @@
     },
     {
       "slug": "face-serum-drop-reveal",
-      "position": 17,
+      "position": 35,
       "category": "product-commercial",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Face Serum Drop Reveal",
       "summary": "A serum drop falls onto skin under shadowless light while the bottle label stays perfectly readable.",
       "config": {
@@ -479,10 +1108,147 @@
       "generator": "https://callirra.com/seedance2.5?atlas=face-serum-drop-reveal&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "fashion-lookbook-relay",
+      "position": 36,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Fashion Brand Short Film",
+      "summary": "Feeds multiple clothing, handbag, footwear items with model and scene references for free combination into multi-outfit, multi-scene fashion shots.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Please generate a 30-second one-take video. Script: 6 models enter the frame one after another in a relay, the entire shot moves seamlessly through, with music beats switching outfits. @Image 1 wearing @Image 2 in the scene of @Image 3, sound effect reference @Audio 1. @Image 3 wearing @Image 4, wearing the hat from @Image 5, putting on @Image 6 sunglasses, walking out holding coffee, background is @Image 7 displaying @Image 8, sound effect reference @Audio 2. @Image 9 in the scene of @Image 10, wearing @Image 11 and @Image 12 striking a pose. @Image 13 carrying @Image 14, wearing @Image 15 walking in @Image 16, sound effect reference @Audio 3. @Image 17 wearing @Image 18 on head, carrying @Image 19, walking in @Image 20, sound effect reference @Audio 4. @Image 21 wearing @Image 22 walking the runway in @Image 23, sound effect reference @Audio 5.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/fashion-lookbook-relay",
+      "generator": "https://callirra.com/seedance2.5?atlas=fashion-lookbook-relay&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/fashion-lookbook-relay.mp4",
+      "clip_file": "community/036-fashion-lookbook-relay/output.mp4"
+    },
+    {
+      "slug": "handheld-shot-from-crowded-sand-dune",
+      "position": 37,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Handheld Shot from Crowded Sand Dune",
+      "summary": "A prompt for creating a 15-second vertical video of a crowded sand dune using a handheld smartphone shot style.",
+      "config": {
+        "resolution": "720p",
+        "duration": "15",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 583,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create a photorealistic 15 second vertical 16:9 video using the uploaded reference for scenery, color, crowd arrangement, and camera movement. One uninterrupted handheld smartphone shot from a crowded sand dune overlooking",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/handheld-shot-from-crowded-sand-dune",
+      "generator": "https://callirra.com/seedance2.5?atlas=handheld-shot-from-crowded-sand-dune&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "BMX",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/bmx_ai13/status/2098219977803190372",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/handheld-shot-from-crowded-sand-dune.mp4",
+      "clip_file": "community/037-handheld-shot-from-crowded-sand-dune/output.mp4"
+    },
+    {
+      "slug": "headphone-ad-transfer",
+      "position": 38,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Headphone Ad: Cinematic Motion And Rhythm Transfer",
+      "summary": "Create a headphone ad by transferring the camera work and editing rhythm from a reference video.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Reference the camera movement techniques and editing rhythm of @Video 1 to generate an advertising short film for the headphones @Image. Adapt to scenes that match the product's tone, emphasizing modernity, simplicity, and a sense of technology. The switching points between product close-ups and scene panoramas are consistent with the original film, maintaining the same motion speed and transition methods.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/headphone-ad-transfer",
+      "generator": "https://callirra.com/seedance2.5?atlas=headphone-ad-transfer&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/headphone-ad-transfer.mp4",
+      "clip_file": "community/038-headphone-ad-transfer/output.mp4"
+    },
+    {
+      "slug": "hyper-realistic-smartphone-cinema-footage",
+      "position": 39,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Hyper-Realistic Smartphone Cinema Footage",
+      "summary": "A prompt for generating hyper-realistic handheld smartphone footage from inside a packed 4D cinema.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "[STYLE] Hyper-realistic handheld smartphone footage filmed by an audience member inside a packed 4D premium cinema, shot from the side seats, in one continuous unbroken take with no cuts. Raw documentary \"phone-in-the-theatre\" aesthetic: slight",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/hyper-realistic-smartphone-cinema-footage",
+      "generator": "https://callirra.com/seedance2.5?atlas=hyper-realistic-smartphone-cinema-footage&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Shore Lyn",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/Shorelyn_/status/2089169790237814791",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/hyper-realistic-smartphone-cinema-footage.mp4",
+      "clip_file": "community/039-hyper-realistic-smartphone-cinema-footage/output.mp4"
+    },
+    {
       "slug": "iced-tea-pour-over-ice",
-      "position": 18,
+      "position": 40,
       "category": "product-commercial",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Iced Tea Pour Over Ice",
       "summary": "Iced tea over ice in morning window light, one pull-back that keeps the label legible throughout.",
       "config": {
@@ -503,10 +1269,113 @@
       "generator": "https://callirra.com/seedance2.5?atlas=iced-tea-pour-over-ice&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "perfume-bottle-light-sweep",
-      "position": 19,
+      "slug": "late-night-kitchen-vlog-montage",
+      "position": 41,
       "category": "product-commercial",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Late-Night Kitchen Vlog Montage",
+      "summary": "A prompt for creating a vlog-style montage of a young man making ramen in a dimly lit kitchen at night.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A late-night, intimate vlog montage shot with a wide-angle lens in a dimly lit kitchen. The subject is a young man with messy wavy dark hair wearing a casual gray hoodie.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/late-night-kitchen-vlog-montage",
+      "generator": "https://callirra.com/seedance2.5?atlas=late-night-kitchen-vlog-montage&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Shore Lyn",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/Shorelyn_/status/2088447546230546444",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/late-night-kitchen-vlog-montage.mp4",
+      "clip_file": "community/041-late-night-kitchen-vlog-montage/output.mp4"
+    },
+    {
+      "slug": "living-room-restyle",
+      "position": 42,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Home Renovation Plan Demo",
+      "summary": "With a simple prompt, the model reinterprets new decor styles on the same space, switching materials, furniture, colors, and lighting while keeping layout and c",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Use the input video as the exact source and preserve the original camera movement, timing, composition, room layout, lighting, shadows, furniture positions, and all objects.\nOnly edit two materials in the living room:\n1. Replace the light fabric sofa on the right side of the room with a rich brown leather sofa. Keep the exact same sofa shape, size, position, cushion layout, armrests, backrest, and perspective. The new sofa should look like realistic brown leather, with natural leather grain, subtle wrinkles, stitching, soft glossy highlights, and physically believable reflections from the window light.\n\n2. Replace the visible warm wooden floor with polished white marble flooring. Keep the exact same floor plane, perspective, scale, and room geometry. The marble should be white to light gray with natural subtle veins, realistic seams, and controlled polished reflections. The marble reflections should respond to the window light, furniture legs, plants, sofa base, and room shadows.\n\nEverything else must remain unchanged: the window, curtains, walls, wall art, TV, TV console, plants, rug, coffee table, books, radiator, shelves, doorframe, lighting, shadows, camera motion, and overall warm interior atmosphere. The rug and coffee table stay exactly where they are, on top of the new marble floor. The edit should look like a realistic interior renovation, not a new generated room.\n\nMaintain temporal consistency across the full video. The sofa and floor materials must remain stable from frame to frame with no flickering, warping, melting, or object changes. Preserve the original video’s natural daylight, warm tone, soft shadows, lens behavior, and smooth camera movement.\nNegative Prompt\nDo not change the room layout. Do not move furniture. Do not add or remove objects. Do not change the rug, coffee table, TV, plants, curtains, window, wall art, shelves, radiator, or doorframe. Do not change the camera movement. Do not change the sofa shape or size. Do not make the leather look plastic. Do not make the marble overly reflective like a mirror. Do not create broken or chaotic marble veins. Do not replace the rug with marble. Do not alter the walls or ceiling. No people, no text, no logo, no UI, no selection mask, no fantasy effect, no melting transition, no flickering.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/living-room-restyle",
+      "generator": "https://callirra.com/seedance2.5?atlas=living-room-restyle&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/living-room-restyle.mp4",
+      "clip_file": "community/042-living-room-restyle/output.mp4"
+    },
+    {
+      "slug": "morning-market-phone-vlog-sequence",
+      "position": 43,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Morning Market Phone Vlog Sequence",
+      "summary": "A prompt for generating a 15-second ultra-realistic video of a woman filming herself walking through an outdoor morning food market.",
+      "config": {
+        "resolution": "720p",
+        "duration": "15",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 583,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create a 15-second ultra-realistic candid phone-vlog sequence of a woman filming herself walking through an outdoor morning food market, buying one thing and carrying on walking. 16:9. SUBJECT: Woman in her",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/morning-market-phone-vlog-sequence",
+      "generator": "https://callirra.com/seedance2.5?atlas=morning-market-phone-vlog-sequence&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "beegnyc",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/beegnyc/status/2092369441904550336",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/morning-market-phone-vlog-sequence.mp4",
+      "clip_file": "community/043-morning-market-phone-vlog-sequence/output.mp4"
+    },
+    {
+      "slug": "perfume-bottle-light-sweep",
+      "position": 44,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Perfume Bottle Light Sweep",
       "summary": "A faceted perfume bottle on wet black stone, caustics thrown across the surface, one slider reveal.",
       "config": {
@@ -528,9 +1397,10 @@
     },
     {
       "slug": "silk-scarf-fall-fashion",
-      "position": 20,
+      "position": 45,
       "category": "product-commercial",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Silk Scarf Fall, Fashion",
       "summary": "A silk scarf falls in slow motion through striped golden-hour light, tracked down to the floor.",
       "config": {
@@ -552,9 +1422,10 @@
     },
     {
       "slug": "skincare-before-after-glow",
-      "position": 21,
+      "position": 46,
       "category": "product-commercial",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Skincare Before and After",
       "summary": "A ten-second vertical before-and-after: the same skin, one light sweep, no claims and no text.",
       "config": {
@@ -576,9 +1447,10 @@
     },
     {
       "slug": "sneaker-spin-reveal-studio",
-      "position": 22,
+      "position": 47,
       "category": "product-commercial",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Sneaker Spin Reveal, Studio",
       "summary": "A floating unbranded sneaker turns on a dark studio gradient, rim-lit so every material reads.",
       "config": {
@@ -599,10 +1471,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=sneaker-spin-reveal-studio&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "soda-sku-swap",
+      "position": 48,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "E-Commerce SKU Batch Reuse",
+      "summary": "Batch replace product styles/colors within the same shot, covering an entire SKU line with one shoot.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "product commercial",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "The soda beverage image is @Image 1, and the scene image is @Image 2. Showcase the soda beverage through close-up, near, medium, and long shots, with smooth lens connections and consistent subject.\n\nReplace the soda beverage bottle in @Video 1 with the pink beverage bottle from @Image 3.\n\nReplace the soda beverage bottle in @Video 2 with the purple beverage bottle from @Image 4.\n\nReplace the soda beverage bottle in @Video 3 with the green beverage bottle from @Image 5.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/soda-sku-swap",
+      "generator": "https://callirra.com/seedance2.5?atlas=soda-sku-swap&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/soda-sku-swap.mp4",
+      "clip_file": "community/048-soda-sku-swap/output.mp4"
+    },
+    {
       "slug": "cel-shaded-sword-draw",
-      "position": 23,
+      "position": 49,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Cel-Shaded Sword Draw",
       "summary": "One draw, one three-frame smear: a masked duelist clears her blade as the background erupts into speed lines.",
       "config": {
@@ -624,9 +1531,10 @@
     },
     {
       "slug": "cel-shaded-turn-to-camera",
-      "position": 24,
+      "position": 50,
       "category": "anime-motion",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Cel-Shaded Turn To Camera",
       "summary": "Your character sheet, turned to camera: she holds the design, then finds the lens.",
       "config": {
@@ -648,9 +1556,10 @@
     },
     {
       "slug": "chibi-teahouse-slip",
-      "position": 25,
+      "position": 51,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Chibi Teahouse Slip",
       "summary": "A chibi cook saves a stack of bowls with one foot, in flat colours and heavy squash.",
       "config": {
@@ -671,10 +1580,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=chibi-teahouse-slip&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "magical-girl-transformation",
-      "position": 26,
+      "slug": "crumbling-monastery-courtyard-at-dusk",
+      "position": 52,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Crumbling Monastery Courtyard at Dusk",
+      "summary": "A prompt for a cinematic 2.5D animation of a misty, crumbling mountain monastery courtyard at dusk.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "anime motion",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Cinematic 2.5D animation. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. WORLD: crumbling mountain monastery courtyard at dusk, mist rolling through broken stone pillars",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/crumbling-monastery-courtyard-at-dusk",
+      "generator": "https://callirra.com/seedance2.5?atlas=crumbling-monastery-courtyard-at-dusk&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "PixieVerse",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/itsPixieVerse/status/2092439850184249474",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/crumbling-monastery-courtyard-at-dusk.mp4",
+      "clip_file": "community/052-crumbling-monastery-courtyard-at-dusk/output.mp4"
+    },
+    {
+      "slug": "magical-girl-transformation",
+      "position": 53,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Magical Girl Transformation",
       "summary": "A transformation in one orbit and one hard cut: ribbon light, sparkles, a final landed pose.",
       "config": {
@@ -696,9 +1640,10 @@
     },
     {
       "slug": "manga-panel-comes-alive",
-      "position": 27,
+      "position": 54,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Manga Panel Comes Alive",
       "summary": "A manga panel comes alive: the inked runner steps over the border into the next panel.",
       "config": {
@@ -720,9 +1665,10 @@
     },
     {
       "slug": "mecha-hangar-launch",
-      "position": 28,
+      "position": 55,
       "category": "anime-motion",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Mecha Hangar Launch",
       "summary": "Your mecha sheet, launched: gantry steam, a hard drop, and a blue-flame climb out of the bay.",
       "config": {
@@ -744,9 +1690,10 @@
     },
     {
       "slug": "painted-market-continues",
-      "position": 29,
+      "position": 56,
       "category": "anime-motion",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Painted Market Street Continues",
       "summary": "Your painted frame kept alive: lanterns swing, steam turns, a cat crosses between the stalls.",
       "config": {
@@ -768,9 +1715,10 @@
     },
     {
       "slug": "retro-sports-anime-serve",
-      "position": 30,
+      "position": 57,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Retro Sports Anime Serve",
       "summary": "Retro TV sports anime: a volleyball smash held on the impact frame, then a slow replay tilt.",
       "config": {
@@ -792,9 +1740,10 @@
     },
     {
       "slug": "sumi-e-ink-dragon",
-      "position": 31,
+      "position": 58,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Sumi-e Ink Dragon",
       "summary": "Ink on blank paper gathers into a coiled dragon, stroke by stroke, in monochrome sumi-e.",
       "config": {
@@ -816,9 +1765,10 @@
     },
     {
       "slug": "watercolour-train-commuter",
-      "position": 32,
+      "position": 59,
       "category": "anime-motion",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Watercolour Train Commuter",
       "summary": "A watercolour commuter watches the fields slide past until a tunnel swallows the light.",
       "config": {
@@ -839,10 +1789,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=watercolour-train-commuter&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "woman-manipulating-invisible-manga-portal",
+      "position": 60,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Woman Manipulating Invisible Manga Portal",
+      "summary": "A cinematic vertical shot of a woman in a pink skirt creating a portal that reveals a manga illustration.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "anime motion",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A vertical cinematic shot of a woman wearing a pink short skirt in an indoor room manipulating an invisible portal with her fingertips. The space between her hands reveals a black-and-white manga illustrated version of",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/woman-manipulating-invisible-manga-portal",
+      "generator": "https://callirra.com/seedance2.5?atlas=woman-manipulating-invisible-manga-portal&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Synthia",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/AIwithSynthia/status/2089188362490200313",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/woman-manipulating-invisible-manga-portal.mp4",
+      "clip_file": "community/060-woman-manipulating-invisible-manga-portal/output.mp4"
+    },
+    {
       "slug": "ballet-barre-rehearsal",
-      "position": 33,
+      "position": 61,
       "category": "dance-music",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Ballet Barre Rehearsal",
       "summary": "Your studio frame, kept: a barre balance unfolding into a slow arabesque in the mirror.",
       "config": {
@@ -864,9 +1849,10 @@
     },
     {
       "slug": "beat-synced-garage-cuts",
-      "position": 34,
+      "position": 62,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Beat-Synced Garage Cuts",
       "summary": "One dancer, one locked frame, a cut on every kick: jacket and angle change, body stays.",
       "config": {
@@ -888,9 +1874,10 @@
     },
     {
       "slug": "concert-light-drop",
-      "position": 35,
+      "position": 63,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Concert Light Drop",
       "summary": "From the pit: lights slam on, the floor jumps, the camera pushes through to the rail.",
       "config": {
@@ -912,9 +1899,10 @@
     },
     {
       "slug": "drummer-kit-close-up",
-      "position": 36,
+      "position": 64,
       "category": "dance-music",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Drummer Kit Close-Up",
       "summary": "Your kit, kept: a fast tom fill, both wrists blurred, landing hard on the crash.",
       "config": {
@@ -935,10 +1923,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=drummer-kit-close-up&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "kpop-formation-hook",
-      "position": 37,
+      "slug": "dunhuang-dance-transfer",
+      "position": 65,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Dance Motion Transfer",
+      "summary": "Using a real dancer's motion video as reference, precisely transfer the movements to a target character, aligning motion paths, rhythm, and limb details while r",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "dance music",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Referencing the character movements in @Video 1, generate a dance video featuring a character wearing Dunhuang-style attire in front of the Mogao Caves.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/dunhuang-dance-transfer",
+      "generator": "https://callirra.com/seedance2.5?atlas=dunhuang-dance-transfer&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/dunhuang-dance-transfer.mp4",
+      "clip_file": "community/065-dunhuang-dance-transfer/output.mp4"
+    },
+    {
+      "slug": "kpop-formation-hook",
+      "position": 66,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "K-Pop Style Formation Hook",
       "summary": "Nine dancers, one formation change on the downbeat, in two locked camera setups.",
       "config": {
@@ -960,9 +1983,10 @@
     },
     {
       "slug": "rain-street-cypher",
-      "position": 38,
+      "position": 67,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Rain Street Cypher",
       "summary": "A rain-soaked street cypher: handheld circle, splashing footwork, a freeze on the last bar.",
       "config": {
@@ -984,9 +2008,10 @@
     },
     {
       "slug": "rooftop-sunset-groove",
-      "position": 39,
+      "position": 68,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Rooftop Sunset Groove",
       "summary": "One dancer on a rooftop at last light, low camera, then a crane to full silhouette.",
       "config": {
@@ -1008,9 +2033,10 @@
     },
     {
       "slug": "salt-flat-silhouette-duet",
-      "position": 40,
+      "position": 69,
       "category": "dance-music",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Salt Flat Silhouette Duet",
       "summary": "Your photo kept: a slow contact duet on white salt, sun down the lens, long shadows.",
       "config": {
@@ -1032,9 +2058,10 @@
     },
     {
       "slug": "singer-mid-verse",
-      "position": 41,
+      "position": 70,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Singer Mid-Verse",
       "summary": "A singer mid-verse, camera arcing profile to close-up, one hard backlight through haze.",
       "config": {
@@ -1056,9 +2083,10 @@
     },
     {
       "slug": "underwater-silk-duet",
-      "position": 42,
+      "position": 71,
       "category": "dance-music",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Underwater Silk Duet",
       "summary": "Two dancers in silk, weightless and in unison, as the camera sinks from the surface.",
       "config": {
@@ -1080,9 +2108,10 @@
     },
     {
       "slug": "aurora-frozen-lake-night",
-      "position": 43,
+      "position": 72,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Aurora Over a Frozen Lake",
       "summary": "A locked-off night shot: only the aurora moves above a frozen lake and a black spruce treeline.",
       "config": {
@@ -1104,9 +2133,10 @@
     },
     {
       "slug": "coastline-drone-pullback-dawn",
-      "position": 44,
+      "position": 73,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Coastline Drone Pullback at Dawn",
       "summary": "A drone skims the swell, then pulls back to reveal a whole bay of dark sea cliffs in first light.",
       "config": {
@@ -1128,9 +2158,10 @@
     },
     {
       "slug": "dune-crest-wind-sweep",
-      "position": 45,
+      "position": 74,
       "category": "nature-landscape",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Desert Dune Wind Sweep",
       "summary": "Your dune photo comes alive as wind lifts a ribbon of sand off the crest and carries it along the ridge.",
       "config": {
@@ -1152,9 +2183,10 @@
     },
     {
       "slug": "fog-drift-through-pines",
-      "position": 46,
+      "position": 75,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Fog Drifting Through Pine Forest",
       "summary": "A slow walk through fog and pine trunks where depth is made entirely of layers of grey.",
       "config": {
@@ -1176,9 +2208,10 @@
     },
     {
       "slug": "glacier-calving-wide-angle",
-      "position": 47,
+      "position": 76,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Glacier Calving in Wide Shot",
       "summary": "A ten-second hold on an ice wall, then a slab shears off and the wave spreads across still water.",
       "config": {
@@ -1199,10 +2232,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=glacier-calving-wide-angle&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "jungle-waterfall-vertical-flow",
-      "position": 48,
+      "slug": "hollywood-creature-transformation-short-film",
+      "position": 77,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Hollywood Creature Transformation Short Film",
+      "summary": "A prompt for a cinematic short film featuring a dramatic creature transformation with quick intercuts and slow-motion action beats.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "nature landscape",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Cinematic Hollywood-style creature-transformation short film, dramatic and emotionally grounded, edited in quick intercut segments with strategic slow-motion beats during key action moments. > [0-3s] Close-up on a man's face in a dark forest",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/hollywood-creature-transformation-short-film",
+      "generator": "https://callirra.com/seedance2.5?atlas=hollywood-creature-transformation-short-film&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "auqib",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/auqibhabib/status/2098103270086725812",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/hollywood-creature-transformation-short-film.mp4",
+      "clip_file": "community/077-hollywood-creature-transformation-short-film/output.mp4"
+    },
+    {
+      "slug": "jungle-waterfall-vertical-flow",
+      "position": 78,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Jungle Waterfall in Full Flow",
       "summary": "A vertical climb beside a jungle waterfall, from the plunge pool up to the lip it pours over.",
       "config": {
@@ -1224,9 +2292,10 @@
     },
     {
       "slug": "lava-fountain-crater-dusk",
-      "position": 49,
+      "position": 79,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Lava Fountain at Dusk",
       "summary": "Molten rock pulses out of a crater at dusk while the camera arcs slowly around the rim.",
       "config": {
@@ -1247,10 +2316,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=lava-fountain-crater-dusk&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "maritime-museum-multilingual-tour",
+      "position": 80,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Maritime Museum Multilingual Narration",
+      "summary": "One guide moves through different exhibits, naturally switching between English, Singapore-accented Mandarin, Malay, and Japanese.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "nature landscape",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "30s multilingual Southeast Asian heritage museum documentary. One guide leads through four connected galleries about trade, migration, craft, and Singapore's regional history. Warm, authentic museum realism, not tourism advertising.\n0-7.5s Port Model Gallery, English.Singapore harbor and Malacca Strait model, moving ship lights, blue map wall. Guide: \"Singapore has always been a meeting point, not just a destination.\"\n7.5-15s Ceramics & Spice Room, Mandarin.Blue-white porcelain, spice jars, cinnamon, cloves, pepper, wooden crates, warm light. Guide: \"These ceramics and spices record a way of life that grew from the sea.\"\n15-22.5s Malacca Trade Gallery, Malay.Teak walls, ship model, batik, pewter, route maps, brass lanterns. Guide: \"Di Selat Melaka, kapal, rempah dan bahasa bertemu. Perdagangan menghubungkan banyak budaya.\"\n22.5-30s Travel Objects Gallery, Japanese.Suitcases, letters, textiles, family photos in glass cases, soft paper light. Guide: \"旅の品物は、場所を移すたびに、新しい意味を持ちます。\"\nCamera: 16:9 warm documentary style, slow museum walkthrough, guide moments mixed with object close-ups.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/maritime-museum-multilingual-tour",
+      "generator": "https://callirra.com/seedance2.5?atlas=maritime-museum-multilingual-tour&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE (verbatim): \"Creative Commons Attribution 4.0 International — This repository content is distributed under the CC BY 4.0 license. https://creativecommons.org/licenses/by/4.0/\". README \"License\" section (verbatim): \"[CC BY 4.0] … All prompts are shared for learning, organizati",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#category-30",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/maritime-museum-multilingual-tour.mp4",
+      "clip_file": "community/080-maritime-museum-multilingual-tour/output.mp4"
+    },
+    {
       "slug": "mirror-salt-flat-sunrise",
-      "position": 50,
+      "position": 81,
       "category": "nature-landscape",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Sunrise on the Mirror Salt Flat",
       "summary": "A salt-flat photo with a thin film of water, doubled by the first colour of sunrise.",
       "config": {
@@ -1272,9 +2376,10 @@
     },
     {
       "slug": "storm-light-over-moorland",
-      "position": 51,
+      "position": 82,
       "category": "nature-landscape",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Storm Light Over Open Moorland",
       "summary": "After the rain, the camera tilts down from a black cloud base to a shaft of sun crossing wet heather.",
       "config": {
@@ -1296,9 +2401,10 @@
     },
     {
       "slug": "terraced-rice-fields-mist",
-      "position": 52,
+      "position": 83,
       "category": "nature-landscape",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Terraced Rice Fields in Morning Mist",
       "summary": "A terraced hillside photo, with mist lifting off the flooded paddies step by step at dawn.",
       "config": {
@@ -1319,10 +2425,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=terraced-rice-fields-mist&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "woman-running-on-treadmill-at-sunset",
+      "position": 84,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Woman Running on Treadmill at Sunset",
+      "summary": "A photorealistic cinematic scene of a woman running on a treadmill in a modern mansion gym with a California beach view during golden hour.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "nature landscape",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "woman running on a treadmill in a modern workout room of a modern mansion with a California beach view during golden hour sunset. cinematic, photorealistic, epic",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/woman-running-on-treadmill-at-sunset",
+      "generator": "https://callirra.com/seedance2.5?atlas=woman-running-on-treadmill-at-sunset&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Not Real Women",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/NotRealWomenAI/status/2092064754026402270",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/woman-running-on-treadmill-at-sunset.mp4",
+      "clip_file": "community/084-woman-running-on-treadmill-at-sunset/output.mp4"
+    },
+    {
       "slug": "aquarium-fish-drift-tank",
-      "position": 53,
+      "position": 85,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Aquarium Fish Behind Glass",
       "summary": "A planted tank in close-up: one shoal holding against the current, focus pulling through the glass.",
       "config": {
@@ -1344,9 +2485,10 @@
     },
     {
       "slug": "bee-working-open-bloom",
-      "position": 54,
+      "position": 86,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Bee Working an Open Bloom",
       "summary": "Macro vertical of a bee landing, circling the stamens and grooming in hard midday sun.",
       "config": {
@@ -1368,9 +2510,10 @@
     },
     {
       "slug": "cat-knocks-mug-off-table",
-      "position": 55,
+      "position": 87,
       "category": "animals-pets",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Cat Knocks a Mug Off the Table",
       "summary": "A photo of a cat beside a mug, extended into the slow paw push, the topple and the drop.",
       "config": {
@@ -1392,9 +2535,10 @@
     },
     {
       "slug": "elephant-dust-bath-dusk",
-      "position": 56,
+      "position": 88,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Elephant Taking a Dust Bath",
       "summary": "An elephant sprays dust over its own back in three slow sweeps while the camera rises with the cloud.",
       "config": {
@@ -1416,9 +2560,10 @@
     },
     {
       "slug": "flock-lifts-off-water",
-      "position": 57,
+      "position": 89,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Flock Lifting Off the Water",
       "summary": "A raft of small wading birds on a lagoon bursts into flight, the camera whipping up after them.",
       "config": {
@@ -1440,9 +2585,10 @@
     },
     {
       "slug": "fox-pounce-in-snow",
-      "position": 58,
+      "position": 90,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Fox Pouncing in Deep Snow",
       "summary": "A fox goes still, leaps nose-first into the snow and comes up with a mouthful of it.",
       "config": {
@@ -1463,10 +2609,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=fox-pounce-in-snow&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "horse-gallop-across-meadow",
-      "position": 59,
+      "slug": "gorilla-climbing-transfer",
+      "position": 91,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Gorilla Rock Climbing Motion Transfer",
+      "summary": "Using real human climbing video as reference, precisely transferring the same set of climbing motions, force rhythm, and body structure onto a gorilla.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "animals pets",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Transfer the motion from @Video 1 onto a large gorilla climbing on a cliff, without changing the camera movement rhythm or the actions.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/gorilla-climbing-transfer",
+      "generator": "https://callirra.com/seedance2.5?atlas=gorilla-climbing-transfer&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/gorilla-climbing-transfer.mp4",
+      "clip_file": "community/091-gorilla-climbing-transfer/output.mp4"
+    },
+    {
+      "slug": "horse-gallop-across-meadow",
+      "position": 92,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Horse Galloping Across a Meadow",
       "summary": "A horse runs flat out from left to right, tracked at speed with the sun directly behind it.",
       "config": {
@@ -1488,9 +2669,10 @@
     },
     {
       "slug": "hummingbird-feeder-hover",
-      "position": 60,
+      "position": 93,
       "category": "animals-pets",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Hummingbird at the Feeder",
       "summary": "A square four-second hold on a feeder: the bird arrives, sips twice, backs off and hovers.",
       "config": {
@@ -1511,10 +2693,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=hummingbird-feeder-hover&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "live-action-tv-commercial",
+      "position": 94,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Live-Action TV Commercial",
+      "summary": "A single 30s vertical ad fully carrying brand narrative from product details to scene performance.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "animals pets",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Produce a 30-second vertical home furnishing advertisement. The main product is a light gray-green modular sectional sofa with rounded curved lines, low thick cushions, paired with a beige blanket and brown pillows. The first 15 seconds are a pure white seamless studio product showcase: the sofa is displayed completely, the camera slowly pushes in close, pans horizontally, and moves laterally to show the outline and form, finally pulling back to a full shot and freeze. Lighting is even and soft, background is pure white and clean, no sweeping lights, no flash whites. The last 15 seconds transition into a warm-lit living room at dusk: the hostess, wearing beige knit loungewear, sits on the sofa reading a book, legs on the beige blanket; she gently places a coffee cup, a cat jumps onto the sofa; a child runs in and leans on her shoulder, the hostess looks down and smiles; at night, a floor lamp lights up, the three quietly lean on the sofa, the camera slowly pulls back and freezes, leaving space for the brand logo. The overall style is restrained, gentle, clean, with authentic and natural visuals.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/live-action-tv-commercial",
+      "generator": "https://callirra.com/seedance2.5?atlas=live-action-tv-commercial&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": null,
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "official"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/live-action-tv-commercial.mp4",
+      "clip_file": "community/094-live-action-tv-commercial/output.mp4"
+    },
+    {
       "slug": "puppy-first-snow-doorway",
-      "position": 61,
+      "position": 95,
       "category": "animals-pets",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Puppy's First Snow at the Doorway",
       "summary": "A puppy photo stepped into the snow: one paw lifted, nose down, warm door light on blue snow.",
       "config": {
@@ -1535,10 +2752,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=puppy-first-snow-doorway&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "puppy-in-an-animal-shelter",
+      "position": 96,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Puppy In An Animal Shelter",
+      "summary": "A photorealistic cinematic video of a fluffy golden-brown puppy waiting in a bright animal shelter.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "animals pets",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Heartwarming photorealistic cinematic video, 30 seconds, 16:9, with joyful synchronized audio. Inside a bright, welcoming animal shelter, one small fluffy golden-brown puppy waits hopefully in a clean kennel.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/puppy-in-an-animal-shelter",
+      "generator": "https://callirra.com/seedance2.5?atlas=puppy-in-an-animal-shelter&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Jason Heaton",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/JasonHeatony7/status/2088724839561347248",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/puppy-in-an-animal-shelter.mp4",
+      "clip_file": "community/096-puppy-in-an-animal-shelter/output.mp4"
+    },
+    {
       "slug": "wet-dog-shake-slow-motion",
-      "position": 62,
+      "position": 97,
       "category": "animals-pets",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Wet Dog Shake in Slow Motion",
       "summary": "Your photo of a wet dog turned into the shake: one twist, a halo of water, droplets across the floor.",
       "config": {
@@ -1559,10 +2811,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=wet-dog-shake-slow-motion&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "continuous-shot-of-speeding-motorcycle",
+      "position": 98,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Continuous Shot of Speeding Motorcycle",
+      "summary": "A video prompt for a single continuous shot following a speeding motorcycle along a coastal road with dunes and surf.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "sports action",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "ONE CONTINUOUS SHOT, NO CUTS. The camera stays locked to the speeding motorcycle for the whole fifteen seconds, hard engine vibration and wind buffeting throughout. The coast road, dunes and breaking surf streak past",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/continuous-shot-of-speeding-motorcycle",
+      "generator": "https://callirra.com/seedance2.5?atlas=continuous-shot-of-speeding-motorcycle&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Camille",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/justcamilleing/status/2089899904252747793",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/continuous-shot-of-speeding-motorcycle.mp4",
+      "clip_file": "community/098-continuous-shot-of-speeding-motorcycle/output.mp4"
+    },
+    {
       "slug": "gymnastics-floor-landing",
-      "position": 63,
+      "position": 99,
       "category": "sports-action",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Gymnastics Floor Landing",
       "summary": "Your still of a gymnast mid-air, continued: the double twist lands and the finish holds a full beat.",
       "config": {
@@ -1584,9 +2871,10 @@
     },
     {
       "slug": "harbour-fisheye-skate-line",
-      "position": 64,
+      "position": 100,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Harbour Fisheye Skate Line",
       "summary": "One fisheye follow-cam skate line: push, ollie, grind, pop out, held a metre off the tail.",
       "config": {
@@ -1608,9 +2896,10 @@
     },
     {
       "slug": "limestone-overhang-long-move",
-      "position": 65,
+      "position": 101,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Limestone Overhang Move",
       "summary": "A single long move on a limestone overhang, filmed straight down from a fixed rope.",
       "config": {
@@ -1632,9 +2921,10 @@
     },
     {
       "slug": "night-circuit-drift-lock",
-      "position": 66,
+      "position": 102,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Night Circuit Drift Lock",
       "summary": "A night-circuit drift, ten seconds from entry to exit, filmed by a camera planted on the tarmac.",
       "config": {
@@ -1656,9 +2946,10 @@
     },
     {
       "slug": "ring-corner-boxing-exchange",
-      "position": 67,
+      "position": 103,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Ring Corner Boxing Exchange",
       "summary": "One square-ring exchange: a hook on a raised guard, sweat in the air, the camera orbiting without a cut.",
       "config": {
@@ -1680,9 +2971,10 @@
     },
     {
       "slug": "rooftop-basketball-dunk",
-      "position": 68,
+      "position": 104,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Rooftop Basketball Dunk",
       "summary": "A vertical phone clip of a rooftop dunk, tilting from the sneakers to the rim in one golden-hour beat.",
       "config": {
@@ -1704,9 +2996,10 @@
     },
     {
       "slug": "snowboard-powder-spray",
-      "position": 69,
+      "position": 105,
       "category": "sports-action",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Snowboard Powder Spray",
       "summary": "Your snowboard still, continued: one hard carve, a wall of powder, a chase camera sliding out.",
       "config": {
@@ -1728,9 +3021,10 @@
     },
     {
       "slug": "sprint-start-rail-track",
-      "position": 70,
+      "position": 106,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Sprint Start From The Rail",
       "summary": "The first three strides of a sprint final, tracked at ankle height from beside the lane.",
       "config": {
@@ -1752,9 +3046,10 @@
     },
     {
       "slug": "stadium-free-kick-strike",
-      "position": 71,
+      "position": 107,
       "category": "sports-action",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Stadium Free Kick Strike",
       "summary": "A free kick shot from turf level: two frames of ball compression, then a whip right into the back of the net.",
       "config": {
@@ -1776,9 +3071,10 @@
     },
     {
       "slug": "surf-barrel-continuation",
-      "position": 72,
+      "position": 108,
       "category": "sports-action",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Surf Barrel Continuation",
       "summary": "Your still of a surfer inside the barrel, continued: the lip throws, the tube closes behind him.",
       "config": {
@@ -1799,10 +3095,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=surf-barrel-continuation&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "armour-plate-transformation",
-      "position": 73,
+      "slug": "acceptance-letter-s-quiet-joy",
+      "position": 109,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Acceptance Letter's Quiet Joy",
+      "summary": "A young woman experiences restrained, complex emotions upon receiving her acceptance letter at dusk.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "vfx scifi",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A young East Asian woman sits by a study window at dusk, facing a laptop, warm golden side/back light on her face. Her performance is deeply restrained, with emotion conveyed through her eyes, shallow breathing, a choked throat, and trembling fingertips. She moves from disbelief to tearful suspension; as one tear falls, a faint smile appears, ending in quiet relief as she looks outside. Slow, steady camera movement, close-ups for micro-expressions, a slight push-in at the moment the tear gives way to a smile, soft focus on \" Acceptance Letter,\" 35mm film texture, shallow depth of field, low-light grain.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/acceptance-letter-s-quiet-joy",
+      "generator": "https://callirra.com/seedance2.5?atlas=acceptance-letter-s-quiet-joy&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": null,
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "official"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/acceptance-letter-s-quiet-joy.mp4",
+      "clip_file": "community/109-acceptance-letter-s-quiet-joy/output.mp4"
+    },
+    {
+      "slug": "armour-plate-transformation",
+      "position": 110,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Armour Plate Transformation",
       "summary": "Armour plates surfacing through a hoodie, locking segment by segment, under one cold work lamp.",
       "config": {
@@ -1824,9 +3155,10 @@
     },
     {
       "slug": "colony-ship-cloud-break",
-      "position": 74,
+      "position": 111,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Colony Ship Cloud Break",
       "summary": "A colony ship dropping through fog: ten seconds of downwash, floodlights and one slow tilt.",
       "config": {
@@ -1847,10 +3179,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=colony-ship-cloud-break&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "crystal-ball-match-cut-beat-film",
+      "position": 112,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Crystal Ball Match-Cut Beat Film",
+      "summary": "A beat-synced match-cut film: one crystal ball etched with a glowing 'seedance' logo stays centered while eight scenes cut seamlessly behind it.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "vfx scifi",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A fast-paced, cinematic Match-cut short film synced to a driving electronic beat. A flawless crystal ball stays fixed dead-center throughout, a glowing \"seedance\" logo etched inside it. The ball holds razor-sharp focus while, on every strong musical beat, the background match-cuts seamlessly: Scene 1: macro close-up, cinematic water splashing around the ball, refracting intricate light. Scene 2: a vintage morning cafe, the ball on a raw-wood table, rising coffee steam and blurred commuters beyond the window. Scene 3: golden-hour dusk, a skater youth tosses and catches the ball one-handed, street racing backward behind them in gorgeous backlit sunset. Scene 4: a frenzied music festival, hands raise the ball high, refracting dazzling stage lasers. Scene 5: a lively family party table, the ball resting center-frame, blurred figures toasting and reaching for food. Scene 6: a dim cinema, hands cupping the ball as the giant screen's faint glow drifts across its surface. Scene 7: the ball on a violently vibrating speaker diaphragm, match-cutting on the climax to a spinning DJ turntable center. Scene 8: an outdoor camping night, background becoming warm bonfire and swaying string-light bokeh. Finale: on the final downbeat the ball is hurled up out of frame; cut to pure black, a minimal white-on-black \"seedance\" appearing dead-center. Beat-synced match-cut editing, top-tier cinematic color grading, photoreal glass refraction, ray tracing, global illumination. Subject razor-sharp, background heavy motion blur.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/crystal-ball-match-cut-beat-film",
+      "generator": "https://callirra.com/seedance2.5?atlas=crystal-ball-match-cut-beat-film&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Volcengine Ark",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://ark.volcengine.com/promotion?modelName=seedance-2-5",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "official"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/crystal-ball-match-cut-beat-film.mp4",
+      "clip_file": "community/112-crystal-ball-match-cut-beat-film/output.mp4"
+    },
+    {
       "slug": "desert-portal-opening",
-      "position": 75,
+      "position": 113,
       "category": "vfx-scifi",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Desert Portal Opening",
       "summary": "Your half-formed portal still, continued: the ring closes, sand lifts off the ground, the tarp snaps flat.",
       "config": {
@@ -1872,9 +3239,10 @@
     },
     {
       "slug": "downtown-collapse-shockwave",
-      "position": 76,
+      "position": 114,
       "category": "vfx-scifi",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Downtown Collapse Shockwave",
       "summary": "Your collapsing block, continued: the shockwave crosses, glass bursts outward, the drone retreats.",
       "config": {
@@ -1896,9 +3264,10 @@
     },
     {
       "slug": "floating-hologram-console",
-      "position": 77,
+      "position": 115,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Floating Hologram Console",
       "summary": "A holographic panel unfolding from a wristband, its light spilling onto real objects on the desk.",
       "config": {
@@ -1920,9 +3289,10 @@
     },
     {
       "slug": "frozen-instant-crossing",
-      "position": 78,
+      "position": 116,
       "category": "vfx-scifi",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Frozen Instant Crossing",
       "summary": "Your street still, continued: everything stops mid-motion and the camera drifts through the freeze.",
       "config": {
@@ -1944,9 +3314,10 @@
     },
     {
       "slug": "hangar-mecha-launch",
-      "position": 79,
+      "position": 117,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Hangar Mecha Launch",
       "summary": "A mecha launch from inside the hangar: pilot clamped in, cradle rising, the doors parting ahead.",
       "config": {
@@ -1968,9 +3339,10 @@
     },
     {
       "slug": "hex-shield-impact",
-      "position": 80,
+      "position": 118,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Hex Shield Impact",
       "summary": "An energy shield in three states: thin lattice, hardened plate, fading ripple, with the recoil landing.",
       "config": {
@@ -1992,9 +3364,10 @@
     },
     {
       "slug": "rain-street-magic-casting",
-      "position": 81,
+      "position": 119,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Rain Street Magic Casting",
       "summary": "Magic over a rain puddle: water beads lift, gather into a ring of ice, then fall back as rain.",
       "config": {
@@ -2016,9 +3389,10 @@
     },
     {
       "slug": "warehouse-gravity-flip",
-      "position": 82,
+      "position": 120,
       "category": "vfx-scifi",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Warehouse Gravity Flip",
       "summary": "A warehouse gravity flip: a dropped wrench reverses mid-fall and the camera rolls a half turn with it.",
       "config": {
@@ -2039,10 +3413,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=warehouse-gravity-flip&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "bamboo-grove-wirework",
-      "position": 83,
+      "slug": "anthropomorphic-ip-characters",
+      "position": 121,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Personified IP Character Film",
+      "summary": "Anthropomorphic characters seamlessly blend with real scenes, maintaining consistent appearance, actions, and accent throughout, bringing imagined roles into re",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "historical fantasy",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "In a medium shot, personified sunflowers form a unique botanical band, with plants neatly arranged. Warm sunlight pours down, making the golden petals bright and vivid under the light and shadow. A breeze sweeps through the flower patch, causing the leaves to sway gently, accompanied by faint rustling sounds. The sunflower at the front of the group has a standing microphone set up before it. It uses its right \"hand\" leaf to press down and adjust the microphone to a suitable height, speaking in a deep, gentle British accent: \"Partners, let's spread beauty through song.\" The other sunflowers each hold different instruments and begin to play: some use their leaves to beat a round drum, some carry guitars, and others play wind instruments, each performing their role in perfect harmony. The lead sunflower straightens its posture, faces the microphone directly, extends a leaf to clap overhead in rhythm, ready to start singing.\nAmerican Western film style. A scorching sun, yellow sand, a small town. An orange cat wearing a miniature cowboy hat and a fringed leather vest pushes open a door, the door hinge creaking and stirring up dust. The camera quickly pushes in: the bearded bartender wiping a glass behind the counter sees the cat, his hand jerks, and the glass shatters on the floor; three cowboys in the corner turn their heads simultaneously, their tobacco-chewing mouths freeze, close-up on their widened eyes and twitching mustaches, background with three \"whoosh\" whip crack sound effects. The camera returns to a medium shot of the cat. It kicks up dust from the wooden floor with its hind paw, lifts its chin, and says in a fierce yet drawn-out tone with an American accent: \"Fresh milk, brother. Ain't nobody gonna greet me?\" The entire room falls silent for half a second, then the cowboys all take off their hats in unison, letting out a drawn-out \"Whoa—\" of amazement, harmonica slide sound rising. The camera does a 360°环绕 shot around the cat, showing it walking to the bar, jumping onto a high stool, and its proud, sassy little expression.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/anthropomorphic-ip-characters",
+      "generator": "https://callirra.com/seedance2.5?atlas=anthropomorphic-ip-characters&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/anthropomorphic-ip-characters.mp4",
+      "clip_file": "community/121-anthropomorphic-ip-characters/output.mp4"
+    },
+    {
+      "slug": "bamboo-grove-wirework",
+      "position": 122,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Bamboo Grove Wirework",
       "summary": "Two swordswomen trade one mid-air pass between bamboo trunks as the camera rises with them.",
       "config": {
@@ -2065,9 +3474,10 @@
     },
     {
       "slug": "candlelit-ancient-library",
-      "position": 84,
+      "position": 123,
       "category": "historical-fantasy",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "The Candlelit Library",
       "summary": "A scholar turns a paper volume toward a candle, dust drifting through the beam.",
       "config": {
@@ -2088,10 +3498,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=candlelit-ancient-library&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "desert-caravan-crossing",
-      "position": 85,
+      "slug": "cold-weapon-duel-restage",
+      "position": 124,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Martial Scene Swap: Cold Weapon Duel",
+      "summary": "Replace a bare-handed fight with a cold weapon duel in a classical, atmospheric setting.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "historical fantasy",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Replace the bare-handed fight video of two people @Video 1 with the empty-handed probing style before a cold weapon duel.\nReplace the scene with a medieval stone castle platform, ancient courtyard flat ground, mountain fortress outer platform, or simple stone brick dueling ground, with a background of ancient castle walls, wind, fog, distant mountain lines, and flat stone ground @Image 1.\nReplace the clothing of the man in dark clothes in the video with @Image 2, and replace the man in light clothes with @Image 3. Keep the actions unchanged, do not alter the original rhythm.\nAI effects only enhance environment and texture: wind blowing clothes, light fog, a small amount of dust at contact points, cold metallic reflective texture, slight grain, and epic color grading. Overall style is restrained, realistic, classical hardcore duel atmosphere. Background music hits the beat.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/cold-weapon-duel-restage",
+      "generator": "https://callirra.com/seedance2.5?atlas=cold-weapon-duel-restage&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/cold-weapon-duel-restage.mp4",
+      "clip_file": "community/124-cold-weapon-duel-restage/output.mp4"
+    },
+    {
+      "slug": "desert-caravan-crossing",
+      "position": 125,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Desert Caravan Crossing",
       "summary": "Twelve camels cross a dune ridge at late afternoon as the camera pulls back into the empty erg.",
       "config": {
@@ -2113,9 +3558,10 @@
     },
     {
       "slug": "dragon-above-the-peaks",
-      "position": 86,
+      "position": 126,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Dragon Above the Peaks",
       "summary": "A dragon glides between snow peaks and the camera pulls back to the whole range.",
       "config": {
@@ -2136,10 +3582,79 @@
       "generator": "https://callirra.com/seedance2.5?atlas=dragon-above-the-peaks&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "knight-arrival-courtyard",
-      "position": 87,
+      "slug": "dream-concept-short",
+      "position": 127,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Concept Short Film",
+      "summary": "Multiple dreamlike scenes flow seamlessly within a single 30s shot, unified in atmosphere, lighting, and narrative tone.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "historical fantasy",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Cinematic brand concept short film. @Image 1 as the first frame, the image slightly shaky, the lens gradually pushes in, arriving at the rapidly receding tree shadows outside the window, the speed of the shadows receding faster and faster, suddenly cuts to @Image 2, the speed suddenly slows, the lens follows the stream slowly forward, birdsong and floral fragrance.\nThe lens moves down, underwater, sound effects include the sound of bubbles in water, a group of orange jellyfish swim gracefully past the lens @Image 3, the lens slowly pulls back, a school of small fish flashes past the lens and then swims from the water into the room through the window @Image 4, a girl looks left and right, admiring the small fish.\nThe lens slowly pulls back, the image goes out of focus, then refocuses and becomes clear again, switching with the music rhythm: Chinese garden lattice window @Image 5 light circles, church stained glass window, airplane porthole, dome skylight, bay window, Venetian blinds, European dormer window, door peephole, camera viewfinder, bird's eye, human eye close-up.\nThe image stays on the human eye close-up, then the eye closes, the screen goes black, then suddenly opens, the word \"seedance\" with a heavy accent appears in the center of the eye.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/dream-concept-short",
+      "generator": "https://callirra.com/seedance2.5?atlas=dream-concept-short&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/dream-concept-short.mp4",
+      "clip_file": "community/127-dream-concept-short/output.mp4"
+    },
+    {
+      "slug": "dunhuang-scroll-pomegranate",
+      "position": 128,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Children's Science Animation",
+      "summary": "A Chinese-style illustrated scroll unfolds with narration, the visuals continuously expanding with the story.",
+      "config": {
+        "resolution": "720p",
+        "duration": "7",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 272,
+      "keywords": [
+        "historical fantasy",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Children's Silk Road culture science animation short, Dunhuang mural and Silk Road scroll style, mineral color flat animation, mineral pigment texture, ochre, silk white, azurite, malachite, dark blue, cinnabar, gold line accents, flat layering, scroll-style flowing composition, no real photography, no 3D realism, no childish cartoons. Focus on the origin and spread of pomegranates, do not emphasize modern consumption methods, keep the modern part under 7 seconds.\n00:00-00:04, a Silk Road scroll slowly unfolds, a gently swaying pomegranate appears on a branch. Voiceover: \"Did you know? The pomegranate we commonly see today actually came from a place far west of China long, long ago — the Western Regions.\"\n00:04-00:08, a hand gently picks the pomegranate, holding it up, distant mountains, patterns, and roads unfold. Voiceover: \"At first, it grew in sun-drenched lands. Later, people took it on journeys, preparing to go to even farther places.\"\n00:08-00:15, a camel caravan carries the pomegranate through desert, oasis, and city gate. Voiceover: \"The pomegranate followed the camel caravan slowly moving forward. Along the way, it had to cross deserts, pass through oases, and walk through tall city gates. This very long road is the famous ancient Silk Road.\"\n00:15-00:20, the pomegranate enters more towns and life scenes with merchants and travelers. Voiceover: \"What traveled the Silk Road wasn't just silk. Many distant fruits, spices, and seeds also came to new places along this road. This is how the pomegranate gradually became known to more people.\"\n00:20-00:23, the pomegranate is cut open, revealing ruby-like seeds. Voiceover: \"Later, people discovered that pomegranates are not only beautiful, but also hide many small seeds like rubies inside.\"\n00:23-00:27, the ancient scenes in the scroll slowly transition to today, the pomegranate appears on a modern table, a group of children sit together eating pomegranates. Voiceover: \"Thus, after a very long spread, the pomegranate set out from the Western Regions and finally entered life today.\"\n00:27-00:30, the branch pomegranate, camel caravan, desert, oasis, city gate, and today's table pomegranate converge in the scroll. Voiceover: \"So, a small pomegranate also holds a journey across lands and time.\"",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/dunhuang-scroll-pomegranate",
+      "generator": "https://callirra.com/seedance2.5?atlas=dunhuang-scroll-pomegranate&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/dunhuang-scroll-pomegranate.mp4",
+      "clip_file": "community/128-dunhuang-scroll-pomegranate/output.mp4"
+    },
+    {
+      "slug": "knight-arrival-courtyard",
+      "position": 129,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Knight at the Gate",
       "summary": "A lone knight rides through a castle gate at first light, from shadow into sun, in one low wide shot.",
       "config": {
@@ -2161,9 +3676,10 @@
     },
     {
       "slug": "lantern-street-procession",
-      "position": 88,
+      "position": 130,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Lantern Street Procession",
       "summary": "A Tang-era lantern street at dusk: one carried lantern against a crowd of a hundred, in one rising move.",
       "config": {
@@ -2185,10 +3701,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=lantern-street-procession&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "live-action-fantasy-soul-sword-vs-soul-hammer",
+      "position": 131,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Live-Action Fantasy Soul Sword Vs Soul Hammer",
+      "summary": "A prompt for a live-action fantasy VFX scene featuring an epic battle between original characters.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "historical fantasy",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "SOUL SWORD VS. SOUL HAMMER 30 seconds, 16:9, 24fps, live-action cinematic fantasy, inspired by the epic cultivation atmosphere of Douluo Dalu but with completely original characters and designs. Premium Hollywood VFX, photorealistic",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/live-action-fantasy-soul-sword-vs-soul-hammer",
+      "generator": "https://callirra.com/seedance2.5?atlas=live-action-fantasy-soul-sword-vs-soul-hammer&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Louis",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/louis_vuis/status/2089153438366232919",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/live-action-fantasy-soul-sword-vs-soul-hammer.mp4",
+      "clip_file": "community/131-live-action-fantasy-soul-sword-vs-soul-hammer/output.mp4"
+    },
+    {
       "slug": "longship-in-the-fog",
-      "position": 89,
+      "position": 132,
       "category": "historical-fantasy",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Longship in the Fog",
       "summary": "A longship pushes through flat fog, oars biting together, in a reference-locked image-to-video shot.",
       "config": {
@@ -2210,9 +3761,10 @@
     },
     {
       "slug": "mughal-court-procession",
-      "position": 90,
+      "position": 133,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Mughal Court Procession",
       "summary": "A court procession crosses red sandstone toward a marble pavilion in one rising symmetrical move.",
       "config": {
@@ -2234,9 +3786,10 @@
     },
     {
       "slug": "samurai-duel-in-rain",
-      "position": 91,
+      "position": 134,
       "category": "historical-fantasy",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Duel in the Rain",
       "summary": "Two figures face off in steady rain, one sheathed blade and one held breath, in a slow push-in.",
       "config": {
@@ -2258,9 +3811,10 @@
     },
     {
       "slug": "siege-at-dawn",
-      "position": 92,
+      "position": 135,
       "category": "historical-fantasy",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Siege at Dawn",
       "summary": "Defenders work the wall walk as a distant engine arm swings and dust blooms at the gate.",
       "config": {
@@ -2282,9 +3836,10 @@
     },
     {
       "slug": "cafe-window-rain-zoom",
-      "position": 93,
+      "position": 136,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Cafe Window Rain Zoom",
       "summary": "A slow zoom into a rain-streaked cafe window until the wet street outside becomes abstract colour.",
       "config": {
@@ -2305,10 +3860,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=cafe-window-rain-zoom&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "crosswalk-commuter-rush",
-      "position": 94,
+      "slug": "child-explains-porcelain",
+      "position": 137,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Live-Action Knowledge Explanation",
+      "summary": "A real person narrates throughout, naturally demonstrating with physical props, with coherent lip-sync and rhythm.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "urban city",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A 6-year-old girl with pigtails sits on a sofa, with small models of porcelain from various dynasties placed in front of her. She holds up the models one by one to introduce them: ① Holds a coarse pottery jar: 'The earliest porcelain evolved from pottery. Primitive porcelain existed as early as the Shang Dynasty.' Background fades in a scene of Shang Dynasty primitive porcelain artifacts. ② Holds a celadon-glazed small bowl: 'The celadon from the Yue Kiln and the white porcelain from the Xing Kiln were most famous in the Tang Dynasty, and there were also colorful Tang Sancai.' Background fades in a scene of Tang Sancai artifacts. ③ Holds a sky-blue small dish: 'Porcelain from the Song Dynasty is the most beautiful. The sky-blue color of Ru Kiln ware could only be fired after the rain cleared and the sky turned blue.' Background fades in a scene of Ru Kiln artifacts. ④ Holds a blue-and-white porcelain small vase: 'During the Ming and Qing dynasties, blue-and-white porcelain and enamel colors were all available, and they were sold all over the world.' Background fades in a scene of blue-and-white porcelain artifacts. Finally, the little girl holds up her own drawing of blue-and-white porcelain and smiles at the camera, accompanied by light and cheerful children's BGM.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/child-explains-porcelain",
+      "generator": "https://callirra.com/seedance2.5?atlas=child-explains-porcelain&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE (verbatim): \"Creative Commons Attribution 4.0 International — This repository content is distributed under the CC BY 4.0 license. https://creativecommons.org/licenses/by/4.0/\". README \"License\" section (verbatim): \"[CC BY 4.0] … All prompts are shared for learning, organizati",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills#category-30",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/child-explains-porcelain.mp4",
+      "clip_file": "community/137-child-explains-porcelain/output.mp4"
+    },
+    {
+      "slug": "crosswalk-commuter-rush",
+      "position": 138,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Crosswalk Commuter Rush",
       "summary": "A jib drops into the morning rush: commuters cross on long parallel shadows under hard early sun.",
       "config": {
@@ -2330,9 +3920,10 @@
     },
     {
       "slug": "fire-escape-descent",
-      "position": 95,
+      "position": 139,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Fire Escape Descent",
       "summary": "A vertical five seconds from above: hands and shoes sweep past the lens on an iron fire escape at dusk.",
       "config": {
@@ -2353,10 +3944,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=fire-escape-descent&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "fpv-drone-city-race",
+      "position": 140,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "First-Person Drone Flight",
+      "summary": "A first-person FPV drone racing perspective, cinematic single shot, flying through dynamic landscapes.",
+      "config": {
+        "resolution": "720p",
+        "duration": "25",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 971,
+      "keywords": [
+        "urban city",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Overall setting: First-person FPV racing drone perspective, cinematic live-action quality, single continuous shot without cuts, total duration 25 seconds. Sunny day, clear blue sky, realistic lighting and atmospheric perspective. The lens always faces the drone's forward direction, high speed with slight body tilt and inertial sway. Spatial relationships strictly follow the red line one-way progression: starting point (lower left hillside) → waterfall top ① → waterfall bottom → village ② → gap between two distant mountains ③ → distant valley vista, always forward, no turning back, no reverse flight, no returning to start.\nMotion path (connected sequentially):\nThe drone starts low from a green hillside at the lower left of the canyon, accelerates climbing close to the slope, flying towards the large waterfall cascading down the left cliff wall; climbs up along the left cliff wall of the waterfall, circles to the top of the waterfall, overlooking the drop point and source stream from above (corresponding to marker ①).\nAfter passing the waterfall top, the drone lowers its nose, dives down along the outer cliff wall of the waterfall, skimming the edge of the splashing water mist (not entering the water curtain), descending to just above the river surface at the waterfall base; then turns right, flying at high speed along the winding river in a smooth wave pattern, skimming over the roofs of a stone house village in the middle of the valley (corresponding to marker ②).\nAfter passing through the village, continue deeper along the river valley to the right, charging at full speed towards the two highest mountains in the distance, passing precisely through the center of the V-shaped gap between the two peaks (corresponding to marker ③), exiting the frame into an open distant valley vista, ending steadily.\nNegative constraints: No on-screen text / markers / red line / numbering; do not pass through the water curtain head-on, do not fly into the water mist; do not fly backwards, no unnecessary hovering or stalling; weather and lighting consistent throughout; total duration strictly 25 seconds, no black screens or accelerated jump cuts mid-way.\nGenerate a 15-second first-person FPV perspective ultra-high-speed drone穿梭 video, cinematic, single continuous shot. The shot starts from a low-altitude point near the Huangpu River surface / the base of the Oriental Pearl TV Tower, first rapidly ascends and smoothly circles around the tower body, lower sphere, upper sphere, and antenna spire of the Oriental Pearl, then according to the spatial relationship of the red line trajectory in the image,高速飞越 the Huangpu River, charges towards the Lujiazui financial district,穿梭 left and right,起伏 up and down between the Shanghai Tower, Shanghai World Financial Center (SWFC), and Jin Mao Tower trio, finally follows the direction of the arrow in the image, (but do not show the red line, it's only for guidance)冲刺 towards the right front of the Pudong skyline, ending in an open distant city vista.\nGenerate a 15-second first-person FPV perspective ultra-high-speed drone穿梭 video, cinematic, single continuous shot. The shot starts from a low-altitude point near the base of Tokyo Tower, first rapidly ascends and smoothly circles around the red-and-white tower body, main observatory, and spire of Tokyo Tower, then according to the spatial relationship of the red line trajectory in the image,高速掠过 the dense city rooftops of Minato and Shibuya wards, charges towards the Shinjuku skyscraper cluster,穿梭 left and right,起伏 up and down between the Metropolitan Government Building, Mode Gakuen Cocoon Tower, and glass-curtain-wall high-rises, finally follows the direction of the arrow in the image towards the right front of the Shinjuku skyline, ending in a distant Tokyo vista under golden黄昏余晖. (But do not show the red line, it's only for guidance)",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/fpv-drone-city-race",
+      "generator": "https://callirra.com/seedance2.5?atlas=fpv-drone-city-race&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/fpv-drone-city-race.mp4",
+      "clip_file": "community/140-fpv-drone-city-race/output.mp4"
+    },
+    {
       "slug": "laundromat-night-wait",
-      "position": 96,
+      "position": 141,
       "category": "urban-city",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Laundromat Night Wait",
       "summary": "A laundromat photo held still: drums turn, a page turns, green fluorescents against one orange glow.",
       "config": {
@@ -2378,9 +4004,10 @@
     },
     {
       "slug": "market-morning-steam",
-      "position": 97,
+      "position": 142,
       "category": "urban-city",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Market Morning Steam",
       "summary": "A market photo sent into motion: hands bag produce, steam rolls, and the camera weaves up the aisle.",
       "config": {
@@ -2402,9 +4029,10 @@
     },
     {
       "slug": "mist-bridge-cyclist-dawn",
-      "position": 98,
+      "position": 143,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Mist Bridge Cyclist Dawn",
       "summary": "A parallel tracking shot in 21:9: a cyclist crosses a misted bridge at dawn, piers fading into white.",
       "config": {
@@ -2426,9 +4054,10 @@
     },
     {
       "slug": "night-bus-window-seat",
-      "position": 99,
+      "position": 144,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Night Bus Window Seat",
       "summary": "An eight-second aisle creep on a night bus, faces lit in amber pulses by passing street lamps.",
       "config": {
@@ -2450,9 +4079,10 @@
     },
     {
       "slug": "plaza-pigeon-burst",
-      "position": 100,
+      "position": 145,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Plaza Pigeon Burst",
       "summary": "One whip pan catches a pigeon flock exploding off a plaza as a skateboarder rolls through the sun line.",
       "config": {
@@ -2474,9 +4104,10 @@
     },
     {
       "slug": "rooftop-sunrise-city-reveal",
-      "position": 101,
+      "position": 146,
       "category": "urban-city",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Rooftop Sunrise City Reveal",
       "summary": "An eight-second crane rise at first light: rooftop, parapet, and a city below turning from blue to gold.",
       "config": {
@@ -2498,9 +4129,10 @@
     },
     {
       "slug": "street-food-griddle-glow",
-      "position": 102,
+      "position": 147,
       "category": "urban-city",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Street Food Griddle Glow",
       "summary": "A night street-food photo animated: coals flare under skewers, then the tilt finds the vendor.",
       "config": {
@@ -2521,10 +4153,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=street-food-griddle-glow&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "the-identity-lock-is-doing-more-work-than",
+      "position": 148,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "The Identity Lock Is Doing More Work Than",
+      "summary": "THE IDENTITY LOCK IS DOING MORE WORK THAN THE CINEMATOGRAPHY A full rap video: studio set, drum kit, graffiti shutter, leather sofa, neon haze.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "urban city",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "THE IDENTITY LOCK IS DOING MORE WORK THAN THE CINEMATOGRAPHY A full rap video: studio set, drum kit, graffiti shutter, leather sofa, neon haze. Nine or ten distinct setups, different angles, different lighting. And it works because the first paragraph of the prompt never lets",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/the-identity-lock-is-doing-more-work-than",
+      "generator": "https://callirra.com/seedance2.5?atlas=the-identity-lock-is-doing-more-work-than&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Nexlow",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/NexlowX/status/2085082837661909078",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/the-identity-lock-is-doing-more-work-than.mp4",
+      "clip_file": "community/148-the-identity-lock-is-doing-more-work-than/output.mp4"
+    },
+    {
       "slug": "caster-sugar-dust-fall",
-      "position": 103,
+      "position": 149,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Caster Sugar Dust Fall",
       "summary": "Fine sugar falls as a lit curtain through a slit of light, shot from below, with the dry hiss on.",
       "config": {
@@ -2546,9 +4213,10 @@
     },
     {
       "slug": "droplet-crown-splash",
-      "position": 104,
+      "position": 150,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Droplet Crown Splash",
       "summary": "A droplet throws a crown of water that shatters into hanging beads, side-lit against black.",
       "config": {
@@ -2570,9 +4238,10 @@
     },
     {
       "slug": "frosted-glass-bead-trails",
-      "position": 105,
+      "position": 151,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Frosted Glass Bead Trails",
       "summary": "Condensation beads swell, break and drag clean trails down a frosted tumbler in cold dawn light.",
       "config": {
@@ -2594,9 +4263,10 @@
     },
     {
       "slug": "glossy-slime-stretch-snap",
-      "position": 106,
+      "position": 152,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Glossy Slime Stretch and Snap",
       "summary": "A translucent slab stretches to a bubble window and snaps, lit from underneath by a gel light.",
       "config": {
@@ -2618,9 +4288,10 @@
     },
     {
       "slug": "honey-drizzle-ribbon-macro",
-      "position": 107,
+      "position": 153,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Honey Ribbon Drizzle",
       "summary": "Honey folds off a dipper in one unbroken ribbon, backlit to amber against black, in wide macro.",
       "config": {
@@ -2642,9 +4313,10 @@
     },
     {
       "slug": "honeycomb-wax-cell-close",
-      "position": 108,
+      "position": 154,
       "category": "asmr-macro",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Honeycomb Wax Cell Close",
       "summary": "A wax comb glows from underneath as honey creeps down one cell wall, focus crawling cell to cell.",
       "config": {
@@ -2666,9 +4338,10 @@
     },
     {
       "slug": "ice-block-fracture-closeup",
-      "position": 109,
+      "position": 155,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Ice Block Fracture",
       "summary": "One tap, one hairline crack, one punch-in at the exact moment a clear block of ice splits in two.",
       "config": {
@@ -2690,9 +4363,10 @@
     },
     {
       "slug": "ink-bloom-in-still-water",
-      "position": 110,
+      "position": 156,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Ink Bloom in Still Water",
       "summary": "Black ink blooms through still water in grey veils, lit by a single overhead shaft in wide 21:9.",
       "config": {
@@ -2713,10 +4387,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=ink-bloom-in-still-water&utm_source=github&utm_medium=atlas"
     },
     {
+      "slug": "macro-rescue-in-a-water-droplet",
+      "position": 157,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Macro Rescue in a Water Droplet",
+      "summary": "A prompt for creating a video of a tiny rescue boat and diver inside a giant water droplet with realistic ocean effects.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "asmr macro",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Create a cinematic macro video of a tiny rescue boat and diver floating inside a giant water droplet, with realistic bubbles, ocean waves, dramatic lighting, and smooth camera",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/macro-rescue-in-a-water-droplet",
+      "generator": "https://callirra.com/seedance2.5?atlas=macro-rescue-in-a-water-droplet&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "Zarnab Ai",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": "https://x.com/Zarnab_with_Ai/status/2089906950192722017",
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "x"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/macro-rescue-in-a-water-droplet.mp4",
+      "clip_file": "community/157-macro-rescue-in-a-water-droplet/output.mp4"
+    },
+    {
       "slug": "oil-droplet-emulsion-darkfield",
-      "position": 111,
+      "position": 158,
       "category": "asmr-macro",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Oil Droplet Emulsion, Dark Field",
       "summary": "Two oil droplets merge in dark-field light while the lens pushes past into the emulsion behind.",
       "config": {
@@ -2738,9 +4447,10 @@
     },
     {
       "slug": "sand-avalanche-dune-crest",
-      "position": 112,
+      "position": 159,
       "category": "asmr-macro",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Sand Avalanche on a Dune",
       "summary": "A dune crest collapses in chasing sheets while the camera cranes out; harsh low sun on dust.",
       "config": {
@@ -2762,9 +4472,10 @@
     },
     {
       "slug": "airport-gate-reunion",
-      "position": 113,
+      "position": 160,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Reunion at the Gate",
       "summary": "A name card no longer needed: a young woman drops her bag and runs the last ten metres.",
       "config": {
@@ -2786,9 +4497,10 @@
     },
     {
       "slug": "asking-for-directions",
-      "position": 114,
+      "position": 161,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Asking for Directions",
       "summary": "Two strangers point opposite ways down the same street and laugh about it.",
       "config": {
@@ -2809,10 +4521,45 @@
       "generator": "https://callirra.com/seedance2.5?atlas=asking-for-directions&utm_source=github&utm_medium=atlas"
     },
     {
-      "slug": "barista-and-a-regular",
-      "position": 115,
+      "slug": "astronomy-knowledge-visualization",
+      "position": 162,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "community",
+      "title": "Astronomy Knowledge Visualization",
+      "summary": "Transforming abstract principles into continuous visual videos.",
+      "config": {
+        "resolution": "720p",
+        "duration": "21",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 816,
+      "keywords": [
+        "story dialogue",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Generate a science popularization video explaining how the Moon was born. The visual quality should have a cinematic feel, with strong visual effects and visual tension during the explosion/convergence process. It must conform to facts and follow scientific basis. 0-2s: Distant space view, the Earth's arc and blue atmosphere at the bottom of the frame, a small dark red celestial body suspended in the black universe far above, the camera is mostly still, slowly showing the distance relationship between Earth and the body. 2-3s: Cut to a close-up, a huge celestial body covered with orange-red lava cracks approaches the edge of Earth, Earth's atmosphere forms a blue arc at the bottom right, the camera is still, the celestial body's sense of oppression increases. Dialogue: 4.5 billion years ago, Earth was struck by a Mars-sized celestial body. 3-5s: The lava celestial body impacts the edge of Earth, intense white-orange burst of light erupts from the contact point, a large amount of hot debris and flames scatter outward along Earth's surface, the camera follows the explosion shockwave continuously pushing forward. 5-8s: The hot material after the impact converges into a glowing orange-red molten sphere in space, surrounded by swirling debris and dust, one side of Earth is visible in the background, the camera slowly pulls back from close to far. 8-10s: A glowing ring of molten material and debris belt appears next to Earth, orange-red material distributes around Earth's orbit, black space background, the camera maintains a distant observation view. Dialogue: The impact partially melted both, and material was flung into Earth's orbit. 10-12s: Cut to a close-up of the lunar surface, gray cratered terrain covered with orange-red molten cracks, scattered rocks and dust, the scene gradually transitions from hot cracks to a cooled gray surface. 12-14s: The gray lunar surface continues to form, the cratered landscape becomes more stable, the edge and dark side of the Moon appear on the right side of the frame, the camera slowly pulls back, showing the Moon aggregating from the debris. Dialogue: The debris aggregated into the Moon over tens of millions of years. The moon above your head is the product of this impact. 14-21s: Earth and the Moon are in the same frame, the camera pulls back, the Moon moves away from Earth. A ruler appears between Earth and the Moon, with numbers continuously growing on the ruler. Dialogue: It is still moving away from Earth at a rate of 3.8 centimeters per year.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/astronomy-knowledge-visualization",
+      "generator": "https://callirra.com/seedance2.5?atlas=astronomy-knowledge-visualization&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+        "pageUrl": null,
+        "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+        "vendor": "official"
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/astronomy-knowledge-visualization.mp4",
+      "clip_file": "community/162-astronomy-knowledge-visualization/output.mp4"
+    },
+    {
+      "slug": "barista-and-a-regular",
+      "position": 163,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "origin": "callirra",
       "title": "The Regular's Order",
       "summary": "A barista writes the order before it is finished, then looks up at the regular.",
       "config": {
@@ -2834,9 +4581,10 @@
     },
     {
       "slug": "coach-halftime-speech",
-      "position": 116,
+      "position": 164,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "The Half-Time Speech",
       "summary": "A coach at eye level and one nod: the moment before a player stands up.",
       "config": {
@@ -2858,9 +4606,10 @@
     },
     {
       "slug": "confession-in-the-car",
-      "position": 117,
+      "position": 165,
       "category": "story-dialogue",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Confession in the Car",
       "summary": "Engine off, rain on the glass: a confession the driver cannot look at.",
       "config": {
@@ -2882,9 +4631,10 @@
     },
     {
       "slug": "job-interview-gone-wrong",
-      "position": 118,
+      "position": 166,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Interview Gone Wrong",
       "summary": "A candidate hears her own answer land wrong and the interviewer's pen stops.",
       "config": {
@@ -2906,9 +4656,10 @@
     },
     {
       "slug": "kitchen-table-argument",
-      "position": 119,
+      "position": 167,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Argument at the Kitchen Table",
       "summary": "One stops chewing: a kitchen-table argument where the tell is a fork set down, not the words.",
       "config": {
@@ -2930,9 +4681,10 @@
     },
     {
       "slug": "parent-teaching-child-to-cook",
-      "position": 120,
+      "position": 168,
       "category": "story-dialogue",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Teaching a Child to Cook",
       "summary": "A father lets go of the spoon, the child stirs too fast, and both freeze.",
       "config": {
@@ -2954,9 +4706,10 @@
     },
     {
       "slug": "rooftop-breakup",
-      "position": 121,
+      "position": 169,
       "category": "story-dialogue",
       "scene": "image-to-video",
+      "origin": "callirra",
       "title": "Break-Up on the Roof",
       "summary": "One step back at the roof edge: a break-up told by hands going into pockets.",
       "config": {
@@ -2978,9 +4731,10 @@
     },
     {
       "slug": "siblings-over-a-game",
-      "position": 122,
+      "position": 170,
       "category": "story-dialogue",
       "scene": "text-to-video",
+      "origin": "callirra",
       "title": "Siblings Over a Game",
       "summary": "A finger jabbed at the screen, then a cable pulled: two siblings, one quiet room.",
       "config": {
@@ -2999,6 +4753,74 @@
       "prompt": "Two siblings on a sofa, one in their early teens and one a few years younger, both holding controllers; the younger leans forward and jabs a finger at the screen while the older keeps playing, unbothered, then reaches down and pulls the cable, and the room goes quiet. The camera sits low on the floor in front of the television, slightly hand-held. Evening, dark room lit by screen flicker and one lamp. Frayed cushions, tangled cable, half-empty bowl. Game audio cutting out and a controller clattering onto the floor.",
       "prompt_page": "https://callirra.com/seedance-prompt-library/siblings-over-a-game",
       "generator": "https://callirra.com/seedance2.5?atlas=siblings-over-a-game&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "theatre-audience-emotion",
+      "position": 171,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Complex Emotions In Theater Audience",
+      "summary": "A young girl in a theater audience watches a performance with a mix of pride, heartache, and suppressed tears.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "story dialogue",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "Theater audience, a young girl with her hands clasped near her chin, gazing at the performance on stage. Her emotions are complex and mixed; there is pride in her eyes, heartache, and the glimmer of suppressed tears. Her lips are lightly pressed together, her eyelashes tremble, tears well up in her eyes but she forces them not to fall. The core presentation is the authentic, mixed feelings of watching someone dearest to you shine.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/theatre-audience-emotion",
+      "generator": "https://callirra.com/seedance2.5?atlas=theatre-audience-emotion&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/theatre-audience-emotion.mp4",
+      "clip_file": "community/171-theatre-audience-emotion/output.mp4"
+    },
+    {
+      "slug": "wordless-letter",
+      "position": 172,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "origin": "community",
+      "title": "Wordless Narrative",
+      "summary": "From writing a letter indoors to posting it, the shots transition from shallow depth-of-field to a golden valley panorama, maintaining a consistent mood.",
+      "config": {
+        "resolution": "720p",
+        "duration": "30",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 1165,
+      "keywords": [
+        "story dialogue",
+        "seedance 2.5 prompt",
+        "ai video prompt"
+      ],
+      "prompt": "A 30-second wordless visual story, imbued with the quiet elegance of the French countryside, set on a summer afternoon in Provence. A young woman in a beige linen dress finishes writing a letter by hand at an old wooden table in a stone cottage, then steps outside, walks along a gravel path through a sunflower field, and gently slips the letter into a vintage yellow mailbox at the village edge. The shot begins with a shallow depth-of-field close-up on the indoor table, passes through the doorway—where light gradually gives way to shadow—and finally pulls up and out to reveal a wide panoramic view of the golden valley. Only ambient sounds throughout—cicadas, wind, the rustle of pen on paper, and the soft click of the mailbox closing—like the lingering silence after sending a letter to a distant place.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/wordless-letter",
+      "generator": "https://callirra.com/seedance2.5?atlas=wordless-letter&utm_source=github&utm_medium=atlas",
+      "credit": {
+        "author": "ByteDance Seedance",
+        "license": "CC BY 4.0",
+        "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+        "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+        "repo": null,
+        "vendor": null
+      },
+      "clip_url": "https://callirra.com/videos/seedance-atlas/sourced/web/wordless-letter.mp4",
+      "clip_file": "community/172-wordless-letter/output.mp4"
     }
   ]
 }

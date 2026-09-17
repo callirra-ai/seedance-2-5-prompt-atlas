@@ -1,0 +1,30 @@
+{
+  "slug": "earbud-case-hinge-macro",
+  "position": 34,
+  "category": "product-commercial",
+  "scene": "image-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": false
+  },
+  "credits": 311,
+  "keywords": [
+    "earbud product video",
+    "tech ad prompt",
+    "macro product shot",
+    "gadget unboxing clip"
+  ],
+  "prompt": "The lid of a matte charging case lifts on its hinge, two small earbuds nested inside, the case matching the uploaded photo exactly, and a single status light breathes on. A probe lens glides along the seam, then racks focus from the hinge to the light in one clean move. A thin linear highlight sweeps the matte edges against a cool blue-grey void with no ambient fill, so only the geometry reads. Soft-touch plastic, micro-textured metal pins, faint dust specks on the glass. Silent, macro, unbranded.",
+  "title": "Earbud Case Hinge Macro",
+  "summary": "An unbranded charging case opens under one sweeping highlight, probed at macro scale for eight seconds.",
+  "why": "Tech macro lives on surface, so the prompt names the finishes the renderer has to hit: soft-touch plastic, micro-textured metal pins, dust specks on glass. Eight seconds buys the two-stage camera move, a glide along the seam followed by a focus rack onto the status light, which is a single continuous idea rather than two shots glued together. The lighting is deliberately fill-free and cold so the object reads as a silhouette first and a product second, and the status light gives the shot its only warm accent.",
+  "reference_note": "A macro photo of the closed case, clean and evenly lit, with the seam and hinge visible. Avoid photos where the lid is already open at an odd angle or where a logo is the only sharp element — the model drives the hinge from the geometry it can see.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/earbud-case-hinge-macro",
+    "generator": "https://callirra.com/seedance2.5?atlas=earbud-case-hinge-macro&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

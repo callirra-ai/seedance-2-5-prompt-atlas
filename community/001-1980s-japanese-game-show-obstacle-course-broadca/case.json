@@ -1,0 +1,37 @@
+{
+  "slug": "1980s-japanese-game-show-obstacle-course-broadca",
+  "position": 1,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "simeon-sanai",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/Naiknelofar788/status/2088690280979718295",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/1980s-japanese-game-show-obstacle-course-broadca.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create a 30-second authentic 1980s Japanese game-show broadcast sequence inspired by classic Japanese obstacle-course television. Realistic live-action footage, broadcast-camera aesthetics, natural handheld movement, analog film grain, slightly washed",
+  "title": "1980s Japanese Game-Show Obstacle Course Broadcast",
+  "summary": "A prompt for creating a 30-second video that mimics a classic 1980s Japanese game show with live-action footage and broadcast aesthetics.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/1980s-japanese-game-show-obstacle-course-broadca",
+    "generator": "https://callirra.com/seedance2.5?atlas=1980s-japanese-game-show-obstacle-course-broadca&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

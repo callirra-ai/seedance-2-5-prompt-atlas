@@ -1,0 +1,29 @@
+{
+  "slug": "aurora-frozen-lake-night",
+  "position": 72,
+  "category": "nature-landscape",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false
+  },
+  "credits": 311,
+  "keywords": [
+    "aurora borealis prompt",
+    "night sky video",
+    "frozen lake northern lights",
+    "starfield wallpaper"
+  ],
+  "prompt": "Nothing in the frame moves except the sky. A wide static shot holds a frozen lake in the foreground and a low ridge of black spruce on the horizon; above them, green and violet aurora ribbons unfold slowly, brightening, folding over themselves and fading, while stars stay fixed. Frost crystals on the ice catch a faint blue sheen. Long-exposure look, clean blacks, no grain, no camera shake, no people, no buildings.",
+  "title": "Aurora Over a Frozen Lake",
+  "summary": "A locked-off night shot: only the aurora moves above a frozen lake and a black spruce treeline.",
+  "why": "The prompt deliberately forbids camera movement, because a night frame this dark will smear if the model tries to move it. Giving the aurora a full cycle — unfold, brighten, fold, fade — fills eight seconds with a readable event, while the frost detail and the long-exposure note keep the ice from rendering as flat grey noise.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/aurora-frozen-lake-night",
+    "generator": "https://callirra.com/seedance2.5?atlas=aurora-frozen-lake-night&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

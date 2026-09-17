@@ -1,0 +1,37 @@
+{
+  "slug": "puppy-in-an-animal-shelter",
+  "position": 96,
+  "category": "animals-pets",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Jason Heaton",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/JasonHeatony7/status/2088724839561347248",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/puppy-in-an-animal-shelter.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "animals pets",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Heartwarming photorealistic cinematic video, 30 seconds, 16:9, with joyful synchronized audio. Inside a bright, welcoming animal shelter, one small fluffy golden-brown puppy waits hopefully in a clean kennel.",
+  "title": "Puppy In An Animal Shelter",
+  "summary": "A photorealistic cinematic video of a fluffy golden-brown puppy waiting in a bright animal shelter.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/puppy-in-an-animal-shelter",
+    "generator": "https://callirra.com/seedance2.5?atlas=puppy-in-an-animal-shelter&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

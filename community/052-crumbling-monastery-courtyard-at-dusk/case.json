@@ -1,0 +1,37 @@
+{
+  "slug": "crumbling-monastery-courtyard-at-dusk",
+  "position": 52,
+  "category": "anime-motion",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "PixieVerse",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/itsPixieVerse/status/2092439850184249474",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/crumbling-monastery-courtyard-at-dusk.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "anime motion",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Cinematic 2.5D animation. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin. WORLD: crumbling mountain monastery courtyard at dusk, mist rolling through broken stone pillars",
+  "title": "Crumbling Monastery Courtyard at Dusk",
+  "summary": "A prompt for a cinematic 2.5D animation of a misty, crumbling mountain monastery courtyard at dusk.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/crumbling-monastery-courtyard-at-dusk",
+    "generator": "https://callirra.com/seedance2.5?atlas=crumbling-monastery-courtyard-at-dusk&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

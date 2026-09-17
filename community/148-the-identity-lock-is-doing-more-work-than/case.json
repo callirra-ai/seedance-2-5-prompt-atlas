@@ -1,0 +1,37 @@
+{
+  "slug": "the-identity-lock-is-doing-more-work-than",
+  "position": 148,
+  "category": "urban-city",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Nexlow",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/NexlowX/status/2085082837661909078",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/the-identity-lock-is-doing-more-work-than.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "urban city",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "THE IDENTITY LOCK IS DOING MORE WORK THAN THE CINEMATOGRAPHY A full rap video: studio set, drum kit, graffiti shutter, leather sofa, neon haze. Nine or ten distinct setups, different angles, different lighting. And it works because the first paragraph of the prompt never lets",
+  "title": "The Identity Lock Is Doing More Work Than",
+  "summary": "THE IDENTITY LOCK IS DOING MORE WORK THAN THE CINEMATOGRAPHY A full rap video: studio set, drum kit, graffiti shutter, leather sofa, neon haze.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/the-identity-lock-is-doing-more-work-than",
+    "generator": "https://callirra.com/seedance2.5?atlas=the-identity-lock-is-doing-more-work-than&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

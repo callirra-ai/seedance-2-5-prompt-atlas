@@ -1,0 +1,37 @@
+{
+  "slug": "dunhuang-scroll-pomegranate",
+  "position": 128,
+  "category": "historical-fantasy",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/dunhuang-scroll-pomegranate.mp4",
+  "settings": {
+    "duration_seconds": 7,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 272,
+  "keywords": [
+    "historical fantasy",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Children's Silk Road culture science animation short, Dunhuang mural and Silk Road scroll style, mineral color flat animation, mineral pigment texture, ochre, silk white, azurite, malachite, dark blue, cinnabar, gold line accents, flat layering, scroll-style flowing composition, no real photography, no 3D realism, no childish cartoons. Focus on the origin and spread of pomegranates, do not emphasize modern consumption methods, keep the modern part under 7 seconds.\n00:00-00:04, a Silk Road scroll slowly unfolds, a gently swaying pomegranate appears on a branch. Voiceover: \"Did you know? The pomegranate we commonly see today actually came from a place far west of China long, long ago — the Western Regions.\"\n00:04-00:08, a hand gently picks the pomegranate, holding it up, distant mountains, patterns, and roads unfold. Voiceover: \"At first, it grew in sun-drenched lands. Later, people took it on journeys, preparing to go to even farther places.\"\n00:08-00:15, a camel caravan carries the pomegranate through desert, oasis, and city gate. Voiceover: \"The pomegranate followed the camel caravan slowly moving forward. Along the way, it had to cross deserts, pass through oases, and walk through tall city gates. This very long road is the famous ancient Silk Road.\"\n00:15-00:20, the pomegranate enters more towns and life scenes with merchants and travelers. Voiceover: \"What traveled the Silk Road wasn't just silk. Many distant fruits, spices, and seeds also came to new places along this road. This is how the pomegranate gradually became known to more people.\"\n00:20-00:23, the pomegranate is cut open, revealing ruby-like seeds. Voiceover: \"Later, people discovered that pomegranates are not only beautiful, but also hide many small seeds like rubies inside.\"\n00:23-00:27, the ancient scenes in the scroll slowly transition to today, the pomegranate appears on a modern table, a group of children sit together eating pomegranates. Voiceover: \"Thus, after a very long spread, the pomegranate set out from the Western Regions and finally entered life today.\"\n00:27-00:30, the branch pomegranate, camel caravan, desert, oasis, city gate, and today's table pomegranate converge in the scroll. Voiceover: \"So, a small pomegranate also holds a journey across lands and time.\"",
+  "title": "Children's Science Animation",
+  "summary": "A Chinese-style illustrated scroll unfolds with narration, the visuals continuously expanding with the story.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/dunhuang-scroll-pomegranate",
+    "generator": "https://callirra.com/seedance2.5?atlas=dunhuang-scroll-pomegranate&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

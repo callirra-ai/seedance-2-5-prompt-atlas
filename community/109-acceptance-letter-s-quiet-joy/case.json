@@ -1,0 +1,37 @@
+{
+  "slug": "acceptance-letter-s-quiet-joy",
+  "position": 109,
+  "category": "vfx-scifi",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": null,
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "official"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/acceptance-letter-s-quiet-joy.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "vfx scifi",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "A young East Asian woman sits by a study window at dusk, facing a laptop, warm golden side/back light on her face. Her performance is deeply restrained, with emotion conveyed through her eyes, shallow breathing, a choked throat, and trembling fingertips. She moves from disbelief to tearful suspension; as one tear falls, a faint smile appears, ending in quiet relief as she looks outside. Slow, steady camera movement, close-ups for micro-expressions, a slight push-in at the moment the tear gives way to a smile, soft focus on \" Acceptance Letter,\" 35mm film texture, shallow depth of field, low-light grain.",
+  "title": "Acceptance Letter's Quiet Joy",
+  "summary": "A young woman experiences restrained, complex emotions upon receiving her acceptance letter at dusk.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/acceptance-letter-s-quiet-joy",
+    "generator": "https://callirra.com/seedance2.5?atlas=acceptance-letter-s-quiet-joy&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

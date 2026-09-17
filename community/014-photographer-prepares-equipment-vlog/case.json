@@ -1,0 +1,37 @@
+{
+  "slug": "photographer-prepares-equipment-vlog",
+  "position": 14,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Elsa Ai",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/ElsaSofia__AI/status/2092418643212795940",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/photographer-prepares-equipment-vlog.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create an ultra-photorealistic cinematic professional photographer lifestyle vlog. STORY: A female professional photographer prepares her camera equipment at",
+  "title": "Photographer Prepares Equipment Vlog",
+  "summary": "A prompt for creating a cinematic vlog of a female photographer preparing her equipment.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/photographer-prepares-equipment-vlog",
+    "generator": "https://callirra.com/seedance2.5?atlas=photographer-prepares-equipment-vlog&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

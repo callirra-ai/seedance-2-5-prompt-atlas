@@ -1,0 +1,37 @@
+{
+  "slug": "time-freeze-comedy-action-scene",
+  "position": 26,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "BMX",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/bmx_ai13/status/2092370860082680234",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/time-freeze-comedy-action-scene.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "FORMAT: 30 seconds | 16:9 | 24fps cinematic | ultra photorealistic live action | Hollywood studio comedy action | realistic human anatomy | premium VFX time freeze | daytime natural light",
+  "title": "Time Freeze Comedy Action Scene",
+  "summary": "A prompt for a 30-second, cinematic, photorealistic video featuring Hollywood-style comedy action and time freeze visual effects.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/time-freeze-comedy-action-scene",
+    "generator": "https://callirra.com/seedance2.5?atlas=time-freeze-comedy-action-scene&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

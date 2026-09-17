@@ -1,0 +1,37 @@
+{
+  "slug": "morning-market-phone-vlog-sequence",
+  "position": 43,
+  "category": "product-commercial",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "beegnyc",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/beegnyc/status/2092369441904550336",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/morning-market-phone-vlog-sequence.mp4",
+  "settings": {
+    "duration_seconds": 15,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 583,
+  "keywords": [
+    "product commercial",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create a 15-second ultra-realistic candid phone-vlog sequence of a woman filming herself walking through an outdoor morning food market, buying one thing and carrying on walking. 16:9. SUBJECT: Woman in her",
+  "title": "Morning Market Phone Vlog Sequence",
+  "summary": "A prompt for generating a 15-second ultra-realistic video of a woman filming herself walking through an outdoor morning food market.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/morning-market-phone-vlog-sequence",
+    "generator": "https://callirra.com/seedance2.5?atlas=morning-market-phone-vlog-sequence&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

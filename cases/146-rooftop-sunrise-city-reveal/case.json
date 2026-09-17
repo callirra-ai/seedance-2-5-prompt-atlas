@@ -1,0 +1,29 @@
+{
+  "slug": "rooftop-sunrise-city-reveal",
+  "position": 146,
+  "category": "urban-city",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "21:9",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "rooftop sunrise prompt",
+    "crane shot cinematic",
+    "city reveal video prompt",
+    "wide anamorphic ai video"
+  ],
+  "prompt": "At first light a young woman in a red windbreaker climbs onto a rooftop parapet ledge and stops, both hands on the rail, looking out over a dense low-rise city. A crane arm rises slowly behind her shoulder, lifting the frame from her boots to the horizon as water tanks and aerials pass the edge. The sun is just cresting, raking warm gold across the rooftops while the streets below stay blue. Anamorphic 35mm, wide 2.39 framing. Audio: gusting wind, gulls, distant traffic hum.",
+  "title": "Rooftop Sunrise City Reveal",
+  "summary": "An eight-second crane rise at first light: rooftop, parapet, and a city below turning from blue to gold.",
+  "why": "The reveal is the camera move, so the person gets one simple action, climb and stop and look, then holds while the crane does the work. First light is written as two temperatures, gold on the roofs and blue in the streets, which reads as dawn without needing a time-lapse. Wind and gulls tell the model how far away the city is.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-sunrise-city-reveal",
+    "generator": "https://callirra.com/seedance2.5?atlas=rooftop-sunrise-city-reveal&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

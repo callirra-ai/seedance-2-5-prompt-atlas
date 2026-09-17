@@ -1,0 +1,29 @@
+{
+  "slug": "frosted-glass-bead-trails",
+  "position": 151,
+  "category": "asmr-macro",
+  "scene": "text-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "480p",
+    "aspect_ratio": "3:4",
+    "generate_audio": false
+  },
+  "credits": 87,
+  "keywords": [
+    "condensation macro video",
+    "asmr glass prompt",
+    "satisfying water drops",
+    "product macro b-roll"
+  ],
+  "prompt": "Tiny beads of condensation swell on the outside of a frosted tumbler, one growing heavy enough to break and drag a clean line down the glass. The camera eases in from a wide view until the frame holds nothing but beads and the wet trails they leave. Cold dawn light arrives at a very low grazing angle, so each bead is rimmed and throws a tiny soft shadow across the etched surface. Vertical framing, shallow focus, dust-free glass, ice visible as blurred white shapes behind. Quiet and clinical.",
+  "title": "Frosted Glass Bead Trails",
+  "summary": "Condensation beads swell, break and drag clean trails down a frosted tumbler in cold dawn light.",
+  "why": "This is the deliberately cheap version: 480p suits a subject made of soft bokeh, and a vertical frame matches how satisfying-physics clips are actually watched. The physics are named as a sequence — swell, break, drag a line — because a bead that simply exists is static, while a bead that breaks gives the shot its event. Extreme grazing light is the trick that makes this work at all: it rims every droplet and casts the micro-shadows that read as texture rather than as blur.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/frosted-glass-bead-trails",
+    "generator": "https://callirra.com/seedance2.5?atlas=frosted-glass-bead-trails&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

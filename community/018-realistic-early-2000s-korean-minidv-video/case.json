@@ -1,0 +1,37 @@
+{
+  "slug": "realistic-early-2000s-korean-minidv-video",
+  "position": 18,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Johnn",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/john_my07/status/2092455222350405757",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/realistic-early-2000s-korean-minidv-video.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create a highly realistic 30-second Seedance 2.5 video that feels like genuine early-2000s Korean MiniDV footage accidentally preserved on an old consumer camcorder. 16:9 aspect",
+  "title": "Realistic Early-2000s Korean MiniDV Video",
+  "summary": "A prompt to generate a realistic 30-second video mimicking authentic early-2000s Korean MiniDV footage found on an old camcorder.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/realistic-early-2000s-korean-minidv-video",
+    "generator": "https://callirra.com/seedance2.5?atlas=realistic-early-2000s-korean-minidv-video&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "cold-weapon-duel-restage",
+  "position": 124,
+  "category": "historical-fantasy",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "ByteDance Seedance",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0. Repo LICENSE file: \"This repository content is distributed under the CC BY 4.0 license.\" (https://creativecommons.org/licenses/by/4.0/). The README 许可证 section links the same licence but adds a caveat in Chinese: \"所有提示词仅用于学习、整理和检索。如有内容需要移除，请提交 issue。\" (\"All prompts are for learning, organ",
+    "pageUrl": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills/blob/main/i18n/README_zh.md",
+    "repo": null,
+    "vendor": null
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/cold-weapon-duel-restage.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "historical fantasy",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Replace the bare-handed fight video of two people @Video 1 with the empty-handed probing style before a cold weapon duel.\nReplace the scene with a medieval stone castle platform, ancient courtyard flat ground, mountain fortress outer platform, or simple stone brick dueling ground, with a background of ancient castle walls, wind, fog, distant mountain lines, and flat stone ground @Image 1.\nReplace the clothing of the man in dark clothes in the video with @Image 2, and replace the man in light clothes with @Image 3. Keep the actions unchanged, do not alter the original rhythm.\nAI effects only enhance environment and texture: wind blowing clothes, light fog, a small amount of dust at contact points, cold metallic reflective texture, slight grain, and epic color grading. Overall style is restrained, realistic, classical hardcore duel atmosphere. Background music hits the beat.",
+  "title": "Martial Scene Swap: Cold Weapon Duel",
+  "summary": "Replace a bare-handed fight with a cold weapon duel in a classical, atmospheric setting.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/cold-weapon-duel-restage",
+    "generator": "https://callirra.com/seedance2.5?atlas=cold-weapon-duel-restage&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

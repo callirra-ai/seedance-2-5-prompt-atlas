@@ -1,0 +1,37 @@
+{
+  "slug": "woman-manipulating-invisible-manga-portal",
+  "position": 60,
+  "category": "anime-motion",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Synthia",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/AIwithSynthia/status/2089188362490200313",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/woman-manipulating-invisible-manga-portal.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "anime motion",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "A vertical cinematic shot of a woman wearing a pink short skirt in an indoor room manipulating an invisible portal with her fingertips. The space between her hands reveals a black-and-white manga illustrated version of",
+  "title": "Woman Manipulating Invisible Manga Portal",
+  "summary": "A cinematic vertical shot of a woman in a pink skirt creating a portal that reveals a manga illustration.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/woman-manipulating-invisible-manga-portal",
+    "generator": "https://callirra.com/seedance2.5?atlas=woman-manipulating-invisible-manga-portal&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

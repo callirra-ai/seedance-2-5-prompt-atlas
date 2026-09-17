@@ -1,0 +1,37 @@
+{
+  "slug": "japanese-summer-evening-slice-of-life",
+  "position": 8,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Maverick | AI",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/RizwanAly07/status/2092808426024022269",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/japanese-summer-evening-slice-of-life.mp4",
+  "settings": {
+    "duration_seconds": 20,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 777,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create an ultra-realistic cinematic slice-of-life video set in a peaceful Japanese residential neighborhood during a warm summer evening. Main subject: A young Japanese woman in her early 20s, natural appearance,",
+  "title": "Japanese Summer Evening Slice-of-Life",
+  "summary": "An ultra-realistic cinematic video prompt depicting a young woman in a peaceful Japanese neighborhood at dusk.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/japanese-summer-evening-slice-of-life",
+    "generator": "https://callirra.com/seedance2.5?atlas=japanese-summer-evening-slice-of-life&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

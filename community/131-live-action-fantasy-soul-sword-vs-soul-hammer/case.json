@@ -1,0 +1,37 @@
+{
+  "slug": "live-action-fantasy-soul-sword-vs-soul-hammer",
+  "position": 131,
+  "category": "historical-fantasy",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Louis",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/louis_vuis/status/2089153438366232919",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/live-action-fantasy-soul-sword-vs-soul-hammer.mp4",
+  "settings": {
+    "duration_seconds": 30,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 1165,
+  "keywords": [
+    "historical fantasy",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "SOUL SWORD VS. SOUL HAMMER 30 seconds, 16:9, 24fps, live-action cinematic fantasy, inspired by the epic cultivation atmosphere of Douluo Dalu but with completely original characters and designs. Premium Hollywood VFX, photorealistic",
+  "title": "Live-Action Fantasy Soul Sword Vs Soul Hammer",
+  "summary": "A prompt for a live-action fantasy VFX scene featuring an epic battle between original characters.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/live-action-fantasy-soul-sword-vs-soul-hammer",
+    "generator": "https://callirra.com/seedance2.5?atlas=live-action-fantasy-soul-sword-vs-soul-hammer&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

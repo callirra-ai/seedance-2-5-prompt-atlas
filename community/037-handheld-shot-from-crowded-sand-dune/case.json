@@ -1,0 +1,37 @@
+{
+  "slug": "handheld-shot-from-crowded-sand-dune",
+  "position": 37,
+  "category": "product-commercial",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "BMX",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/bmx_ai13/status/2098219977803190372",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/handheld-shot-from-crowded-sand-dune.mp4",
+  "settings": {
+    "duration_seconds": 15,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 583,
+  "keywords": [
+    "product commercial",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create a photorealistic 15 second vertical 16:9 video using the uploaded reference for scenery, color, crowd arrangement, and camera movement. One uninterrupted handheld smartphone shot from a crowded sand dune overlooking",
+  "title": "Handheld Shot from Crowded Sand Dune",
+  "summary": "A prompt for creating a 15-second vertical video of a crowded sand dune using a handheld smartphone shot style.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/handheld-shot-from-crowded-sand-dune",
+    "generator": "https://callirra.com/seedance2.5?atlas=handheld-shot-from-crowded-sand-dune&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

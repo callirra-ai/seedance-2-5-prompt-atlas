@@ -1,0 +1,30 @@
+{
+  "slug": "siege-at-dawn",
+  "position": 135,
+  "category": "historical-fantasy",
+  "scene": "image-to-video",
+  "origin": "callirra",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": false
+  },
+  "credits": 195,
+  "keywords": [
+    "castle siege prompt",
+    "image to video armour reference",
+    "medieval scene ai video",
+    "historical ai video prompt"
+  ],
+  "prompt": "Keep the castle and armour exactly as in the reference image. On the wall walk, defenders pass stone-weighted baskets hand to hand while a distant engine arm swings and dust blooms against the outer gate; no one is struck on screen. The camera cranes up from the parapet to reveal the whole curtain wall and the treeline at dawn. Cold blue hour with a low orange sun behind mist. Rough-hewn stone, splintered timber, mail, undyed wool.",
+  "title": "Siege at Dawn",
+  "summary": "Defenders work the wall walk as a distant engine arm swings and dust blooms at the gate.",
+  "why": "The shot describes effort rather than combat on purpose: hand-to-hand baskets, a distant engine, dust at the gate, and an explicit instruction that nobody is struck, which keeps a siege scene publishable while still feeling urgent. The crane reveal is the reason this is image-to-video — the reference fixes the architecture, and the model only has to move the camera and animate small human traffic along the wall.",
+  "reference_note": "Upload a reference with the architecture or the armour clearly visible — a castle wall, gatehouse or a plain mail-and-wool kit reads best. Avoid reference images containing logos, modern signage or dramatic battle photography, since the model tends to import that intensity and any text it sees.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/siege-at-dawn",
+    "generator": "https://callirra.com/seedance2.5?atlas=siege-at-dawn&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

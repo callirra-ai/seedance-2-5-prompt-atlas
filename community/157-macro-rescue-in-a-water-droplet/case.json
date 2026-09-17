@@ -1,0 +1,37 @@
+{
+  "slug": "macro-rescue-in-a-water-droplet",
+  "position": 157,
+  "category": "asmr-macro",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "Zarnab Ai",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/Zarnab_with_Ai/status/2089906950192722017",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/macro-rescue-in-a-water-droplet.mp4",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "asmr macro",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "Create a cinematic macro video of a tiny rescue boat and diver floating inside a giant water droplet, with realistic bubbles, ocean waves, dramatic lighting, and smooth camera",
+  "title": "Macro Rescue in a Water Droplet",
+  "summary": "A prompt for creating a video of a tiny rescue boat and diver inside a giant water droplet with realistic ocean effects.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/macro-rescue-in-a-water-droplet",
+    "generator": "https://callirra.com/seedance2.5?atlas=macro-rescue-in-a-water-droplet&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

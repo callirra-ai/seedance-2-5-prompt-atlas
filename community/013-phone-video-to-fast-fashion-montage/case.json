@@ -1,0 +1,37 @@
+{
+  "slug": "phone-video-to-fast-fashion-montage",
+  "position": 13,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "origin": "community",
+  "credit": {
+    "author": "BMX",
+    "license": "CC BY 4.0",
+    "licenseDetail": "CC BY 4.0 (repository LICENSE; preview video served from the project CDN)",
+    "pageUrl": "https://x.com/bmx_ai13/status/2088746978641609156",
+    "repo": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+    "vendor": "x"
+  },
+  "clip": "https://callirra.com/videos/seedance-atlas/sourced/web/phone-video-to-fast-fashion-montage.mp4",
+  "settings": {
+    "duration_seconds": 15,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 583,
+  "keywords": [
+    "cinematic",
+    "seedance 2.5 prompt",
+    "ai video prompt"
+  ],
+  "prompt": "15 second vertical comedy clip, 9:16, photorealistic, shot like a real phone video that turns into a fast fashion montage. Cut driven, handheld, no music. MAYA. 27, olive skin, long chestnut brown wavy hair with sun lightened",
+  "title": "Phone Video To Fast Fashion Montage",
+  "summary": "A photorealistic 15-second vertical comedy clip shot like a phone video, featuring a character named Maya in a fast fashion montage.",
+  "why": "",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/phone-video-to-fast-fashion-montage",
+    "generator": "https://callirra.com/seedance2.5?atlas=phone-video-to-fast-fashion-montage&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}
