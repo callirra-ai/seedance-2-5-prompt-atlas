@@ -1,0 +1,28 @@
+{
+  "slug": "ink-bloom-in-still-water",
+  "position": 110,
+  "category": "asmr-macro",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "21:9",
+    "generate_audio": false
+  },
+  "credits": 311,
+  "keywords": [
+    "ink in water video",
+    "macro asmr prompt",
+    "slow motion ink",
+    "abstract liquid shot"
+  ],
+  "prompt": "A heavy drop of black ink touches still water and blooms outward in slow grey veils, sinking, folding and feathering into threads. The camera drifts sideways, level with the sinking bloom, never losing the leading edge. One shaft of light enters from directly above, so the ink reads as translucent layers against a dark tank while the surrounding water stays black. Time is late night, the room unlit apart from that shaft. Cinematic 21:9 macro, no bubbles, no ripples crossing the surface.",
+  "title": "Ink Bloom in Still Water",
+  "summary": "Black ink blooms through still water in grey veils, lit by a single overhead shaft in wide 21:9.",
+  "why": "Eight seconds and a wide 21:9 frame are chosen because the bloom is a slow, lateral event that needs room to spread; a square frame crops the threads that make it interesting. The prompt bans bubbles and surface ripples explicitly, since generators love adding both and either one destroys the illusion of still water. Drifting sideways with the bloom keeps the same plume in frame the way a real macro rig would, and the single overhead shaft is what converts flat black ink into visible layers.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/ink-bloom-in-still-water",
+    "generator": "https://callirra.com/seedance2.5?atlas=ink-bloom-in-still-water&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

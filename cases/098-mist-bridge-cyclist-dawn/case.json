@@ -1,0 +1,28 @@
+{
+  "slug": "mist-bridge-cyclist-dawn",
+  "position": 98,
+  "category": "urban-city",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "21:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "misty bridge video prompt",
+    "tracking shot prompt",
+    "dawn commute b-roll",
+    "cinematic wide city prompt"
+  ],
+  "prompt": "Thick dawn mist sits on a river bridge, and a cyclist in a yellow rain jacket pedals across, front lamp a small halo. The camera tracks alongside at handlebar height on a parallel rail, matching their speed so the railing and lamp posts slide past and the far piers vanish into white. Sun is a soft disc behind the fog, so everything is silver with one warm patch on the jacket. Muted 35mm, low contrast. Audio: tyre hiss on wet boards, water lapping, one bell.",
+  "title": "Mist Bridge Cyclist Dawn",
+  "summary": "A parallel tracking shot in 21:9: a cyclist crosses a misted bridge at dawn, piers fading into white.",
+  "why": "Tracking alongside at handlebar height keeps the cyclist a constant size, which is the calmest way to show movement in five seconds and the easiest thing for a model to keep stable. The mist does the rest: it removes the far bank, so the model never has to render a detailed skyline. Fog with one soft sun disc is one of the few lighting setups that survives being animated.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/mist-bridge-cyclist-dawn",
+    "generator": "https://callirra.com/seedance2.5?atlas=mist-bridge-cyclist-dawn&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

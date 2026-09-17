@@ -1,0 +1,28 @@
+{
+  "slug": "crosswalk-commuter-rush",
+  "position": 94,
+  "category": "urban-city",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "commuter crowd b-roll prompt",
+    "jib descending shot",
+    "morning city video prompt",
+    "street scene ai prompt"
+  ],
+  "prompt": "Commuters pour across a wide city crossing in both directions, coats and shoulder bags, phones lit, one cyclist weaving at the edge of the crowd. The camera starts high above the junction and descends slowly on a jib toward the middle of the crossing, flattening the walkers into moving shapes. Low morning sun cuts hard across the asphalt and drags long parallel shadows from every person and wheel. Clean 35mm, high shutter, crisp contrast. Audio: signal beeps, shoe scuffs, a bicycle bell, crowd murmur.",
+  "title": "Crosswalk Commuter Rush",
+  "summary": "A jib drops into the morning rush: commuters cross on long parallel shadows under hard early sun.",
+  "why": "A crowd shot is where models usually melt faces, so the camera stays high and keeps descending, treating commuters as shapes until the last moment. Hard low sun does two jobs at once: it separates the walkers from the asphalt and its strong shadow pattern hides limb errors. The audio cues are picked for rhythm as much as realism.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/crosswalk-commuter-rush",
+    "generator": "https://callirra.com/seedance2.5?atlas=crosswalk-commuter-rush&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

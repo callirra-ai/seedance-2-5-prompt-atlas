@@ -1,0 +1,28 @@
+{
+  "slug": "rooftop-sunset-groove",
+  "position": 39,
+  "category": "dance-music",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "rooftop dance video prompt",
+    "golden hour dance",
+    "solo choreography",
+    "vertical dance short"
+  ],
+  "prompt": "One dancer alone on a gravel rooftop runs a smooth eight-count groove, shoulders leading, feet sliding on the loose stones, hair lifting with each turn. The camera sits low and fixed for the first four counts, then cranes slowly upward to a full-body silhouette. The last sun rakes across the frame from behind, warm rim light on the arms, sky hazy. Warm film grade, halation on the highlights, light grain. Audio: a slow funk loop, the dancer's breathing, wind over the roof.",
+  "title": "Rooftop Sunset Groove",
+  "summary": "One dancer on a rooftop at last light, low camera, then a crane to full silhouette.",
+  "why": "One dancer, one continuous take and a camera that moves exactly once is what stops limbs from being redrawn between beats. The crane is placed after the first count so the movement phrase is established before the frame changes. Backlit last light rims the arms and turns the finish into a silhouette, which hides the small hand and foot errors that flat frontal light would expose. The vertical frame suits a single body in a social cut.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-sunset-groove",
+    "generator": "https://callirra.com/seedance2.5?atlas=rooftop-sunset-groove&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

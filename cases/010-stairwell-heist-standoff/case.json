@@ -1,0 +1,28 @@
+{
+  "slug": "stairwell-heist-standoff",
+  "position": 10,
+  "category": "cinematic",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "heist scene prompt",
+    "suspense cinematic shot",
+    "tilt down camera move",
+    "film noir lighting prompt"
+  ],
+  "prompt": "Halfway down a concrete stairwell, a figure in a grey hoodie freezes on the landing, one gloved hand tight around a canvas bag. The camera tilts slowly down past the steel handrail from above, settling level with the landing as a torch beam sweeps the wall below. A single caged work lamp burns greenish over the stairs, and the beam is a hard white sliver. Gritty 35mm, deep contrast, dust in the air. Audio: dripping water, one held breath, radio static.",
+  "title": "Stairwell Heist Standoff",
+  "summary": "A heist beat held in one tilt: a hooded figure freezes on a stairwell landing as a torch beam climbs.",
+  "why": "Tension reads better when the subject is frozen and the threat moves, so the figure holds still while the camera tilts and a light crosses the wall. Fixing where the tilt ends, level with the landing, stops the slow drift these shots usually get. Two narrow directional sources preserve the darkness the whole beat depends on.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/stairwell-heist-standoff",
+    "generator": "https://callirra.com/seedance2.5?atlas=stairwell-heist-standoff&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

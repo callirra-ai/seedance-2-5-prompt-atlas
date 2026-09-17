@@ -1,0 +1,3004 @@
+{
+  "model": "seedance-2.5",
+  "generated_from": "callirra.com/seedance-prompt-library",
+  "licence": "CC BY 4.0",
+  "note": "credit counts are the live price for each configuration, computed by the same pricing engine the site bills with",
+  "categories": [
+    {
+      "slug": "cinematic",
+      "name": "Cinematic & film scenes",
+      "count": 11
+    },
+    {
+      "slug": "product-commercial",
+      "name": "Product & commercial",
+      "count": 11
+    },
+    {
+      "slug": "anime-motion",
+      "name": "Anime & stylised motion",
+      "count": 10
+    },
+    {
+      "slug": "dance-music",
+      "name": "Dance & music video",
+      "count": 10
+    },
+    {
+      "slug": "nature-landscape",
+      "name": "Nature & landscapes",
+      "count": 10
+    },
+    {
+      "slug": "animals-pets",
+      "name": "Animals & pets",
+      "count": 10
+    },
+    {
+      "slug": "sports-action",
+      "name": "Sports & action",
+      "count": 10
+    },
+    {
+      "slug": "vfx-scifi",
+      "name": "VFX & sci-fi",
+      "count": 10
+    },
+    {
+      "slug": "historical-fantasy",
+      "name": "Historical & fantasy",
+      "count": 10
+    },
+    {
+      "slug": "urban-city",
+      "name": "City & street",
+      "count": 10
+    },
+    {
+      "slug": "asmr-macro",
+      "name": "Macro & ASMR",
+      "count": 10
+    },
+    {
+      "slug": "story-dialogue",
+      "name": "Story & dialogue",
+      "count": 10
+    }
+  ],
+  "cases": [
+    {
+      "slug": "bridge-pursuit-headlights",
+      "position": 1,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Bridge Pursuit Headlights",
+      "summary": "A telephoto pursuit in 21:9: a coupe weaves across a dusk bridge while the lens pans with the traffic.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "car chase prompt",
+        "telephoto cinematic shot",
+        "anamorphic night driving",
+        "ai movie scene prompt"
+      ],
+      "prompt": "Far out on a long concrete bridge, a dark coupe cuts between lane markers, swerving around a slow truck. A long telephoto on the shore holds the shot and pans right, flattening the span so the car crawls across the frame while its headlights streak. The last blue-grey daylight is going, and the only warmth is tail lamps and oncoming headlights on wet tarmac. Anamorphic 35mm, oval bokeh, fine grain. Audio: engine drone, tyre whine, wind buffeting the microphone.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/bridge-pursuit-headlights",
+      "generator": "https://callirra.com/seedance2.5?atlas=bridge-pursuit-headlights&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "edit-suite-screen-glow",
+      "position": 2,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Edit Suite Screen Glow",
+      "summary": "A five-second pull-back in a dark edit suite, lit only by a flickering monitor and a red standby lamp.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "pull back reveal shot",
+        "monitor glow lighting prompt",
+        "filmmaker b-roll prompt",
+        "cinematic low light scene"
+      ],
+      "prompt": "In a windowless edit suite a technician leans toward a large monitor, tapping one key and squinting at the picture, a paper cup beside the keyboard. The camera pulls back slowly from their face until the whole dark room and the glowing screen are visible. The only light is the monitor flickering blue-white across their glasses, plus a thin red standby lamp on the rack behind. 35mm, deep contrast, gentle bloom. Audio: fan hum, one key click, a chair squeak.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/edit-suite-screen-glow",
+      "generator": "https://callirra.com/seedance2.5?atlas=edit-suite-screen-glow&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "midnight-diner-encounter",
+      "position": 3,
+      "category": "cinematic",
+      "scene": "image-to-video",
+      "title": "Midnight Diner Encounter",
+      "summary": "A diner photo extended into a slow lateral dolly: one glance, two cups, steam in tungsten light.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "image to video diner scene",
+        "quiet cinematic moment prompt",
+        "slow dolly shot",
+        "moody interior video prompt",
+        "seedance 2.5 prompt"
+      ],
+      "prompt": "The counter, the cups and both people stay exactly as in the reference image. A slow lateral dolly slides right along the laminate, past a cooling cup, and settles on the woman as she turns her head a few degrees toward the man opposite; steam drifts between them. One warm tungsten pendant hangs overhead and everything else falls to near black, until a passing car sweeps one cold stripe across the window. 16mm grain, muted teal shadows. Audio: a refrigerator hum, a cup set down.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/midnight-diner-encounter",
+      "generator": "https://callirra.com/seedance2.5?atlas=midnight-diner-encounter&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "neon-rain-alley-chase",
+      "position": 4,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Neon Rain Alley Chase",
+      "summary": "A courier sprints through a rain-soaked neon alley, camera low and close, one unbroken take.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cinematic ai video prompt",
+        "rain chase scene",
+        "neon alley",
+        "one take",
+        "seedance 2.5 prompt"
+      ],
+      "prompt": "A courier in a soaked grey jacket sprints down a narrow alley at night, splashing through puddles, one hand pressed to a satchel. Handheld camera runs low and close behind the shoulder, then swings wide as the runner vaults a stack of crates. Neon signs in magenta and cyan reflect off the wet asphalt; steam curls from a vent on the left. Shallow depth of field, 35mm film grain, cool highlights against warm sodium streetlight. Audio: hard rain, running footsteps, distant traffic, a single shouted word.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/neon-rain-alley-chase",
+      "generator": "https://callirra.com/seedance2.5?atlas=neon-rain-alley-chase&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "one-take-corridor-walk",
+      "position": 5,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "One-Take Corridor Walk",
+      "summary": "One unbroken gimbal take: two colleagues walk a hotel corridor while the camera leads them backward.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "cinematic ai video prompt",
+        "one take walk and talk",
+        "hotel corridor scene",
+        "gimbal follow shot",
+        "seedance 2.5 prompt"
+      ],
+      "prompt": "Two colleagues in charcoal suits walk toward the lens down a long hotel corridor, the taller one talking with quick open hands while the other listens and nods. A gimbal rig retreats ahead of them at chest height, holding both in the lower third as brass wall sconces slide past the frame edges. Warm sconce pools alternate with cold blue exit signs, late evening. Anamorphic 40mm, fine 35mm grain, shallow focus. Audio: soft footsteps on carpet, one low voice, a door latch clicking.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/one-take-corridor-walk",
+      "generator": "https://callirra.com/seedance2.5?atlas=one-take-corridor-walk&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "platform-farewell-train",
+      "position": 6,
+      "category": "cinematic",
+      "scene": "image-to-video",
+      "title": "Platform Farewell Train",
+      "summary": "A station photo sent into motion: the lens racks focus from a raised hand to train windows sliding past.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "image to video farewell scene",
+        "train platform cinematic prompt",
+        "rack focus shot",
+        "emotional film scene prompt"
+      ],
+      "prompt": "Keep the platform, the person and the yellow line exactly as framed in the reference image. A train slides through behind them and the lens racks focus off their face onto the lit windows streaming past, then back again. Their raised hand stays small in frame, coat lifting in the slipstream. Overhead sodium strips throw amber pools down the platform while the train adds one cold white wash. Soft 35mm, slight halation, shallow focus. Audio: a gust, a long braking hiss, a whistle.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/platform-farewell-train",
+      "generator": "https://callirra.com/seedance2.5?atlas=platform-farewell-train&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "pre-dawn-kitchen-letter",
+      "position": 7,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Pre-Dawn Kitchen Letter",
+      "summary": "A quiet pre-dawn beat: one slow push-in on a woman reading a single page under a warm bulb.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "quiet character moment prompt",
+        "slow push in shot",
+        "cinematic morning scene",
+        "ai film scene prompt"
+      ],
+      "prompt": "Before sunrise a woman in an oversized jumper sits alone at a kitchen table, reading one sheet of paper, thumb smoothing the crease. The camera pushes in very slowly from across the room, drifting past an empty chair until the page fills a third of the frame. Cold blue pre-dawn light comes through the window behind her, and a single warm bulb over the table catches the edge of the paper. 35mm, available-light palette, soft grain, no camera shake.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/pre-dawn-kitchen-letter",
+      "generator": "https://callirra.com/seedance2.5?atlas=pre-dawn-kitchen-letter&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rehearsal-mirror-turn",
+      "position": 8,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Rehearsal Mirror Turn",
+      "summary": "An eight-second rehearsal beat: a handheld half-circle reveals the mirror and doubles the actor mid-line.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "one take actor scene prompt",
+        "handheld arc shot",
+        "hard sunlight through blinds",
+        "moody rehearsal room video prompt"
+      ],
+      "prompt": "Alone in a mirrored rehearsal room, an actor in a worn shirt paces and speaks lines at the wall, marking beats with one hand. A handheld camera arcs a half circle from behind their shoulder to the front, so the mirror reflection slides into frame and doubles them. Hard late-afternoon sun comes through half-closed blinds, striping the floor and the mirror in bands of gold and shadow. Warm 35mm, slight handheld roll. Audio: murmured lines, a floorboard creak, a chair scrape.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rehearsal-mirror-turn",
+      "generator": "https://callirra.com/seedance2.5?atlas=rehearsal-mirror-turn&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "service-tunnel-sprint",
+      "position": 9,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Service Tunnel Sprint",
+      "summary": "An eight-second tunnel sprint: a trolley camera retreats at knee height as a train headlight floods in.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "chase scene prompt",
+        "train tunnel cinematic shot",
+        "backlit runner video prompt",
+        "ai action video prompt"
+      ],
+      "prompt": "Deep in a service tunnel, a runner in a hi-vis vest sprints along the narrow walkway beside the rails, arms pumping, breath fogging. The camera rides a trolley ahead of them, retreating backwards at knee height so the tunnel walls streak away on both sides. Almost everything is black until a train headlight floods in from behind, rimming the runner and throwing a long shadow down the wall. Gritty 35mm, crushed blacks, handheld micro-shake. Audio: gravel footsteps, a swelling roar, tunnel echo.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/service-tunnel-sprint",
+      "generator": "https://callirra.com/seedance2.5?atlas=service-tunnel-sprint&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "stairwell-heist-standoff",
+      "position": 10,
+      "category": "cinematic",
+      "scene": "text-to-video",
+      "title": "Stairwell Heist Standoff",
+      "summary": "A heist beat held in one tilt: a hooded figure freezes on a stairwell landing as a torch beam climbs.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "heist scene prompt",
+        "suspense cinematic shot",
+        "tilt down camera move",
+        "film noir lighting prompt"
+      ],
+      "prompt": "Halfway down a concrete stairwell, a figure in a grey hoodie freezes on the landing, one gloved hand tight around a canvas bag. The camera tilts slowly down past the steel handrail from above, settling level with the landing as a torch beam sweeps the wall below. A single caged work lamp burns greenish over the stairs, and the beam is a hard white sliver. Gritty 35mm, deep contrast, dust in the air. Audio: dripping water, one held breath, radio static.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/stairwell-heist-standoff",
+      "generator": "https://callirra.com/seedance2.5?atlas=stairwell-heist-standoff&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "tailor-measuring-hands",
+      "position": 11,
+      "category": "cinematic",
+      "scene": "image-to-video",
+      "title": "Tailor Measuring Hands",
+      "summary": "A tailor-shop photo animated with one slow arc: tape along a shoulder, chalk on wool, soft window light.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "image to video craft shot",
+        "tailor hands close up prompt",
+        "slow arc camera move",
+        "warm window light video prompt"
+      ],
+      "prompt": "Everything in the reference image, the tailor, the hands, the tape and the shop, stays untouched. The tape is drawn slowly along a shoulder while chalk marks grey wool, and a pin is set and pressed flat with a thumb. The camera swings in a slow arc around the worktable at hand height, keeping the fingers large in frame and the background still. Warm late-afternoon window light falls across the table from the left. Fine 16mm grain, soft contrast.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/tailor-measuring-hands",
+      "generator": "https://callirra.com/seedance2.5?atlas=tailor-measuring-hands&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "burger-sizzle-flame-grill",
+      "position": 12,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "title": "Burger Sizzle and Flame",
+      "summary": "A patty searing on a flat-top, steam cut by a hard hood light, one rise from plate to flame.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "burger commercial prompt",
+        "food video prompt",
+        "sizzle close up",
+        "fast food ad"
+      ],
+      "prompt": "A thick patty sears on a flat-top grill, fat bubbling and spitting at the crisp edge, a spatula pressing once. The camera rises from plate level to just above the flame line, ending on the charred crust. Orange burner flare licks from below while a hard hood light cuts the rising steam into visible shafts, late-night kitchen atmosphere. Grill marks, glossy rendered fat, a sesame bun beside it, warm commercial gloss. Audio: steady sizzle rising into a short flame hiss.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/burger-sizzle-flame-grill",
+      "generator": "https://callirra.com/seedance2.5?atlas=burger-sizzle-flame-grill&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "chilled-orange-soda-crack-open",
+      "position": 13,
+      "category": "product-commercial",
+      "scene": "image-to-video",
+      "title": "Chilled Soda Can Crack-Open",
+      "summary": "Your can photo comes alive: the ring pull lifts, mist escapes, one slow arc keeps the label readable.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "soda can product video",
+        "drink commercial prompt",
+        "can opening shot",
+        "image to video ad"
+      ],
+      "prompt": "The chilled can of orange sparkling soda from the reference image sits on wet slate, label unaltered, while a hand lifts the ring pull and fine mist escapes. The camera arcs a short quarter-turn right, keeping the label readable. Hard backlight burns through the glass so each rising bubble carries its own highlight against a near-black backdrop with cold metal fill. Condensation beads and slides in slow rivulets, glossy advertising finish. Audio: one crisp crack, then a long fine hiss.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/chilled-orange-soda-crack-open",
+      "generator": "https://callirra.com/seedance2.5?atlas=chilled-orange-soda-crack-open&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "chocolate-unwrap-snap-beat",
+      "position": 14,
+      "category": "product-commercial",
+      "scene": "image-to-video",
+      "title": "Chocolate Unwrap and Snap",
+      "summary": "Eight seconds of foil, snap and crumb: a warm low-key unwrap that keeps the wrapper facing the lens.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "chocolate product video",
+        "candy commercial prompt",
+        "unboxing close up",
+        "food ad image to video"
+      ],
+      "prompt": "Foil peels back from the chocolate bar in your reference photo, the printed sleeve staying face-up and unchanged, until two squares break away with a clean snap. The camera tilts down from the rumpled foil to the fractured edge, holding as cocoa crumbs scatter. A warm tungsten practical sits low on the right, low-key, falling off into deep brown shadow. Tempered chocolate shows a matte snap face and a faint gloss on the moulded side. Audio: dry foil crinkle, then one crisp snap.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/chocolate-unwrap-snap-beat",
+      "generator": "https://callirra.com/seedance2.5?atlas=chocolate-unwrap-snap-beat&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "coffee-pour-hero-shot",
+      "position": 15,
+      "category": "product-commercial",
+      "scene": "image-to-video",
+      "title": "Coffee Pour Hero Shot",
+      "summary": "Your product photo, turned into a five-second hero shot: a slow pour, rising steam, one clean camera push.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "product video from photo",
+        "coffee commercial prompt",
+        "hero shot",
+        "image to video ad",
+        "seedance 2.5 prompt"
+      ],
+      "prompt": "Keep the product and its label exactly as in the reference image. A thin stream of black coffee pours from above into the cup in slow motion, surface rippling outward, steam rising and catching a warm side light from the right. The camera pushes in gently, no cut, keeping the label centred and legible the whole time. Background stays the same clean surface, slightly darker at the edges. Subtle condensation on the cup, glossy highlight along the stream, commercial colour grade with lifted shadows.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/coffee-pour-hero-shot",
+      "generator": "https://callirra.com/seedance2.5?atlas=coffee-pour-hero-shot&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "earbud-case-hinge-macro",
+      "position": 16,
+      "category": "product-commercial",
+      "scene": "image-to-video",
+      "title": "Earbud Case Hinge Macro",
+      "summary": "An unbranded charging case opens under one sweeping highlight, probed at macro scale for eight seconds.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "earbud product video",
+        "tech ad prompt",
+        "macro product shot",
+        "gadget unboxing clip"
+      ],
+      "prompt": "The lid of a matte charging case lifts on its hinge, two small earbuds nested inside, the case matching the uploaded photo exactly, and a single status light breathes on. A probe lens glides along the seam, then racks focus from the hinge to the light in one clean move. A thin linear highlight sweeps the matte edges against a cool blue-grey void with no ambient fill, so only the geometry reads. Soft-touch plastic, micro-textured metal pins, faint dust specks on the glass. Silent, macro, unbranded.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/earbud-case-hinge-macro",
+      "generator": "https://callirra.com/seedance2.5?atlas=earbud-case-hinge-macro&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "face-serum-drop-reveal",
+      "position": 17,
+      "category": "product-commercial",
+      "scene": "image-to-video",
+      "title": "Face Serum Drop Reveal",
+      "summary": "A serum drop falls onto skin under shadowless light while the bottle label stays perfectly readable.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "serum product video",
+        "skincare commercial prompt",
+        "cosmetic macro shot",
+        "image to video beauty ad"
+      ],
+      "prompt": "A single drop of clear face serum leaves the glass dropper and falls onto the back of a hand, the bottle behind it untouched and its label fully readable. The camera descends from directly overhead, stopping just short of contact, so skin texture and the wet edge stay sharp. Light comes from a large frosted panel at upper left, wrapping the scene in shadowless midday softness that keeps the branding crisp. Cool neutral tones, glass and liquid rendered cleanly, no glare on the packaging.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/face-serum-drop-reveal",
+      "generator": "https://callirra.com/seedance2.5?atlas=face-serum-drop-reveal&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "iced-tea-pour-over-ice",
+      "position": 18,
+      "category": "product-commercial",
+      "scene": "image-to-video",
+      "title": "Iced Tea Pour Over Ice",
+      "summary": "Iced tea over ice in morning window light, one pull-back that keeps the label legible throughout.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "drink pour video",
+        "beverage commercial prompt",
+        "product video from photo",
+        "iced tea ad"
+      ],
+      "prompt": "Amber iced tea pours from the jug over a tall stack of ice, filling the glass while the label on it stays sharp and unaltered. The camera dollies back slowly and evenly, never losing the label. Bright morning window light enters from the left, refracting through the liquid into warm streaks across a linen tablecloth. Condensation gathers and runs in thin lines down the outside of the glass. Audio: a steady pour, ice shifting, then a soft settling fizz.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/iced-tea-pour-over-ice",
+      "generator": "https://callirra.com/seedance2.5?atlas=iced-tea-pour-over-ice&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "perfume-bottle-light-sweep",
+      "position": 19,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "title": "Perfume Bottle Light Sweep",
+      "summary": "A faceted perfume bottle on wet black stone, caustics thrown across the surface, one slider reveal.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "perfume ad prompt",
+        "fragrance product video",
+        "luxury product shot",
+        "bottle light sweep"
+      ],
+      "prompt": "A faceted glass perfume bottle stands on wet black stone, its blank label facing forward. The camera slides left to right at label height, unhurried, revealing cut edges that throw caustic patterns across the stone. One hard beam strikes from behind at a low dusk-blue ambient level, so the liquid inside glows amber while the glass stays dark and reflective. Fine water film and a few droplets catch the beam. Luxury minimalism, deep blacks, no visible text. Silent, product-only.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/perfume-bottle-light-sweep",
+      "generator": "https://callirra.com/seedance2.5?atlas=perfume-bottle-light-sweep&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "silk-scarf-fall-fashion",
+      "position": 20,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "title": "Silk Scarf Fall, Fashion",
+      "summary": "A silk scarf falls in slow motion through striped golden-hour light, tracked down to the floor.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "3:4",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "fashion product video",
+        "textile ad prompt",
+        "slow motion fabric",
+        "editorial fashion shot"
+      ],
+      "prompt": "A long silk scarf slips from open hands and falls in slow motion, unfolding and twisting once as it drops. The camera tracks down with the fabric, staying just above it, ending as the hem settles on a bare concrete floor. Golden-hour sun comes through slatted blinds, laying warm horizontal stripes across the silk and the floor while deep shade fills between them. Shot on a long lens, fabric sheen shifting from bright to velvet as it turns. Silent, editorial, calm.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/silk-scarf-fall-fashion",
+      "generator": "https://callirra.com/seedance2.5?atlas=silk-scarf-fall-fashion&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "skincare-before-after-glow",
+      "position": 21,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "title": "Skincare Before and After",
+      "summary": "A ten-second vertical before-and-after: the same skin, one light sweep, no claims and no text.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "9:16",
+        "generate_audio": false
+      },
+      "credits": 389,
+      "keywords": [
+        "skincare before after video",
+        "beauty ad prompt",
+        "vertical product video",
+        "skin texture macro"
+      ],
+      "prompt": "A vertical split frame shows the same patch of forearm skin twice, dull and dry on the left, smooth and hydrated on the right, with no brand text anywhere. The camera holds one fixed centred frame while a soft frontal panel sweeps smoothly from cool to warm. The only other motion is a faint sheen travelling across the right half and settling. Midday studio neutrality turns into a warm glow; pores, fine lines and moisture film stay visible in both halves. Even, honest, advertiser-safe skin realism.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/skincare-before-after-glow",
+      "generator": "https://callirra.com/seedance2.5?atlas=skincare-before-after-glow&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "sneaker-spin-reveal-studio",
+      "position": 22,
+      "category": "product-commercial",
+      "scene": "text-to-video",
+      "title": "Sneaker Spin Reveal, Studio",
+      "summary": "A floating unbranded sneaker turns on a dark studio gradient, rim-lit so every material reads.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "1:1",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "sneaker product video",
+        "shoe commercial prompt",
+        "360 product spin",
+        "studio product lighting"
+      ],
+      "prompt": "A generic high-top running shoe hangs mid-air and turns slowly while the camera circles a half-turn counter-clockwise at sole height, finishing on the outer panel and stitching. A single strip softbox sits behind the shoe, so a bright rim traces the toe, the collar and the outsole while a dark charcoal gradient falls away beneath it. Breathable knit mesh and matte rubber read clearly, dust motes drifting through the beam. Studio product lighting, controlled and windowless. No text or logos appear at any point.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/sneaker-spin-reveal-studio",
+      "generator": "https://callirra.com/seedance2.5?atlas=sneaker-spin-reveal-studio&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "cel-shaded-sword-draw",
+      "position": 23,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Cel-Shaded Sword Draw",
+      "summary": "One draw, one three-frame smear: a masked duelist clears her blade as the background erupts into speed lines.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "anime ai video prompt",
+        "cel shaded action",
+        "sword draw cut",
+        "sakuga motion"
+      ],
+      "prompt": "A masked duelist in a red haori plants both feet on wet stone and draws in one motion; the blade leaves the sheath in a three-frame smear while background lines radiate outward. The camera snaps from a low profile to a fast lateral whip and settles tight on her eyes. Flat overcast dawn light. Hand-drawn cel-shaded 2D animation, hard shadow shapes, bold line work, limited palette. Audio: a short steel ring and one gust of wind.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/cel-shaded-sword-draw",
+      "generator": "https://callirra.com/seedance2.5?atlas=cel-shaded-sword-draw&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "cel-shaded-turn-to-camera",
+      "position": 24,
+      "category": "anime-motion",
+      "scene": "image-to-video",
+      "title": "Cel-Shaded Turn To Camera",
+      "summary": "Your character sheet, turned to camera: she holds the design, then finds the lens.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "character sheet to video",
+        "anime character animation",
+        "turn to camera prompt",
+        "cel shaded anime"
+      ],
+      "prompt": "Match the reference character sheet exactly: same silhouette, same coat, same hair shape, same flat colours. She stands at a rooftop rail with her back to us, coat moving in the wind, then turns her head and shoulders over three seconds until her eyes find the lens. The camera holds one static medium shot throughout, no reframe. Blue-hour side light, city haze behind her. Cel-shaded 2D animation, clean line work, minimal shading.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/cel-shaded-turn-to-camera",
+      "generator": "https://callirra.com/seedance2.5?atlas=cel-shaded-turn-to-camera&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "chibi-teahouse-slip",
+      "position": 25,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Chibi Teahouse Slip",
+      "summary": "A chibi cook saves a stack of bowls with one foot, in flat colours and heavy squash.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "1:1",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "chibi animation prompt",
+        "cute anime short",
+        "comedic anime motion",
+        "stylised 2d cartoon"
+      ],
+      "prompt": "Steam puffs from a teahouse pot as a round-faced chibi cook skids into a table, arms windmilling, and saves a wobbling stack of bowls with one outstretched foot. The camera stays flat and side-on, then jerks into a tiny comic zoom on the catch. Soft even daylight through paper screens, one red paper lamp glowing behind the counter. Chunky chibi 2D animation, thick outlines, flat colours, heavy squash and stretch.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/chibi-teahouse-slip",
+      "generator": "https://callirra.com/seedance2.5?atlas=chibi-teahouse-slip&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "magical-girl-transformation",
+      "position": 26,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Magical Girl Transformation",
+      "summary": "A transformation in one orbit and one hard cut: ribbon light, sparkles, a final landed pose.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "magical girl transformation prompt",
+        "anime sparkle effect",
+        "transformation sequence",
+        "cel shaded vfx"
+      ],
+      "prompt": "A girl in a plain school uniform lifts a small brass bell and light spirals up from her heels; ribbons of colour wrap her arms into gloves while her coat blooms open, and the final pose lands hard. The camera orbits her once at chest height, then cuts to a fixed wide for the finished silhouette. Twilight, low sun flaring behind her shoulders. Cel-shaded 2D animation with sparkle particles, lens flare and a star-field backdrop. Audio: rising chime chord, then one percussive hit.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/magical-girl-transformation",
+      "generator": "https://callirra.com/seedance2.5?atlas=magical-girl-transformation&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "manga-panel-comes-alive",
+      "position": 27,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Manga Panel Comes Alive",
+      "summary": "A manga panel comes alive: the inked runner steps over the border into the next panel.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "3:4",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "manga panel animation",
+        "comic page to video",
+        "halftone anime prompt",
+        "panel transition"
+      ],
+      "prompt": "Inked lines shiver across a black-and-white page, and the runner drawn inside the panel steps over the border into the next one, halftone dots rippling where he crosses. The camera looks straight down at the open spread and pulls back slowly as the gutters bend. One warm desk lamp pools on the page, the room dark around it. Monochrome manga rendering, halftone shading, hatching, crisp panel borders that flex like paper.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/manga-panel-comes-alive",
+      "generator": "https://callirra.com/seedance2.5?atlas=manga-panel-comes-alive&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "mecha-hangar-launch",
+      "position": 28,
+      "category": "anime-motion",
+      "scene": "image-to-video",
+      "title": "Mecha Hangar Launch",
+      "summary": "Your mecha sheet, launched: gantry steam, a hard drop, and a blue-flame climb out of the bay.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "mecha launch prompt",
+        "anime robot animation",
+        "image to video mecha",
+        "hangar scene"
+      ],
+      "prompt": "The launching machine from the reference sheet must stay identical: same plating, same colours, same markings. It hangs in a service gantry while steam vents from the shoulder joints, then drops, lands, and climbs out of the bay on a column of blue flame. The camera dollies along the gantry and then tracks upward with the launch. Cold floodlights from above, orange sparks below. Cel-shaded mecha animation, panel lines, motion blur on the thrusters. Audio: clamps releasing, a deep engine roar.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/mecha-hangar-launch",
+      "generator": "https://callirra.com/seedance2.5?atlas=mecha-hangar-launch&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "painted-market-continues",
+      "position": 29,
+      "category": "anime-motion",
+      "scene": "image-to-video",
+      "title": "Painted Market Street Continues",
+      "summary": "Your painted frame kept alive: lanterns swing, steam turns, a cat crosses between the stalls.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "hand painted background prompt",
+        "image to video anime scene",
+        "background animation",
+        "lo-fi street scene"
+      ],
+      "prompt": "Continuing the painted frame you uploaded, leave the street and the stall layout untouched. Paper lanterns swing on their wires, steam turns over a noodle pot, a grey cat crosses between the stalls, and two shoppers drift past the left edge. The camera dollies slowly right, no cut, holding the same depth of field. Dusk light with warm lantern pools on wet cobbles. Hand-painted background art, limited cel animation on the moving figures, soft grain.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/painted-market-continues",
+      "generator": "https://callirra.com/seedance2.5?atlas=painted-market-continues&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "retro-sports-anime-serve",
+      "position": 30,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Retro Sports Anime Serve",
+      "summary": "Retro TV sports anime: a volleyball smash held on the impact frame, then a slow replay tilt.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "4:3",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "sports anime prompt",
+        "retro 90s anime style",
+        "volleyball smash cut",
+        "anime impact frame"
+      ],
+      "prompt": "A volleyball player in a plain navy kit winds up and drives the ball over the net; the impact frame holds two beats while the ball stretches into a white streak. The camera cuts from a low baseline angle to a fast push on her face mid-shout, then a slow-motion tilt across the court floor. Bright overhead gym panels. Retro 1990s television anime look, visible cel grain, saturated flats, painted gym background. Audio: crowd roar, ball thud, squeaking shoes.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/retro-sports-anime-serve",
+      "generator": "https://callirra.com/seedance2.5?atlas=retro-sports-anime-serve&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "sumi-e-ink-dragon",
+      "position": 31,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Sumi-e Ink Dragon",
+      "summary": "Ink on blank paper gathers into a coiled dragon, stroke by stroke, in monochrome sumi-e.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "ink brush animation prompt",
+        "sumi-e dragon",
+        "watercolour anime style",
+        "ink wash motion"
+      ],
+      "prompt": "Wet black ink gathers on blank paper and rises into a coiled dragon; whiskers uncurl stroke by stroke as the wash bleeds into the fibres. The camera tilts slowly up the body and holds as the last horn forms. A single lamp skims the paper in a dark studio, dust hanging in the air. Sumi-e ink-wash animation, dry-brush texture, generous negative space, no outlines, monochrome with one red seal.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/sumi-e-ink-dragon",
+      "generator": "https://callirra.com/seedance2.5?atlas=sumi-e-ink-dragon&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "watercolour-train-commuter",
+      "position": 32,
+      "category": "anime-motion",
+      "scene": "text-to-video",
+      "title": "Watercolour Train Commuter",
+      "summary": "A watercolour commuter watches the fields slide past until a tunnel swallows the light.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "watercolour anime prompt",
+        "train window scene",
+        "lo-fi anime loop",
+        "hand painted background"
+      ],
+      "prompt": "A lone commuter in a yellow raincoat leans her cheek against the window of a rural train, watching rice fields slide past. The camera tracks beside the carriage at window height, then eases into a close-up of her reflection as a tunnel mouth swallows the light. Late afternoon sun, warm gold melting into blue shadow. Loose watercolour animation with visible paper grain and bleeding edges, hand-painted backgrounds. Audio: rail clatter, a soft sigh, a distant crossing bell.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/watercolour-train-commuter",
+      "generator": "https://callirra.com/seedance2.5?atlas=watercolour-train-commuter&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "ballet-barre-rehearsal",
+      "position": 33,
+      "category": "dance-music",
+      "scene": "image-to-video",
+      "title": "Ballet Barre Rehearsal",
+      "summary": "Your studio frame, kept: a barre balance unfolding into a slow arabesque in the mirror.",
+      "config": {
+        "resolution": "480p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 138,
+      "keywords": [
+        "ballet dance prompt",
+        "rehearsal studio video",
+        "image to video dance",
+        "pointe balance scene"
+      ],
+      "prompt": "In the reference frame keep the barre, the mirror and the leotard colour unchanged. She rises onto pointe at the barre, finds her balance, then unfolds into a slow arabesque while the mirror doubles the shape behind her. The camera stays in a fixed three-quarter wide with a very small push in. Morning light through tall windows, dust in the air. Soft film grade, cool shadows. Audio: a piano phrase, one breath, the creak of the barre.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/ballet-barre-rehearsal",
+      "generator": "https://callirra.com/seedance2.5?atlas=ballet-barre-rehearsal&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "beat-synced-garage-cuts",
+      "position": 34,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "Beat-Synced Garage Cuts",
+      "summary": "One dancer, one locked frame, a cut on every kick: jacket and angle change, body stays.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "1:1",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "beat sync video prompt",
+        "cut on the beat",
+        "solo dance loop",
+        "music video edit"
+      ],
+      "prompt": "One dancer in a concrete parking garage holds the same spot while the edit cuts on every kick drum: jacket changes, angle changes, hair changes, body never leaves frame. The camera never moves, locked at chest height and centred. One caged work lamp on a pillar throws a long shadow forward, floor dark, no fill. Cold industrial grade, slight grain. Audio: a four-on-the-floor kick with a hat on the offbeat.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/beat-synced-garage-cuts",
+      "generator": "https://callirra.com/seedance2.5?atlas=beat-synced-garage-cuts&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "concert-light-drop",
+      "position": 35,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "Concert Light Drop",
+      "summary": "From the pit: lights slam on, the floor jumps, the camera pushes through to the rail.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "concert crowd prompt",
+        "stage lighting video",
+        "live show b-roll",
+        "music crowd shot"
+      ],
+      "prompt": "From the pit, a packed crowd throws its hands up as the stage goes black, then a bank of moving lights slams across the front truss and the whole floor jumps on the first beat. The camera pushes forward through the crowd to the rail, one direction, no cut. Beams cut through haze, screens glow in the dark. High-contrast concert grade, crushed blacks, saturated beams. Audio: crowd roar, a kick drum, one held guitar note.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/concert-light-drop",
+      "generator": "https://callirra.com/seedance2.5?atlas=concert-light-drop&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "drummer-kit-close-up",
+      "position": 36,
+      "category": "dance-music",
+      "scene": "image-to-video",
+      "title": "Drummer Kit Close-Up",
+      "summary": "Your kit, kept: a fast tom fill, both wrists blurred, landing hard on the crash.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "drummer close up prompt",
+        "live drum fill",
+        "music performance video",
+        "image to video music"
+      ],
+      "prompt": "Reproduce the reference kit exactly, same drums, same cymbal positions, same room, while the drummer drives a fast fill across the toms, both wrists blurred, then lands hard on the crash. Handheld camera sits tight at drum height and drifts a hand's width closer on the last hit. One hard side key from the left, deep falloff, small glints on the cymbal edges. Gritty concert grade. Audio: a snare crack, a cymbal swell, one kick on the downbeat.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/drummer-kit-close-up",
+      "generator": "https://callirra.com/seedance2.5?atlas=drummer-kit-close-up&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "kpop-formation-hook",
+      "position": 37,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "K-Pop Style Formation Hook",
+      "summary": "Nine dancers, one formation change on the downbeat, in two locked camera setups.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "kpop dance ai prompt",
+        "group choreography video",
+        "formation dance scene",
+        "music video prompt"
+      ],
+      "prompt": "A nine-dancer crew in matching bomber jackets snaps into a diagonal formation on the downbeat, arms whipping together, then breaks into a loose travelling step. The camera holds one wide frontal setup for eight counts, then arcs a quarter turn to a second fixed position. Hard overhead strip lights on a black floor, cool white against deep shadow. Crisp music-video grade, sharp highlights, minimal grain. Audio: a mid-tempo pop beat with a clap on two and four.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/kpop-formation-hook",
+      "generator": "https://callirra.com/seedance2.5?atlas=kpop-formation-hook&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rain-street-cypher",
+      "position": 38,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "Rain Street Cypher",
+      "summary": "A rain-soaked street cypher: handheld circle, splashing footwork, a freeze on the last bar.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "street dance prompt",
+        "rain dance video",
+        "cypher scene",
+        "hip hop choreography"
+      ],
+      "prompt": "Three dancers form a loose circle on a flooded street, trading short footwork bursts while the others keep time with their hands; spray kicks up at every landing. Handheld camera circles the cypher at waist height and dips low as the last dancer drops into a freeze. Cold street-lamp pools, wet asphalt throwing colour back upward, light rain. Rainy-night grade, deep blues, wet skin highlights. Audio: a boom-bap break, splashing steps, one shouted call-out.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rain-street-cypher",
+      "generator": "https://callirra.com/seedance2.5?atlas=rain-street-cypher&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rooftop-sunset-groove",
+      "position": 39,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "Rooftop Sunset Groove",
+      "summary": "One dancer on a rooftop at last light, low camera, then a crane to full silhouette.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "rooftop dance video prompt",
+        "golden hour dance",
+        "solo choreography",
+        "vertical dance short"
+      ],
+      "prompt": "One dancer alone on a gravel rooftop runs a smooth eight-count groove, shoulders leading, feet sliding on the loose stones, hair lifting with each turn. The camera sits low and fixed for the first four counts, then cranes slowly upward to a full-body silhouette. The last sun rakes across the frame from behind, warm rim light on the arms, sky hazy. Warm film grade, halation on the highlights, light grain. Audio: a slow funk loop, the dancer's breathing, wind over the roof.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-sunset-groove",
+      "generator": "https://callirra.com/seedance2.5?atlas=rooftop-sunset-groove&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "salt-flat-silhouette-duet",
+      "position": 40,
+      "category": "dance-music",
+      "scene": "image-to-video",
+      "title": "Salt Flat Silhouette Duet",
+      "summary": "Your photo kept: a slow contact duet on white salt, sun down the lens, long shadows.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 389,
+      "keywords": [
+        "partner dance prompt",
+        "silhouette dance video",
+        "image to video duet",
+        "golden hour choreography"
+      ],
+      "prompt": "From the reference photo, hold both dancers and the flat horizon; they keep to one slow contact duet on cracked white salt, one lifting the other through a rolling turn, shadows stretching far to the right, then settling back into the opening pose. The camera arcs a half circle at a distance, never closer, no cut. Low golden-hour sun straight down the lens, long hard shadows on white. Desaturated warm grade, gentle bloom.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/salt-flat-silhouette-duet",
+      "generator": "https://callirra.com/seedance2.5?atlas=salt-flat-silhouette-duet&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "singer-mid-verse",
+      "position": 41,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "Singer Mid-Verse",
+      "summary": "A singer mid-verse, camera arcing profile to close-up, one hard backlight through haze.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "singer close up prompt",
+        "live vocal performance",
+        "music video lighting",
+        "vertical music shot"
+      ],
+      "prompt": "A singer in a plain black jacket grips the mic stand with both hands and leans into the second verse, eyes half closed, one heel keeping time on the monitor. The camera arcs slowly from her profile to a frontal close-up and stops, holding on her mouth and the mic. A single hard backlight rims her hair; the rest of the stage falls to black. Contrasty stage grade, blue and amber split tone. Audio: a dry vocal line over a sparse kick and bass.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/singer-mid-verse",
+      "generator": "https://callirra.com/seedance2.5?atlas=singer-mid-verse&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "underwater-silk-duet",
+      "position": 42,
+      "category": "dance-music",
+      "scene": "text-to-video",
+      "title": "Underwater Silk Duet",
+      "summary": "Two dancers in silk, weightless and in unison, as the camera sinks from the surface.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "underwater dance prompt",
+        "slow motion duet",
+        "silk fabric video",
+        "artistic dance scene"
+      ],
+      "prompt": "Two dancers in long silk skirts move through warm water in slow, weightless unison, fabric trailing above them and hair floating outward on every turn. The camera sinks from the surface in one continuous descent, then holds level as they cross in front of it. Shafts of daylight break through the surface, silt drifting in the beams. Clear underwater grade, soft contrast, tiny bubbles catching the light. Audio: music heard through water, low and muffled, with a slow bubble wash.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/underwater-silk-duet",
+      "generator": "https://callirra.com/seedance2.5?atlas=underwater-silk-duet&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "aurora-frozen-lake-night",
+      "position": 43,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Aurora Over a Frozen Lake",
+      "summary": "A locked-off night shot: only the aurora moves above a frozen lake and a black spruce treeline.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "aurora borealis prompt",
+        "night sky video",
+        "frozen lake northern lights",
+        "starfield wallpaper"
+      ],
+      "prompt": "Nothing in the frame moves except the sky. A wide static shot holds a frozen lake in the foreground and a low ridge of black spruce on the horizon; above them, green and violet aurora ribbons unfold slowly, brightening, folding over themselves and fading, while stars stay fixed. Frost crystals on the ice catch a faint blue sheen. Long-exposure look, clean blacks, no grain, no camera shake, no people, no buildings.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/aurora-frozen-lake-night",
+      "generator": "https://callirra.com/seedance2.5?atlas=aurora-frozen-lake-night&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "coastline-drone-pullback-dawn",
+      "position": 44,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Coastline Drone Pullback at Dawn",
+      "summary": "A drone skims the swell, then pulls back to reveal a whole bay of dark sea cliffs in first light.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "aerial coastline prompt",
+        "sea cliffs drone shot",
+        "ocean waves from above",
+        "seedance 2.5 nature prompt"
+      ],
+      "prompt": "Gliding low over long green swell lines, the drone rises and pulls back until a curved bay of dark sea cliffs fills the frame. One wave breaks white along the base of the headland while the rest of the water stays glassy and green. First light rakes in from the left, throwing long shadows down every gully. Cool teal grade, crisp aerial detail. Audio: surf thudding on rock, steady wind, distant gull calls.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/coastline-drone-pullback-dawn",
+      "generator": "https://callirra.com/seedance2.5?atlas=coastline-drone-pullback-dawn&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "dune-crest-wind-sweep",
+      "position": 45,
+      "category": "nature-landscape",
+      "scene": "image-to-video",
+      "title": "Desert Dune Wind Sweep",
+      "summary": "Your dune photo comes alive as wind lifts a ribbon of sand off the crest and carries it along the ridge.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "dune photo to video",
+        "desert sand blowing",
+        "image to video landscape",
+        "wind on sand prompt"
+      ],
+      "prompt": "Hold the dune shape, colours and horizon from the reference image and change only the surface. A steady breeze lifts a thin ribbon of sand off the crest and carries it left along the ridge, dusting the sunlit face while the shaded side stays still. Soft grain slides down the slope in small avalanches. The camera tracks sideways, matching the wind. Warm low-sun palette, fine sand texture, no people, no footprints.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/dune-crest-wind-sweep",
+      "generator": "https://callirra.com/seedance2.5?atlas=dune-crest-wind-sweep&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "fog-drift-through-pines",
+      "position": 46,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Fog Drifting Through Pine Forest",
+      "summary": "A slow walk through fog and pine trunks where depth is made entirely of layers of grey.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "fog forest prompt",
+        "pine forest atmosphere",
+        "misty woods video",
+        "soft light nature shot"
+      ],
+      "prompt": "Fog banks slide between tall straight pine trunks while the camera creeps forward at chest height along a needle-covered floor, thinning at the front and thickening deeper in. A few needles fall and turn as they drop. Depth is carried by layers of grey, near trunks dark and sharp, far ones fading to nothing. Still, cold morning, no wind, no sun shafts, no animals, no people.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/fog-drift-through-pines",
+      "generator": "https://callirra.com/seedance2.5?atlas=fog-drift-through-pines&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "glacier-calving-wide-angle",
+      "position": 47,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Glacier Calving in Wide Shot",
+      "summary": "A ten-second hold on an ice wall, then a slab shears off and the wave spreads across still water.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "glacier calving prompt",
+        "ice wall collapse",
+        "polar wide shot",
+        "slow reveal ai video"
+      ],
+      "prompt": "After a few quiet seconds of stillness, a slab of blue ice shears off the right shoulder of the glacier wall with a long crack, drops into the water, and throws a wave that spreads outward while the new face steams with spray. The camera drifts slowly left from a low boat, swaying gently with the water, keeping the whole ice front in frame. Overcast polar light, desaturated blue and white, clean reflections. Audio: ice cracking, a low boom, water surge.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/glacier-calving-wide-angle",
+      "generator": "https://callirra.com/seedance2.5?atlas=glacier-calving-wide-angle&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "jungle-waterfall-vertical-flow",
+      "position": 48,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Jungle Waterfall in Full Flow",
+      "summary": "A vertical climb beside a jungle waterfall, from the plunge pool up to the lip it pours over.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "waterfall vertical video",
+        "jungle waterfall prompt",
+        "slow motion water",
+        "9:16 nature wallpaper"
+      ],
+      "prompt": "Water pours over a dark basalt lip in one thick rope and shatters into spray halfway down. The camera climbs slowly up the face from the plunge pool to the top edge, keeping the falling water on the left third of the frame. Wet ferns and moss tremble at the sides, mist drifts through the gap in the canopy. Soft green filtered light, saturated leaves, fine spray detail, slow motion at two hundred frames. Audio: steady roar, water hitting stone, a single bird call.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/jungle-waterfall-vertical-flow",
+      "generator": "https://callirra.com/seedance2.5?atlas=jungle-waterfall-vertical-flow&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "lava-fountain-crater-dusk",
+      "position": 49,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Lava Fountain at Dusk",
+      "summary": "Molten rock pulses out of a crater at dusk while the camera arcs slowly around the rim.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "volcano eruption prompt",
+        "lava fountain video",
+        "crater drone shot",
+        "dramatic nature ai video"
+      ],
+      "prompt": "Molten rock pulses out of the crater in a bright fountain and falls back in heavy glowing arcs, each burst brighter than the last. The camera arcs slowly around the rim at a safe distance, keeping the vent centred and the horizon level. Hot orange light bounces off the underside of the drifting smoke column while the surrounding dark basalt sits in cool blue dusk. Long lens, compressed haze, no people, no aircraft. Audio: deep rumble, crackling hiss, wind.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/lava-fountain-crater-dusk",
+      "generator": "https://callirra.com/seedance2.5?atlas=lava-fountain-crater-dusk&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "mirror-salt-flat-sunrise",
+      "position": 50,
+      "category": "nature-landscape",
+      "scene": "image-to-video",
+      "title": "Sunrise on the Mirror Salt Flat",
+      "summary": "A salt-flat photo with a thin film of water, doubled by the first colour of sunrise.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "salt flat reflection",
+        "sunrise mirror shot",
+        "photo to video landscape",
+        "desert sunrise prompt"
+      ],
+      "prompt": "Preserve the flat horizon and the thin sheet of water from the reference image; add only the sunrise and the motion. The sun climbs at the left edge as the whole sky warms from grey to amber, and the flooded ground doubles every colour in still water. The camera tilts up slowly from the water film to the glowing disc, then holds. A single thin ripple crosses the foreground and settles. Wide calm framing, natural saturation, no people, no buildings.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/mirror-salt-flat-sunrise",
+      "generator": "https://callirra.com/seedance2.5?atlas=mirror-salt-flat-sunrise&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "storm-light-over-moorland",
+      "position": 51,
+      "category": "nature-landscape",
+      "scene": "text-to-video",
+      "title": "Storm Light Over Open Moorland",
+      "summary": "After the rain, the camera tilts down from a black cloud base to a shaft of sun crossing wet heather.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "storm light prompt",
+        "dramatic sky video",
+        "moorland landscape shot",
+        "weather break b-roll"
+      ],
+      "prompt": "Rain has just stopped over a wide open moor. The camera tilts slowly down from a torn black cloud base to a line of low hills, where a shaft of sun drops through a single gap and slides across wet heather. Cloud shadow sweeps the slope and the surface glitters in the same beat. High dynamic range, deep contrast, muted olive and slate palette. Audio: gusting wind, dripping water, one rolling clap of distant thunder.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/storm-light-over-moorland",
+      "generator": "https://callirra.com/seedance2.5?atlas=storm-light-over-moorland&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "terraced-rice-fields-mist",
+      "position": 52,
+      "category": "nature-landscape",
+      "scene": "image-to-video",
+      "title": "Terraced Rice Fields in Morning Mist",
+      "summary": "A terraced hillside photo, with mist lifting off the flooded paddies step by step at dawn.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "rice terrace prompt",
+        "misty paddies video",
+        "photo to video landscape",
+        "terraced fields morning"
+      ],
+      "prompt": "Keep the terrace lines, field shapes and colours exactly as in the reference image. Thin mist lifts off the flooded paddies and drifts up the slope in slow layers, exposing the mirror surface of each step one after another, while a light breeze ripples the top paddies only. The camera pans slowly right along the hillside, staying level. Pastel dawn tones, natural colour, calm, no people, no birds, no added buildings.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/terraced-rice-fields-mist",
+      "generator": "https://callirra.com/seedance2.5?atlas=terraced-rice-fields-mist&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "aquarium-fish-drift-tank",
+      "position": 53,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Aquarium Fish Behind Glass",
+      "summary": "A planted tank in close-up: one shoal holding against the current, focus pulling through the glass.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "aquarium fish video",
+        "tank close up prompt",
+        "fish swimming macro",
+        "relaxing aquarium b-roll"
+      ],
+      "prompt": "Inside a planted freshwater tank, a small shoal of silver and orange fish holds position against a gentle current, fins flicking, while one of them turns a slow half circle and bubbles rise in a steady chain on the right. The focus pulls from the faint reflections on the front glass to a single fish behind it and stays there. Warm light from above the tank against a dark room, deep green plants, clean water, soft bokeh, no hands, no nets, no equipment in shot.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/aquarium-fish-drift-tank",
+      "generator": "https://callirra.com/seedance2.5?atlas=aquarium-fish-drift-tank&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "bee-working-open-bloom",
+      "position": 54,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Bee Working an Open Bloom",
+      "summary": "Macro vertical of a bee landing, circling the stamens and grooming in hard midday sun.",
+      "config": {
+        "resolution": "720p",
+        "duration": "4",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 156,
+      "keywords": [
+        "bee on flower macro",
+        "pollination close up",
+        "insect macro prompt",
+        "vertical nature video"
+      ],
+      "prompt": "Landing on a wide open bloom, a honeybee walks a tight circle across the stamens, then stops and grooms its front legs over its head. Petals flex under its weight, pollen dusts its back legs, and one loose petal sways out of sync. The camera hovers a few centimetres above the flower and drifts gently to keep the bee centred. Hard midday sun, deep shadows inside the petals, crisp macro detail, shallow focus, no other insects, no hands. Audio: close buzzing, faint breeze, distant garden.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/bee-working-open-bloom",
+      "generator": "https://callirra.com/seedance2.5?atlas=bee-working-open-bloom&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "cat-knocks-mug-off-table",
+      "position": 55,
+      "category": "animals-pets",
+      "scene": "image-to-video",
+      "title": "Cat Knocks a Mug Off the Table",
+      "summary": "A photo of a cat beside a mug, extended into the slow paw push, the topple and the drop.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "cat knocking things over",
+        "funny pet video prompt",
+        "photo to video cat",
+        "cat paw push"
+      ],
+      "prompt": "Same cat, same markings, same mug on the table; only the paw moves. It stares at the mug, then reaches out one paw and pushes it twice, watching it slide, topple over the edge and drop out of frame while the head tilts down to follow the fall. A fast push-in paired with a slight zoom-out lands as the mug goes over. Warm late-afternoon window light, shallow depth of field, plain wall. Audio: claw on ceramic, a clatter, a small chirp.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/cat-knocks-mug-off-table",
+      "generator": "https://callirra.com/seedance2.5?atlas=cat-knocks-mug-off-table&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "elephant-dust-bath-dusk",
+      "position": 56,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Elephant Taking a Dust Bath",
+      "summary": "An elephant sprays dust over its own back in three slow sweeps while the camera rises with the cloud.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "elephant dust bath",
+        "safari wildlife prompt",
+        "slow motion dust",
+        "wide nature shot"
+      ],
+      "prompt": "Dust puffs as an adult elephant curls its trunk into a dry patch and sprays it over its own back and ears in three slow sweeps, skin twitching where it lands, and the cloud hangs then drifts sideways. The camera rises from trunk height to full height as the dust spreads. Hazy late-afternoon sun filters through the cloud, turning it ochre and softening the horizon. Wide natural-history framing, fine particles, warm earth tones, no other animals, no people. Audio: a low rumble, dust pattering, dry wind.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/elephant-dust-bath-dusk",
+      "generator": "https://callirra.com/seedance2.5?atlas=elephant-dust-bath-dusk&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "flock-lifts-off-water",
+      "position": 57,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Flock Lifting Off the Water",
+      "summary": "A raft of small wading birds on a lagoon bursts into flight, the camera whipping up after them.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "birds taking flight",
+        "flock lift off video",
+        "slow motion wings",
+        "wetland bird b-roll"
+      ],
+      "prompt": "Resting on a shallow lagoon, a dense raft of small wading birds suddenly bursts upward in one simultaneous wingbeat, splitting into two streams and settling into a tight turning formation. The camera whips up after them, then holds while they bank against the sky. It is the last ten minutes before sunrise: the water is pale grey, the birds dark against a deep blue band. Fast, urgent energy, slight blur on the nearest wings. Audio: a rush of wingbeats, water splashing, thin calls.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/flock-lifts-off-water",
+      "generator": "https://callirra.com/seedance2.5?atlas=flock-lifts-off-water&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "fox-pounce-in-snow",
+      "position": 58,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Fox Pouncing in Deep Snow",
+      "summary": "A fox goes still, leaps nose-first into the snow and comes up with a mouthful of it.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "fox in snow video",
+        "animal pounce prompt",
+        "winter wildlife shot",
+        "slow motion jump"
+      ],
+      "prompt": "Standing motionless in deep snow, a red fox swivels its ears, then leaps nose-first in a high arc and lands face-down, hind legs kicking up behind it, then rises with a mouthful of snow and shakes its head once. The camera drops with the leap, a quick crane move keeping the animal in the lower half of frame. Thin overcast with a pale sun disc, bright grey snow and long blue shadows from the treeline. Natural history look, long lens, clean snow, no other animals.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/fox-pounce-in-snow",
+      "generator": "https://callirra.com/seedance2.5?atlas=fox-pounce-in-snow&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "horse-gallop-across-meadow",
+      "position": 59,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Horse Galloping Across a Meadow",
+      "summary": "A horse runs flat out from left to right, tracked at speed with the sun directly behind it.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "horse galloping prompt",
+        "running animal video",
+        "backlit wildlife shot",
+        "slow motion hooves"
+      ],
+      "prompt": "A lean chestnut horse runs flat out from left to right across a wide summer meadow, mane streaming, tail lifted, hooves cutting through long grass and throwing up seeds. The camera tracks alongside at the same speed on a long lens, keeping the horse in profile with the horizon steady behind it. The sun sits directly behind the animal, rimming its outline and stretching a long shadow ahead of it. Slight motion blur on the legs, warm dry haze, nothing else in frame, no riders, no fences.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/horse-gallop-across-meadow",
+      "generator": "https://callirra.com/seedance2.5?atlas=horse-gallop-across-meadow&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "hummingbird-feeder-hover",
+      "position": 60,
+      "category": "animals-pets",
+      "scene": "text-to-video",
+      "title": "Hummingbird at the Feeder",
+      "summary": "A square four-second hold on a feeder: the bird arrives, sips twice, backs off and hovers.",
+      "config": {
+        "resolution": "480p",
+        "duration": "4",
+        "aspect_ratio": "1:1",
+        "generate_audio": false
+      },
+      "credits": 69,
+      "keywords": [
+        "hummingbird slow motion",
+        "bird feeder video",
+        "hovering bird prompt",
+        "square garden wildlife"
+      ],
+      "prompt": "Arriving at a hanging feeder, a small iridescent hummingbird hovers a hand-width away, then darts in and sips twice before backing off and holding in mid-air, wings a grey blur, tail flaring. The camera eases in from a wide garden view to a tight square frame on the feeder and stops, letting the bird move inside it. Dappled light through leaves behind, bright background, saturated greens, high frame rate so the wing beat reads as a soft shimmer. No other birds, no people, no hands.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/hummingbird-feeder-hover",
+      "generator": "https://callirra.com/seedance2.5?atlas=hummingbird-feeder-hover&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "puppy-first-snow-doorway",
+      "position": 61,
+      "category": "animals-pets",
+      "scene": "image-to-video",
+      "title": "Puppy's First Snow at the Doorway",
+      "summary": "A puppy photo stepped into the snow: one paw lifted, nose down, warm door light on blue snow.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "puppy first snow",
+        "pet photo to video",
+        "dog in snow prompt",
+        "cute winter pet video"
+      ],
+      "prompt": "The puppy from the reference photo steps off the last step onto fresh snow and stops dead, one front paw lifted and held, nose dipping to sniff the surface, ears perked forward, then shakes the paw once and looks up, keeping its face and coat exactly as given. The camera crouches at eye height and shuffles backwards as the puppy moves forward. Deep blue dusk light on the snow with a narrow warm strip spilling from the open doorway. Quiet, no wind, no other animals, no people.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/puppy-first-snow-doorway",
+      "generator": "https://callirra.com/seedance2.5?atlas=puppy-first-snow-doorway&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "wet-dog-shake-slow-motion",
+      "position": 62,
+      "category": "animals-pets",
+      "scene": "image-to-video",
+      "title": "Wet Dog Shake in Slow Motion",
+      "summary": "Your photo of a wet dog turned into the shake: one twist, a halo of water, droplets across the floor.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "dog shake slow motion",
+        "pet photo to video",
+        "wet dog prompt",
+        "image to video animal"
+      ],
+      "prompt": "The dog in the reference image keeps its face, coat and markings; only the shake is new. It plants its paws and twists its body from the shoulders back in one fast shake, loose skin and ears swinging a half beat behind, a halo of water flying off the coat in slow motion and freckling the floor. The camera stays handheld at floor level and lets the shake happen. Cool daylight from a high window, wet floor, clean background, no people. Audio: the shake, droplets on tile.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/wet-dog-shake-slow-motion",
+      "generator": "https://callirra.com/seedance2.5?atlas=wet-dog-shake-slow-motion&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "gymnastics-floor-landing",
+      "position": 63,
+      "category": "sports-action",
+      "scene": "image-to-video",
+      "title": "Gymnastics Floor Landing",
+      "summary": "Your still of a gymnast mid-air, continued: the double twist lands and the finish holds a full beat.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "gymnastics video prompt",
+        "landing slow motion",
+        "image to video gymnastics",
+        "floor routine prompt"
+      ],
+      "prompt": "Hold everything in the uploaded frame, athlete, leotard and arena, and let her finish the move. She completes a double twisting salto and lands it: chest down, one arm out for balance, holding the finish for a full beat before she straightens. The camera pushes in slowly from mat level, staying tight on the feet and the settle. Bright arena with one overhead pool of light, everything beyond it falling dark. Crisp mat texture, faint chalk dust in the air.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/gymnastics-floor-landing",
+      "generator": "https://callirra.com/seedance2.5?atlas=gymnastics-floor-landing&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "harbour-fisheye-skate-line",
+      "position": 64,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Harbour Fisheye Skate Line",
+      "summary": "One fisheye follow-cam skate line: push, ollie, grind, pop out, held a metre off the tail.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "4:3",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "skateboard line prompt",
+        "fisheye follow cam",
+        "vhs skate video look",
+        "skate video prompt"
+      ],
+      "prompt": "Rolling into a harbour plaza line, a skater pushes twice, ollies onto a low ledge, holds a fifty-fifty grind, then pops out and rides away. The fisheye camera follows on a board directly behind, staying about a metre off the tail the whole way. Flat overcast midday light, grey concrete, no hard shadow anywhere. Nineties tape grade, soft grain, slight wobble at the frame edges. Audio: urethane rattle, trucks scraping, wind over the microphone.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/harbour-fisheye-skate-line",
+      "generator": "https://callirra.com/seedance2.5?atlas=harbour-fisheye-skate-line&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "limestone-overhang-long-move",
+      "position": 65,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Limestone Overhang Move",
+      "summary": "A single long move on a limestone overhang, filmed straight down from a fixed rope.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "rock climbing video prompt",
+        "overhang climb prompt",
+        "vertical sports video",
+        "climbing move prompt"
+      ],
+      "prompt": "High on a limestone overhang, a climber reaches through a long move: left hand slaps a sloper, hips swing out, right heel hooks the lip and he presses up onto the shelf. Shot from above on a fixed line, looking straight down past the rope, the wall filling the frame. Harsh midday sun, hard shadow under the roof, bleached rock, deep blue sky at the edge. Vertical framing, chalk dust hanging in the air.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/limestone-overhang-long-move",
+      "generator": "https://callirra.com/seedance2.5?atlas=limestone-overhang-long-move&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "night-circuit-drift-lock",
+      "position": 66,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Night Circuit Drift Lock",
+      "summary": "A night-circuit drift, ten seconds from entry to exit, filmed by a camera planted on the tarmac.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "motorsport drift prompt",
+        "car drift video prompt",
+        "night race track video",
+        "tyre smoke slow motion"
+      ],
+      "prompt": "Rear tyres break loose first: a coupe enters the tight left-hander far too fast, the car rotating as the driver holds a long opposite-lock slide and clips the inside kerb. The camera is planted on the tarmac at the kerb and stays still, letting the car sweep past and away down the straight. Night circuit under sodium lights, headlight beams cutting the smoke, tyre smoke glowing orange. Damp-looking asphalt, 35mm grain. Audio: engine at the limiter, tyre squeal, gravel ticking.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/night-circuit-drift-lock",
+      "generator": "https://callirra.com/seedance2.5?atlas=night-circuit-drift-lock&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "ring-corner-boxing-exchange",
+      "position": 67,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Ring Corner Boxing Exchange",
+      "summary": "One square-ring exchange: a hook on a raised guard, sweat in the air, the camera orbiting without a cut.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "1:1",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "boxing video prompt",
+        "ring slow motion",
+        "square format sports video",
+        "boxing round prompt"
+      ],
+      "prompt": "Two boxers trade in close: a short left hook lands on a raised guard, gloves and forearms colliding, sweat leaving the brow on the follow-through. The camera orbits them slowly at chest height, keeps both fighters in frame and never cuts. Warm tungsten from a single ring lamp overhead, dark hall behind, smoke hanging in the beam. Square framing, film grain, gritty broadcast texture. Audio: glove impact, hard breathing, shoe squeak on canvas.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/ring-corner-boxing-exchange",
+      "generator": "https://callirra.com/seedance2.5?atlas=ring-corner-boxing-exchange&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rooftop-basketball-dunk",
+      "position": 68,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Rooftop Basketball Dunk",
+      "summary": "A vertical phone clip of a rooftop dunk, tilting from the sneakers to the rim in one golden-hour beat.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "basketball dunk video prompt",
+        "vertical sports clip",
+        "phone camera dunk",
+        "golden hour sports video"
+      ],
+      "prompt": "A street player drives the baseline, launches off two feet and throws down a one-hand dunk. The camera is a phone held vertical by a friend, tilting up fast from the sneakers to the rim, then loosening as the chain net snaps. Late golden hour on a city roof, long shadows and warm haze between distant towers. Handheld phone look with a faint lens flare, real asphalt and chain texture. Audio: sneaker squeak, chain rattle, one shout.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-basketball-dunk",
+      "generator": "https://callirra.com/seedance2.5?atlas=rooftop-basketball-dunk&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "snowboard-powder-spray",
+      "position": 69,
+      "category": "sports-action",
+      "scene": "image-to-video",
+      "title": "Snowboard Powder Spray",
+      "summary": "Your snowboard still, continued: one hard carve, a wall of powder, a chase camera sliding out.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "snowboard powder prompt",
+        "snow spray slow motion",
+        "image to video snowboard",
+        "winter sports video prompt"
+      ],
+      "prompt": "Keep the rider, jacket, board and mountain exactly as in the reference image. He carves a hard toe-side turn and the edge throws a wall of cold smoke that hangs and drifts across the slope. A gimbal camera chases low behind the board, then slides out to the side for the exit. Low winter sun straight into the spray, long blue shadows, thin alpine air. Audio: edge cutting crust, powder hiss, wind.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/snowboard-powder-spray",
+      "generator": "https://callirra.com/seedance2.5?atlas=snowboard-powder-spray&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "sprint-start-rail-track",
+      "position": 70,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Sprint Start From The Rail",
+      "summary": "The first three strides of a sprint final, tracked at ankle height from beside the lane.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "sprint start video prompt",
+        "track and field prompt",
+        "starting blocks slow motion",
+        "sports broadcast prompt"
+      ],
+      "prompt": "Eight sprinters leave the blocks as the pistol sounds. The nearest runner's rear foot drives, spikes biting the rubber, arms opening into the first long stride while the rest of the field is still rising. A rail-side camera runs level with the lane at ankle height and holds the gap as they pull away. Overcast morning, flat even light, cool grey track. Long-lens compression, motion blur on the forearms. Audio: the pistol, spikes clawing rubber, a swelling crowd.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/sprint-start-rail-track",
+      "generator": "https://callirra.com/seedance2.5?atlas=sprint-start-rail-track&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "stadium-free-kick-strike",
+      "position": 71,
+      "category": "sports-action",
+      "scene": "text-to-video",
+      "title": "Stadium Free Kick Strike",
+      "summary": "A free kick shot from turf level: two frames of ball compression, then a whip right into the back of the net.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "football free kick prompt",
+        "soccer slow motion video",
+        "night stadium sports clip",
+        "seedance 2.5 prompt"
+      ],
+      "prompt": "Twenty-two metres out, a midfielder plants one boot and strikes, the ball compressing against the laces for two frames before it leaves. Camera starts low on the grass beside the ball, then whips right to follow the flight and settles behind the net as it ripples. Night stadium under floodlight banks, flashbulbs popping in the upper stands. Broadcast telephoto look, real turf texture, shallow crowd blur. Audio: a rising roar, then the flat crack of the strike.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/stadium-free-kick-strike",
+      "generator": "https://callirra.com/seedance2.5?atlas=stadium-free-kick-strike&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "surf-barrel-continuation",
+      "position": 72,
+      "category": "sports-action",
+      "scene": "image-to-video",
+      "title": "Surf Barrel Continuation",
+      "summary": "Your still of a surfer inside the barrel, continued: the lip throws, the tube closes behind him.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "surf barrel video prompt",
+        "image to video surf",
+        "wave barrel slow motion",
+        "surfing video prompt"
+      ],
+      "prompt": "Continue from the reference frame: hold the surfer's stance, wetsuit, board shape and board colour exactly as shown. The wave keeps breaking over him, the lip throwing forward and closing behind as he trims higher into the barrel. The camera stays almost still at water level inside the tube, drifting only a hand's width with the swell. Backlit morning sun glows green through the curtain. Water beads and spray on the lens. Audio: hollow barrel roar, spray hiss.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/surf-barrel-continuation",
+      "generator": "https://callirra.com/seedance2.5?atlas=surf-barrel-continuation&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "armour-plate-transformation",
+      "position": 73,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Armour Plate Transformation",
+      "summary": "Armour plates surfacing through a hoodie, locking segment by segment, under one cold work lamp.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "transformation video prompt",
+        "armour transformation vfx",
+        "sci-fi suit up scene",
+        "transformation effect prompt"
+      ],
+      "prompt": "Shoulders first: armour plates surface through the fabric of a grey hoodie, the seams splitting along the arms as each segment rotates and locks into the next, and a chair scrapes back as the figure straightens to full height. The camera holds tight on the shoulder, then pulls back fast to take in the finished silhouette against the room. One cold work lamp overhead, hard shadow, everything else black. Audio: cloth tearing, dry mechanical clicks, one long breath.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/armour-plate-transformation",
+      "generator": "https://callirra.com/seedance2.5?atlas=armour-plate-transformation&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "colony-ship-cloud-break",
+      "position": 74,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Colony Ship Cloud Break",
+      "summary": "A colony ship dropping through fog: ten seconds of downwash, floodlights and one slow tilt.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "spaceship arrival prompt",
+        "sci-fi landing video",
+        "cosmic scale prompt",
+        "spaceship vfx video"
+      ],
+      "prompt": "Ground fog parts as a colony ship drops through the cloud deck, hull plates ticking with heat, its own floodlights sweeping the valley floor. Grass and standing water flatten outward under the downwash while a weathervane spins itself loose on a fence post. The camera tilts up slowly from the fence line, holding the ship in the upper third as it settles. Pre-dawn blue, fog lit from inside by the landing lights. Audio: low sub hum, wind, creaking metal.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/colony-ship-cloud-break",
+      "generator": "https://callirra.com/seedance2.5?atlas=colony-ship-cloud-break&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "desert-portal-opening",
+      "position": 75,
+      "category": "vfx-scifi",
+      "scene": "image-to-video",
+      "title": "Desert Portal Opening",
+      "summary": "Your half-formed portal still, continued: the ring closes, sand lifts off the ground, the tarp snaps flat.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "portal video prompt",
+        "fantasy portal effect",
+        "image to video portal",
+        "magic ring vfx"
+      ],
+      "prompt": "The ring in the reference frame is half-formed, so complete it: keep the sandstone plateau, the two standing figures and the ring's exact position unchanged. The circle closes, turns solid, and pulls a column of sand straight off the ground, grains orbiting its rim while a loose tarpaulin whips flat against the rock. The camera holds a wide locked-off frame and only breathes slightly. Harsh noon desert sun, hard black shadows, heat shimmer. Audio: low resonant hum, sand hissing.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/desert-portal-opening",
+      "generator": "https://callirra.com/seedance2.5?atlas=desert-portal-opening&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "downtown-collapse-shockwave",
+      "position": 76,
+      "category": "vfx-scifi",
+      "scene": "image-to-video",
+      "title": "Downtown Collapse Shockwave",
+      "summary": "Your collapsing block, continued: the shockwave crosses, glass bursts outward, the drone retreats.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "city destruction prompt",
+        "shockwave vfx video",
+        "collapsing buildings prompt",
+        "image to video destruction"
+      ],
+      "prompt": "Grow the collapse already underway in the reference frame: same block, same camera height, same grey light. The shockwave rolls out from the far end, parked-car alarms kick on, glass bows inward and then bursts outward, and a blizzard of paper and dust crosses the empty street. The drone retreats straight back and rises slowly, keeping the avenue centred. Hazy late afternoon, dust-filtered sun, everything past the second block silhouetted.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/downtown-collapse-shockwave",
+      "generator": "https://callirra.com/seedance2.5?atlas=downtown-collapse-shockwave&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "floating-hologram-console",
+      "position": 77,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Floating Hologram Console",
+      "summary": "A holographic panel unfolding from a wristband, its light spilling onto real objects on the desk.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "3:4",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "hologram ui prompt",
+        "sci-fi interface video",
+        "glitch hologram effect",
+        "futuristic ui prompt"
+      ],
+      "prompt": "A wristband wakes on a bare forearm and a panel of light unfolds above it in loose stacked layers. A hand passes through the projection, the layers tear into scanlines for a moment and then reassemble, and the glow spills cyan across a real mug and a stack of paper on the desk. The camera makes a slow lateral arc past the panel, catching parallax between the layers. One desk lamp in a dark studio room.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/floating-hologram-console",
+      "generator": "https://callirra.com/seedance2.5?atlas=floating-hologram-console&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "frozen-instant-crossing",
+      "position": 78,
+      "category": "vfx-scifi",
+      "scene": "image-to-video",
+      "title": "Frozen Instant Crossing",
+      "summary": "Your street still, continued: everything stops mid-motion and the camera drifts through the freeze.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "time freeze prompt",
+        "frozen moment video",
+        "image to video time stop",
+        "slow motion freeze effect"
+      ],
+      "prompt": "Pick up from the reference frame, one heartbeat before the freeze. Everything stops mid-motion and holds: a coffee arc hangs solid in the air, a dropped phone floats a centimetre above the pavement, and a cyclist's jacket is caught mid-flap. The camera is the only thing still travelling, drifting sideways through the frozen crossing at walking pace. Mid-morning sun through glass towers, long hard shadows on the pavement. Hyper-real stillness, no motion blur anywhere.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/frozen-instant-crossing",
+      "generator": "https://callirra.com/seedance2.5?atlas=frozen-instant-crossing&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "hangar-mecha-launch",
+      "position": 79,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Hangar Mecha Launch",
+      "summary": "A mecha launch from inside the hangar: pilot clamped in, cradle rising, the doors parting ahead.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "mecha launch prompt",
+        "sci-fi robot video",
+        "hangar launch scene",
+        "hard sci-fi prompt"
+      ],
+      "prompt": "Inside a grey concrete hangar, a masked pilot in a white flight suit straps into an open cockpit as the shoulder clamps lock down around her. The machine rises on its launch cradle, steam venting from the hip joints, then strides once into the open while the hangar doors part ahead of it. A crane camera climbs with the cockpit and settles behind the shoulder. Cold strip lighting above, blue service lamps along the floor. Audio: hydraulic hiss, servo whine, distant klaxon.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/hangar-mecha-launch",
+      "generator": "https://callirra.com/seedance2.5?atlas=hangar-mecha-launch&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "hex-shield-impact",
+      "position": 80,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Hex Shield Impact",
+      "summary": "An energy shield in three states: thin lattice, hardened plate, fading ripple, with the recoil landing.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "1:1",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "energy shield prompt",
+        "shield impact vfx",
+        "sci-fi force field video",
+        "impact vfx prompt"
+      ],
+      "prompt": "The shield lights first as a thin hex lattice across a raised forearm, then hardens into a curved plate the instant something heavy strikes it. The impact shoves the figure back half a step, boots scraping a concrete corridor, and the lattice ripples outward in rings of light before it fades to nothing. The camera pushes in from the side at hip height and stops dead at the moment of contact. Blue-white shield glow is the only light in a dark corridor. Audio: glassy crack, low thump, ringing fade.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/hex-shield-impact",
+      "generator": "https://callirra.com/seedance2.5?atlas=hex-shield-impact&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rain-street-magic-casting",
+      "position": 81,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Rain Street Magic Casting",
+      "summary": "Magic over a rain puddle: water beads lift, gather into a ring of ice, then fall back as rain.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "magic casting prompt",
+        "water magic vfx",
+        "rain magic video prompt",
+        "spell casting effect"
+      ],
+      "prompt": "Both hands open over a rain puddle and the water answers: beads lift off the surface, gather into a spinning ring and harden into thin ice that holds for a single breath, then drops back as rain. The camera is handheld and close on the hands, racking focus from the puddle up to the ring and back down. Overcast drizzle, flat grey daylight, wet asphalt throwing pale reflections. Fantasy realism, fine skin and water detail. Audio: faint crackle, rain on stone.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rain-street-magic-casting",
+      "generator": "https://callirra.com/seedance2.5?atlas=rain-street-magic-casting&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "warehouse-gravity-flip",
+      "position": 82,
+      "category": "vfx-scifi",
+      "scene": "text-to-video",
+      "title": "Warehouse Gravity Flip",
+      "summary": "A warehouse gravity flip: a dropped wrench reverses mid-fall and the camera rolls a half turn with it.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "gravity flip prompt",
+        "zero gravity vfx",
+        "upside down video prompt",
+        "physics vfx prompt"
+      ],
+      "prompt": "A warehouse ceiling becomes the floor. A dropped wrench stops mid-fall, hangs for a beat, then accelerates upward past a workbench; dust and water droplets reverse direction in the same instant, and a mug of coffee shears sideways into a floating ribbon. The camera rolls a full half-turn with the room and ends upside down, still tracking the wrench. Flickering fluorescent tubes overhead, hard top-light from what is now the floor below.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/warehouse-gravity-flip",
+      "generator": "https://callirra.com/seedance2.5?atlas=warehouse-gravity-flip&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "bamboo-grove-wirework",
+      "position": 83,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Bamboo Grove Wirework",
+      "summary": "Two swordswomen trade one mid-air pass between bamboo trunks as the camera rises with them.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "wuxia wirework prompt",
+        "bamboo forest duel scene",
+        "martial arts ai video",
+        "vertical video prompt",
+        "historical ai video prompt"
+      ],
+      "prompt": "Two swordswomen in pale grey robes leap between bamboo trunks, robes snapping open like wings as they trade one mid-air pass, blades never quite touching. The camera rises with them on a wire-assisted arc from ground level to canopy height, one continuous vertical move through green light. Thin morning mist between the stalks, sun in soft shafts. Raw silk, polished bamboo, worn leather grips. Wind through leaves and cloth cracking on the turn.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/bamboo-grove-wirework",
+      "generator": "https://callirra.com/seedance2.5?atlas=bamboo-grove-wirework&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "candlelit-ancient-library",
+      "position": 84,
+      "category": "historical-fantasy",
+      "scene": "image-to-video",
+      "title": "The Candlelit Library",
+      "summary": "A scholar turns a paper volume toward a candle, dust drifting through the beam.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "ancient library prompt",
+        "candlelit scholar scene",
+        "image to video period costume",
+        "historical ai video prompt"
+      ],
+      "prompt": "Keep the figure, robe and lighting exactly as in the reference image. A scholar lifts a paper volume from a low shelf and turns it toward a candle; dust drifts through the beam and the pages settle. The camera glides sideways along the aisle past carved wooden shelving, then rests on the open book. Warm candle pools against deep shadow, late night, still air. Bamboo slips, linen thread binding, wax, aged paper.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/candlelit-ancient-library",
+      "generator": "https://callirra.com/seedance2.5?atlas=candlelit-ancient-library&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "desert-caravan-crossing",
+      "position": 85,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Desert Caravan Crossing",
+      "summary": "Twelve camels cross a dune ridge at late afternoon as the camera pulls back into the empty erg.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "desert caravan prompt",
+        "camel caravan ai video",
+        "cinematic wide landscape prompt",
+        "historical ai video prompt"
+      ],
+      "prompt": "A camel caravan of twelve crosses a high dune ridge at late afternoon, tiny against the sand, following the line of the crest. The camera starts close on the lead camel's rope halter and pulls back and up into a wide reveal of the erg, one uninterrupted retreat. Hard low sun, long shadows striping the slip faces, fine dust hanging in the air. Coarse wool blankets, brass harness fittings, dry leather, wind-carved sand.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/desert-caravan-crossing",
+      "generator": "https://callirra.com/seedance2.5?atlas=desert-caravan-crossing&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "dragon-above-the-peaks",
+      "position": 86,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Dragon Above the Peaks",
+      "summary": "A dragon glides between snow peaks and the camera pulls back to the whole range.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "dragon over mountains prompt",
+        "fantasy cinematic ai video",
+        "epic landscape reveal prompt",
+        "historical fantasy video prompt"
+      ],
+      "prompt": "A long serpentine dragon glides between snow-capped peaks below the cloud line, body coiling over a valley, wings barely moving, its shadow sliding across pine slopes. The camera begins tight on the head as it passes a ridge, then pulls back into an extreme wide that shows the full mountain range. Late golden hour, cloud sea under the peaks. Translucent scaled membrane, wet stone, drifting snow. Deep wingbeat and thin high wind.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/dragon-above-the-peaks",
+      "generator": "https://callirra.com/seedance2.5?atlas=dragon-above-the-peaks&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "knight-arrival-courtyard",
+      "position": 87,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Knight at the Gate",
+      "summary": "A lone knight rides through a castle gate at first light, from shadow into sun, in one low wide shot.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "knight on horseback prompt",
+        "medieval castle video prompt",
+        "historical ai video prompt",
+        "period drama scene"
+      ],
+      "prompt": "A lone knight in weathered plate armour rides through the open gate of a stone castle courtyard at first light, reins loose in one gauntlet, a mud-spattered cloak hanging heavy behind. The camera holds a low wide angle, letting horse and rider cross from shadow into sun, then settles as the horse slows to a walk and stops. Low golden sun rakes across wet cobbles, mist lifting off the well. Wool, oiled leather, cold steel, limestone.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/knight-arrival-courtyard",
+      "generator": "https://callirra.com/seedance2.5?atlas=knight-arrival-courtyard&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "lantern-street-procession",
+      "position": 88,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Lantern Street Procession",
+      "summary": "A Tang-era lantern street at dusk: one carried lantern against a crowd of a hundred, in one rising move.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "historical ai video prompt",
+        "tang dynasty lantern street",
+        "lantern festival video prompt",
+        "period drama scene",
+        "seedance 2.5 prompt"
+      ],
+      "prompt": "A young lantern maker walks against the crowd down a Tang-era night market street, carrying one lit paper lantern on a bamboo pole while a hundred more hang overhead in red and amber rows. The camera tracks slowly backwards ahead of her, then drifts up above the awnings without a cut. Warm lantern light, blue dusk over the rooftops, faint mist. Silk sleeves, painted rice paper, waxed wood, wet flagstones. Crowd murmur and paper lanterns creaking in the breeze.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/lantern-street-procession",
+      "generator": "https://callirra.com/seedance2.5?atlas=lantern-street-procession&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "longship-in-the-fog",
+      "position": 89,
+      "category": "historical-fantasy",
+      "scene": "image-to-video",
+      "title": "Longship in the Fog",
+      "summary": "A longship pushes through flat fog, oars biting together, in a reference-locked image-to-video shot.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "viking longship prompt",
+        "image to video costume reference",
+        "fog at sea cinematic prompt",
+        "historical ai video prompt"
+      ],
+      "prompt": "Keep the ship, crew and costume details exactly as in the reference image. Oars bite together in slow rhythm, the longship pushes through flat fog, and one crew member at the bow turns to look back along the hull. The camera drifts forward past the shield rail at water level, then tilts up the mast in one move. Cold grey dawn, no visible horizon, spray beading on tarred planks and wool cloaks. Oar creak, water slap, low wind.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/longship-in-the-fog",
+      "generator": "https://callirra.com/seedance2.5?atlas=longship-in-the-fog&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "mughal-court-procession",
+      "position": 90,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Mughal Court Procession",
+      "summary": "A court procession crosses red sandstone toward a marble pavilion in one rising symmetrical move.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "mughal court video prompt",
+        "period procession scene",
+        "historical ai video prompt",
+        "silk and marble cinematic"
+      ],
+      "prompt": "An attendant procession crosses a red sandstone courtyard toward a carved marble pavilion, carrying folded bolts of silk and a tray of rose petals, footsteps matched. The camera tracks alongside at hip height, then lifts to a wide symmetrical framing of the whole court without cutting. Mid-morning sun, hard shadows on inlaid stone, water channels glittering. Brocade, block-printed cotton, marble inlay, brass trays. Soft drum pulse and many feet on stone.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/mughal-court-procession",
+      "generator": "https://callirra.com/seedance2.5?atlas=mughal-court-procession&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "samurai-duel-in-rain",
+      "position": 91,
+      "category": "historical-fantasy",
+      "scene": "text-to-video",
+      "title": "Duel in the Rain",
+      "summary": "Two figures face off in steady rain, one sheathed blade and one held breath, in a slow push-in.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "samurai duel in rain prompt",
+        "slow motion rain scene",
+        "historical ai video prompt",
+        "moody cinematic prompt"
+      ],
+      "prompt": "Two figures face each other in a rain-soaked courtyard of packed earth and wet stone, one holding a sheathed long sword low, the other still, weight forward on the balls of the feet. The camera holds a wide static frame, then pushes in slowly between them as the rain thickens. Overcast blue-grey light, water sheeting off wooden eaves, puddles pulsing with drops. Lacquered scabbards, hemp sandals, soaked cotton. Steady rain and one slow exhale.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/samurai-duel-in-rain",
+      "generator": "https://callirra.com/seedance2.5?atlas=samurai-duel-in-rain&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "siege-at-dawn",
+      "position": 92,
+      "category": "historical-fantasy",
+      "scene": "image-to-video",
+      "title": "Siege at Dawn",
+      "summary": "Defenders work the wall walk as a distant engine arm swings and dust blooms at the gate.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "castle siege prompt",
+        "image to video armour reference",
+        "medieval scene ai video",
+        "historical ai video prompt"
+      ],
+      "prompt": "Keep the castle and armour exactly as in the reference image. On the wall walk, defenders pass stone-weighted baskets hand to hand while a distant engine arm swings and dust blooms against the outer gate; no one is struck on screen. The camera cranes up from the parapet to reveal the whole curtain wall and the treeline at dawn. Cold blue hour with a low orange sun behind mist. Rough-hewn stone, splintered timber, mail, undyed wool.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/siege-at-dawn",
+      "generator": "https://callirra.com/seedance2.5?atlas=siege-at-dawn&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "cafe-window-rain-zoom",
+      "position": 93,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Cafe Window Rain Zoom",
+      "summary": "A slow zoom into a rain-streaked cafe window until the wet street outside becomes abstract colour.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "rain window b-roll prompt",
+        "slow zoom shot",
+        "neon reflection video prompt",
+        "moody city rain scene"
+      ],
+      "prompt": "Rain streams down a cafe window at night while the street outside smears into long red and violet streaks, a cyclist and a bus sliding past as soft shapes. The lens zooms in slowly on the glass until individual drops and the small reflections of the room are the whole frame. Inside stays almost black, lit only by a table lamp and the wet colour coming through the pane. 35mm, heavy bokeh, cool grade. Audio: rain on glass, muffled traffic, a cup set down.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/cafe-window-rain-zoom",
+      "generator": "https://callirra.com/seedance2.5?atlas=cafe-window-rain-zoom&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "crosswalk-commuter-rush",
+      "position": 94,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Crosswalk Commuter Rush",
+      "summary": "A jib drops into the morning rush: commuters cross on long parallel shadows under hard early sun.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "commuter crowd b-roll prompt",
+        "jib descending shot",
+        "morning city video prompt",
+        "street scene ai prompt"
+      ],
+      "prompt": "Commuters pour across a wide city crossing in both directions, coats and shoulder bags, phones lit, one cyclist weaving at the edge of the crowd. The camera starts high above the junction and descends slowly on a jib toward the middle of the crossing, flattening the walkers into moving shapes. Low morning sun cuts hard across the asphalt and drags long parallel shadows from every person and wheel. Clean 35mm, high shutter, crisp contrast. Audio: signal beeps, shoe scuffs, a bicycle bell, crowd murmur.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/crosswalk-commuter-rush",
+      "generator": "https://callirra.com/seedance2.5?atlas=crosswalk-commuter-rush&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "fire-escape-descent",
+      "position": 95,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Fire Escape Descent",
+      "summary": "A vertical five seconds from above: hands and shoes sweep past the lens on an iron fire escape at dusk.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "vertical cinematic prompt",
+        "nine by sixteen city video prompt",
+        "fire escape action shot",
+        "dusk blue hour b-roll"
+      ],
+      "prompt": "Dusk, and a teenager in a grey hoodie swings down an iron fire escape on a brick apartment block, trainers ringing on each rung, one hand dragging the rail. A small camera is mounted on the ironwork above, angled steeply down, so their hands and shoes sweep through the frame on every rung. The sky is blue hour and the apartment windows behind the ironwork are warm rectangles, laundry moving on a line. 35mm, cool shadows. Audio: metal clang, quick breath, a distant dog.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/fire-escape-descent",
+      "generator": "https://callirra.com/seedance2.5?atlas=fire-escape-descent&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "laundromat-night-wait",
+      "position": 96,
+      "category": "urban-city",
+      "scene": "image-to-video",
+      "title": "Laundromat Night Wait",
+      "summary": "A laundromat photo held still: drums turn, a page turns, green fluorescents against one orange glow.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "laundromat night scene prompt",
+        "locked off static shot",
+        "fluorescent lighting video prompt",
+        "image to video mood piece"
+      ],
+      "prompt": "The room, the machines, the chairs and the person stay exactly as in the reference photo. Two drum machines turn slowly with wet clothes tumbling, and the person on the plastic chair turns a page and glances up at the clock. The camera stays locked off on a tripod in the corner, letting the turning drums fill the foreground. Flat green fluorescents overhead, one warm orange dryer glow on the right wall, floor tiles worn pale. 16mm, muted colour. Audio: drum rumble, a coin, a page turning.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/laundromat-night-wait",
+      "generator": "https://callirra.com/seedance2.5?atlas=laundromat-night-wait&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "market-morning-steam",
+      "position": 97,
+      "category": "urban-city",
+      "scene": "image-to-video",
+      "title": "Market Morning Steam",
+      "summary": "A market photo sent into motion: hands bag produce, steam rolls, and the camera weaves up the aisle.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "market b-roll prompt",
+        "image to video crowd scene",
+        "morning market video prompt",
+        "handheld walk through prompt"
+      ],
+      "prompt": "Preserve the stall, the crates and the vendor exactly as photographed. Hands bag green beans and lift them over the counter while steam rolls off a pot at the back, and a shopper steps in from the left to point at a crate. The camera weaves forward at chest height through the narrow aisle, tarpaulins sliding overhead. Overcast dawn light stays flat and silver so the steam reads white. Warm 16mm, natural colour. Audio: crates scraping, vendor calls, a knife on a board.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/market-morning-steam",
+      "generator": "https://callirra.com/seedance2.5?atlas=market-morning-steam&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "mist-bridge-cyclist-dawn",
+      "position": 98,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Mist Bridge Cyclist Dawn",
+      "summary": "A parallel tracking shot in 21:9: a cyclist crosses a misted bridge at dawn, piers fading into white.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "misty bridge video prompt",
+        "tracking shot prompt",
+        "dawn commute b-roll",
+        "cinematic wide city prompt"
+      ],
+      "prompt": "Thick dawn mist sits on a river bridge, and a cyclist in a yellow rain jacket pedals across, front lamp a small halo. The camera tracks alongside at handlebar height on a parallel rail, matching their speed so the railing and lamp posts slide past and the far piers vanish into white. Sun is a soft disc behind the fog, so everything is silver with one warm patch on the jacket. Muted 35mm, low contrast. Audio: tyre hiss on wet boards, water lapping, one bell.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/mist-bridge-cyclist-dawn",
+      "generator": "https://callirra.com/seedance2.5?atlas=mist-bridge-cyclist-dawn&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "night-bus-window-seat",
+      "position": 99,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Night Bus Window Seat",
+      "summary": "An eight-second aisle creep on a night bus, faces lit in amber pulses by passing street lamps.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "night bus cinematic prompt",
+        "aisle dolly shot",
+        "passing street light effect",
+        "city night b-roll prompt"
+      ],
+      "prompt": "A night bus crosses the city with six passengers aboard and the ceiling lights off; a man in a beanie rests his temple on the cold window while a woman behind him sleeps under a scarf. The camera creeps forward down the aisle at headrest height, drifting past shoulders and stopping behind his seat. Street lamps strobe through the windows in even amber pulses, lighting each face for a moment and dropping it back into blue. 35mm, deep shadows. Audio: engine hum, indicator tick, brake hiss.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/night-bus-window-seat",
+      "generator": "https://callirra.com/seedance2.5?atlas=night-bus-window-seat&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "plaza-pigeon-burst",
+      "position": 100,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Plaza Pigeon Burst",
+      "summary": "One whip pan catches a pigeon flock exploding off a plaza as a skateboarder rolls through the sun line.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "4:3",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "whip pan shot prompt",
+        "street photography video prompt",
+        "pigeons city b-roll",
+        "four by three cinematic ai video"
+      ],
+      "prompt": "A flock of pigeons lifts off a stone plaza in one burst as a skateboarder rolls through them, board clacking, arms out for balance. The camera whip pans left with the birds, then settles back on the rider as the flock blows apart across the top of the frame. The plaza sits in the shade of a tall building, so the birds flare white when they cross the one hard band of afternoon sun. 35mm, warm dust, quick motion blur. Audio: wing beats, wheels on stone, a shout.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/plaza-pigeon-burst",
+      "generator": "https://callirra.com/seedance2.5?atlas=plaza-pigeon-burst&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rooftop-sunrise-city-reveal",
+      "position": 101,
+      "category": "urban-city",
+      "scene": "text-to-video",
+      "title": "Rooftop Sunrise City Reveal",
+      "summary": "An eight-second crane rise at first light: rooftop, parapet, and a city below turning from blue to gold.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "rooftop sunrise prompt",
+        "crane shot cinematic",
+        "city reveal video prompt",
+        "wide anamorphic ai video"
+      ],
+      "prompt": "At first light a young woman in a red windbreaker climbs onto a rooftop parapet ledge and stops, both hands on the rail, looking out over a dense low-rise city. A crane arm rises slowly behind her shoulder, lifting the frame from her boots to the horizon as water tanks and aerials pass the edge. The sun is just cresting, raking warm gold across the rooftops while the streets below stay blue. Anamorphic 35mm, wide 2.39 framing. Audio: gusting wind, gulls, distant traffic hum.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-sunrise-city-reveal",
+      "generator": "https://callirra.com/seedance2.5?atlas=rooftop-sunrise-city-reveal&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "street-food-griddle-glow",
+      "position": 102,
+      "category": "urban-city",
+      "scene": "image-to-video",
+      "title": "Street Food Griddle Glow",
+      "summary": "A night street-food photo animated: coals flare under skewers, then the tilt finds the vendor.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "street food video prompt",
+        "tilt up shot prompt",
+        "night market b-roll",
+        "image to video food stall"
+      ],
+      "prompt": "Match the reference image exactly: same stall, same griddle, same vendor. Skewers turn over glowing charcoal, fat drips and flares, and a hand shakes chilli over the row while steam rolls upward. The camera begins tight on the coals and tilts slowly up the counter to the vendor as they call out to someone off screen. Orange charcoal light glows from below and a cold work lamp hangs above, greasy highlights on steel. Warm 35mm. Audio: sizzle, fat pops, a fan, a shout.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/street-food-griddle-glow",
+      "generator": "https://callirra.com/seedance2.5?atlas=street-food-griddle-glow&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "caster-sugar-dust-fall",
+      "position": 103,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Caster Sugar Dust Fall",
+      "summary": "Fine sugar falls as a lit curtain through a slit of light, shot from below, with the dry hiss on.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "sugar pouring video",
+        "asmr powder prompt",
+        "macro dust fall",
+        "slit light macro"
+      ],
+      "prompt": "Fine white sugar leaves the lip of a spoon and falls as a continuous curtain, individual crystals catching and losing the light, mounding softly where they land. The camera sits below the stream, looking up through the falling dust. A narrow slit of light between two black flags cuts the curtain out of a dark backdrop, with only a soft top light for the mound. Airborne particles stay crisp and granular, mid-afternoon. Audio: a dry continuous hiss, then a soft pat as the pile settles.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/caster-sugar-dust-fall",
+      "generator": "https://callirra.com/seedance2.5?atlas=caster-sugar-dust-fall&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "droplet-crown-splash",
+      "position": 104,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Droplet Crown Splash",
+      "summary": "A droplet throws a crown of water that shatters into hanging beads, side-lit against black.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "4:3",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "water splash macro",
+        "high speed splash prompt",
+        "asmr water video",
+        "slow motion droplet"
+      ],
+      "prompt": "A single droplet lands in a shallow pool and throws up a crown of water that spreads, thins and breaks into beads still hanging in the air. The camera pans up with the rising crown, then eases back down as it collapses. One hard side light throws the crown's shadow across a black backdrop while the water surface stays glossy and opaque, a high-speed look with frozen edges. Night studio, tank only, no hands. Audio: a sharp plink, then a scatter of tiny drips settling.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/droplet-crown-splash",
+      "generator": "https://callirra.com/seedance2.5?atlas=droplet-crown-splash&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "frosted-glass-bead-trails",
+      "position": 105,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Frosted Glass Bead Trails",
+      "summary": "Condensation beads swell, break and drag clean trails down a frosted tumbler in cold dawn light.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "3:4",
+        "generate_audio": false
+      },
+      "credits": 87,
+      "keywords": [
+        "condensation macro video",
+        "asmr glass prompt",
+        "satisfying water drops",
+        "product macro b-roll"
+      ],
+      "prompt": "Tiny beads of condensation swell on the outside of a frosted tumbler, one growing heavy enough to break and drag a clean line down the glass. The camera eases in from a wide view until the frame holds nothing but beads and the wet trails they leave. Cold dawn light arrives at a very low grazing angle, so each bead is rimmed and throws a tiny soft shadow across the etched surface. Vertical framing, shallow focus, dust-free glass, ice visible as blurred white shapes behind. Quiet and clinical.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/frosted-glass-bead-trails",
+      "generator": "https://callirra.com/seedance2.5?atlas=frosted-glass-bead-trails&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "glossy-slime-stretch-snap",
+      "position": 106,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Glossy Slime Stretch and Snap",
+      "summary": "A translucent slab stretches to a bubble window and snaps, lit from underneath by a gel light.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "1:1",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "slime asmr video",
+        "satisfying stretch prompt",
+        "macro gel texture",
+        "oddly satisfying clip"
+      ],
+      "prompt": "Two hands pull a glossy translucent slab of slime slowly apart, the sheet thinning into a window of bubbles before it tears. The camera follows the stretch upward and stops dead the instant it snaps, letting the recoil finish in frame. A coloured gel light from underneath pushes through the material so the stretched middle glows turquoise while the surface keeps hard wet highlights. Tabletops are matte grey, nothing else in shot, an unhurried evening studio. Audio: a long wet squeak, then one clean snap.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/glossy-slime-stretch-snap",
+      "generator": "https://callirra.com/seedance2.5?atlas=glossy-slime-stretch-snap&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "honey-drizzle-ribbon-macro",
+      "position": 107,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Honey Ribbon Drizzle",
+      "summary": "Honey folds off a dipper in one unbroken ribbon, backlit to amber against black, in wide macro.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "honey macro video",
+        "asmr food prompt",
+        "slow motion liquid",
+        "viscous pour close up"
+      ],
+      "prompt": "Golden honey folds off the tip of a wooden dipper and falls in one unbroken ribbon, twisting slowly, piling on itself and holding a soft peak before it sinks. The camera creeps forward a few millimetres on a macro rail, filling the frame with the ribbon. A single warm lamp behind turns the honey translucent amber against a black backdrop, one specular line running down its spine, late afternoon indoors. Viscosity stays thick and glossy with small bubbles suspended inside. Audio: a low, sticky, continuous trickle.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/honey-drizzle-ribbon-macro",
+      "generator": "https://callirra.com/seedance2.5?atlas=honey-drizzle-ribbon-macro&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "honeycomb-wax-cell-close",
+      "position": 108,
+      "category": "asmr-macro",
+      "scene": "image-to-video",
+      "title": "Honeycomb Wax Cell Close",
+      "summary": "A wax comb glows from underneath as honey creeps down one cell wall, focus crawling cell to cell.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 195,
+      "keywords": [
+        "honeycomb macro video",
+        "asmr texture prompt",
+        "image to video macro",
+        "beeswax close up"
+      ],
+      "prompt": "The honeycomb stays exactly as in the reference image, its wax walls unbroken, while a thin film of honey creeps slowly down one cell wall and pools at the base. The camera holds a locked macro frame as the focus plane crawls across the cells, bringing each hexagon in and out of sharpness in turn. Light comes from underneath the comb, so the wax glows warm amber from within while the front faces stay in soft shadow. Matte wax, glossy honey, shallow depth, nothing else added.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/honeycomb-wax-cell-close",
+      "generator": "https://callirra.com/seedance2.5?atlas=honeycomb-wax-cell-close&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "ice-block-fracture-closeup",
+      "position": 109,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Ice Block Fracture",
+      "summary": "One tap, one hairline crack, one punch-in at the exact moment a clear block of ice splits in two.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "1:1",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "ice cracking video",
+        "asmr ice prompt",
+        "macro fracture",
+        "slow motion ice"
+      ],
+      "prompt": "A steel pick taps a clear block of ice once and a hairline crack races across the interior, splitting the block into two clean halves. The camera holds on the crack line and punches in fast at the exact moment of fracture, then settles. A hard cold beam from directly above drills through the ice so the fracture flashes white while the outer faces stay frosted. Late winter, the air visibly cold, no background detail. Audio: a low creak, a sharp crack, then ice chips tinkling onto metal.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/ice-block-fracture-closeup",
+      "generator": "https://callirra.com/seedance2.5?atlas=ice-block-fracture-closeup&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "ink-bloom-in-still-water",
+      "position": 110,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Ink Bloom in Still Water",
+      "summary": "Black ink blooms through still water in grey veils, lit by a single overhead shaft in wide 21:9.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "21:9",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "ink in water video",
+        "macro asmr prompt",
+        "slow motion ink",
+        "abstract liquid shot"
+      ],
+      "prompt": "A heavy drop of black ink touches still water and blooms outward in slow grey veils, sinking, folding and feathering into threads. The camera drifts sideways, level with the sinking bloom, never losing the leading edge. One shaft of light enters from directly above, so the ink reads as translucent layers against a dark tank while the surrounding water stays black. Time is late night, the room unlit apart from that shaft. Cinematic 21:9 macro, no bubbles, no ripples crossing the surface.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/ink-bloom-in-still-water",
+      "generator": "https://callirra.com/seedance2.5?atlas=ink-bloom-in-still-water&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "oil-droplet-emulsion-darkfield",
+      "position": 111,
+      "category": "asmr-macro",
+      "scene": "image-to-video",
+      "title": "Oil Droplet Emulsion, Dark Field",
+      "summary": "Two oil droplets merge in dark-field light while the lens pushes past into the emulsion behind.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": false
+      },
+      "credits": 311,
+      "keywords": [
+        "emulsion macro video",
+        "oil droplet asmr",
+        "dark field microscopy",
+        "image to video macro"
+      ],
+      "prompt": "The droplets you photographed hang suspended in clear liquid and must stay exactly where they are while they slowly merge. One large drop drifts into a smaller one and the two become a single sphere with a clean bright outline, wobbling once before it settles. The camera pushes past the near droplet and lets it fall out of focus into the emulsion behind. Dark-field lighting keeps the background black and rings each droplet with light, no fill anywhere. Slow, silent, scientific, evening studio.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/oil-droplet-emulsion-darkfield",
+      "generator": "https://callirra.com/seedance2.5?atlas=oil-droplet-emulsion-darkfield&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "sand-avalanche-dune-crest",
+      "position": 112,
+      "category": "asmr-macro",
+      "scene": "text-to-video",
+      "title": "Sand Avalanche on a Dune",
+      "summary": "A dune crest collapses in chasing sheets while the camera cranes out; harsh low sun on dust.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "21:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "sand macro video",
+        "avalanche slow motion",
+        "desert b-roll prompt",
+        "asmr sand sound"
+      ],
+      "prompt": "Grains of fine sand slip from the crest of a small dune and start a slow avalanche, the slope collapsing in sheets that chase each other downhill. The camera pulls back and up in one continuous crane move, widening until the whole dune fits the frame. Harsh low sun skims the ridges, throwing long shadows and lighting the airborne dust into a golden haze. Late afternoon desert, warm ochre tones, every ripple crisp. Audio: a soft dry hiss as the grains run, thinning as the slope settles.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/sand-avalanche-dune-crest",
+      "generator": "https://callirra.com/seedance2.5?atlas=sand-avalanche-dune-crest&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "airport-gate-reunion",
+      "position": 113,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "Reunion at the Gate",
+      "summary": "A name card no longer needed: a young woman drops her bag and runs the last ten metres.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "airport reunion video prompt",
+        "emotional reunion scene ai",
+        "dialogue scene ai video prompt",
+        "story video prompt"
+      ],
+      "prompt": "A man in his sixties stands at an arrivals gate holding a cardboard name card he no longer needs; a young woman with a duffel bag sees him mid-stride, stops short, drops the bag strap and runs the last ten metres. The camera holds at chest height inside the crowd, then tracks with her through blurred shoulders. Late afternoon light through terminal glass, long reflections on polished floor. Creased travel clothes, scuffed wheels, tape on the sign. Gate announcements and rolling suitcase wheels.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/airport-gate-reunion",
+      "generator": "https://callirra.com/seedance2.5?atlas=airport-gate-reunion&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "asking-for-directions",
+      "position": 114,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "Asking for Directions",
+      "summary": "Two strangers point opposite ways down the same street and laugh about it.",
+      "config": {
+        "resolution": "480p",
+        "duration": "5",
+        "aspect_ratio": "9:16",
+        "generate_audio": true
+      },
+      "credits": 87,
+      "keywords": [
+        "stranger asking directions prompt",
+        "street conversation video prompt",
+        "vertical street scene ai video",
+        "dialogue scene ai video prompt"
+      ],
+      "prompt": "A tourist holds up a phone map for a stranger on a busy corner, pointing at the screen and then down the street; the stranger squints, shakes their head, and points the opposite way, and both laugh at the confusion. The camera stands back at head height in the foot traffic, letting pedestrians cross the foreground. Overcast midday, flat light, pavement still wet from earlier rain. Backpacks, umbrellas, paper cups. Street traffic and overlapping footsteps.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/asking-for-directions",
+      "generator": "https://callirra.com/seedance2.5?atlas=asking-for-directions&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "barista-and-a-regular",
+      "position": 115,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "The Regular's Order",
+      "summary": "A barista writes the order before it is finished, then looks up at the regular.",
+      "config": {
+        "resolution": "720p",
+        "duration": "5",
+        "aspect_ratio": "3:4",
+        "generate_audio": true
+      },
+      "credits": 195,
+      "keywords": [
+        "barista and customer scene",
+        "cafe conversation video prompt",
+        "quiet character moment ai video",
+        "dialogue scene ai video prompt"
+      ],
+      "prompt": "Behind a cafe counter, a young barista starts writing on a cup before the customer has finished ordering, then glances up and stops; the older regular taps two fingers on the counter and gives a small nod. The camera holds a tight over-the-counter two-shot at chest height with almost no movement. Warm morning light through a front window, steam off the espresso machine. Ceramic, worn wood, brushed steel. Grinder hum, milk steam, one cup set down.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/barista-and-a-regular",
+      "generator": "https://callirra.com/seedance2.5?atlas=barista-and-a-regular&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "coach-halftime-speech",
+      "position": 116,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "The Half-Time Speech",
+      "summary": "A coach at eye level and one nod: the moment before a player stands up.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "halftime speech prompt",
+        "locker room scene prompt",
+        "motivational dialogue video prompt",
+        "coach and player two shot"
+      ],
+      "prompt": "A coach in his fifties crouches at eye level in front of one seated player in a changing room, one hand on the player's shoulder, speaking quietly; the player nods once, jaw tight, and looks up. The camera holds a low two-shot from the side at knee height, then rises slightly as the player stands. Fluorescent strip light, concrete walls, steam drifting from a doorway. Damp towels, scuffed boots, marker board. Muffled crowd noise through the wall and a door closing.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/coach-halftime-speech",
+      "generator": "https://callirra.com/seedance2.5?atlas=coach-halftime-speech&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "confession-in-the-car",
+      "position": 117,
+      "category": "story-dialogue",
+      "scene": "image-to-video",
+      "title": "Confession in the Car",
+      "summary": "Engine off, rain on the glass: a confession the driver cannot look at.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "confession in a car prompt",
+        "two people in car night scene",
+        "image to video dialogue",
+        "rainy car scene cinematic"
+      ],
+      "prompt": "Keep both passengers, the clothing and the car interior exactly as in the reference image. Parked at night with the engine off; the driver grips the wheel with both hands and stares ahead, says something, then looks down, while the passenger slowly turns to face them. The camera stays outside the windscreen at bonnet height, static, rain beading on the glass. Dashboard glow, one street lamp behind. Rain on the roof and a seatbelt creaking.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/confession-in-the-car",
+      "generator": "https://callirra.com/seedance2.5?atlas=confession-in-the-car&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "job-interview-gone-wrong",
+      "position": 118,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "Interview Gone Wrong",
+      "summary": "A candidate hears her own answer land wrong and the interviewer's pen stops.",
+      "config": {
+        "resolution": "720p",
+        "duration": "10",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 389,
+      "keywords": [
+        "job interview scene prompt",
+        "awkward conversation ai video",
+        "dialogue scene ai video prompt",
+        "office scene cinematic"
+      ],
+      "prompt": "A candidate in a slightly too-tight jacket answers a question, then realises mid-sentence that it was the wrong one; her hand closes on the folder in her lap, she straightens, and the interviewer's pen stops moving. The camera sits at the far end of the table on a slow push-in that never reaches her face. Cool overhead office light, one window behind, plants out of focus. Laminated desk, thin carpet, loose paper. Air conditioning hum and a pen clicking once.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/job-interview-gone-wrong",
+      "generator": "https://callirra.com/seedance2.5?atlas=job-interview-gone-wrong&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "kitchen-table-argument",
+      "position": 119,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "Argument at the Kitchen Table",
+      "summary": "One stops chewing: a kitchen-table argument where the tell is a fork set down, not the words.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "4:3",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "dialogue scene ai video prompt",
+        "argument scene prompt",
+        "two person conversation video",
+        "cinematic kitchen scene"
+      ],
+      "prompt": "Two people in their forties sit across a kitchen table with breakfast half eaten; the one on the left keeps talking with both hands flat on the wood while the other stops chewing, sets down a fork, and looks at the window instead. The camera stays low and close at table height, drifting a few centimetres left, no cut. Flat grey morning light through net curtains. Chipped enamel mugs, formica, cooling toast. Room tone, a ticking clock, one chair creak.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/kitchen-table-argument",
+      "generator": "https://callirra.com/seedance2.5?atlas=kitchen-table-argument&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "parent-teaching-child-to-cook",
+      "position": 120,
+      "category": "story-dialogue",
+      "scene": "image-to-video",
+      "title": "Teaching a Child to Cook",
+      "summary": "A father lets go of the spoon, the child stirs too fast, and both freeze.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "parent and child cooking prompt",
+        "teaching moment video prompt",
+        "warm family scene ai video",
+        "image to video two characters"
+      ],
+      "prompt": "Keep both people, their clothing and the kitchen exactly as in the reference image. A father steadies a child's hands around a wooden spoon, then lets go; the child stirs once, too fast, sauce flicks onto the counter, and both freeze and look at each other. The camera sits low at counter height, static with a tiny drift right. Warm late-afternoon light from a side window, steam rising. Flour dust, dented pan, tea towel. Simmering pot and a spoon tapped on enamel.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/parent-teaching-child-to-cook",
+      "generator": "https://callirra.com/seedance2.5?atlas=parent-teaching-child-to-cook&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "rooftop-breakup",
+      "position": 121,
+      "category": "story-dialogue",
+      "scene": "image-to-video",
+      "title": "Break-Up on the Roof",
+      "summary": "One step back at the roof edge: a break-up told by hands going into pockets.",
+      "config": {
+        "resolution": "720p",
+        "duration": "8",
+        "aspect_ratio": "adaptive",
+        "generate_audio": true
+      },
+      "credits": 311,
+      "keywords": [
+        "breakup scene prompt",
+        "rooftop blue hour video",
+        "image to video two characters",
+        "dialogue scene ai video prompt"
+      ],
+      "prompt": "Keep both people and their clothing exactly as in the reference image. They stand at the roof edge a metre apart, not touching; the taller one takes a single step back and pushes both hands into pockets, and the other turns their head away toward the city. The camera drifts slowly right along the parapet, keeping both in frame. Blue hour, warm window lights coming on below, wind moving hair and jacket hems. Distant traffic and a loose flagline flapping.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-breakup",
+      "generator": "https://callirra.com/seedance2.5?atlas=rooftop-breakup&utm_source=github&utm_medium=atlas"
+    },
+    {
+      "slug": "siblings-over-a-game",
+      "position": 122,
+      "category": "story-dialogue",
+      "scene": "text-to-video",
+      "title": "Siblings Over a Game",
+      "summary": "A finger jabbed at the screen, then a cable pulled: two siblings, one quiet room.",
+      "config": {
+        "resolution": "480p",
+        "duration": "8",
+        "aspect_ratio": "16:9",
+        "generate_audio": true
+      },
+      "credits": 138,
+      "keywords": [
+        "siblings arguing video prompt",
+        "kids playing video games scene",
+        "family argument ai video",
+        "gaming room cinematic prompt"
+      ],
+      "prompt": "Two siblings on a sofa, one in their early teens and one a few years younger, both holding controllers; the younger leans forward and jabs a finger at the screen while the older keeps playing, unbothered, then reaches down and pulls the cable, and the room goes quiet. The camera sits low on the floor in front of the television, slightly hand-held. Evening, dark room lit by screen flicker and one lamp. Frayed cushions, tangled cable, half-empty bowl. Game audio cutting out and a controller clattering onto the floor.",
+      "prompt_page": "https://callirra.com/seedance-prompt-library/siblings-over-a-game",
+      "generator": "https://callirra.com/seedance2.5?atlas=siblings-over-a-game&utm_source=github&utm_medium=atlas"
+    }
+  ]
+}

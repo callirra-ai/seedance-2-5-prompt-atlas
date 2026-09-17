@@ -1,0 +1,28 @@
+{
+  "slug": "sumi-e-ink-dragon",
+  "position": 31,
+  "category": "anime-motion",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "21:9",
+    "generate_audio": false
+  },
+  "credits": 195,
+  "keywords": [
+    "ink brush animation prompt",
+    "sumi-e dragon",
+    "watercolour anime style",
+    "ink wash motion"
+  ],
+  "prompt": "Wet black ink gathers on blank paper and rises into a coiled dragon; whiskers uncurl stroke by stroke as the wash bleeds into the fibres. The camera tilts slowly up the body and holds as the last horn forms. A single lamp skims the paper in a dark studio, dust hanging in the air. Sumi-e ink-wash animation, dry-brush texture, generous negative space, no outlines, monochrome with one red seal.",
+  "title": "Sumi-e Ink Dragon",
+  "summary": "Ink on blank paper gathers into a coiled dragon, stroke by stroke, in monochrome sumi-e.",
+  "why": "Sumi-e lives or dies on restraint, so the prompt spends its words on medium and negative space instead of detail: wet ink, bleeding edges, no outlines. The only motion asked for is whiskers uncurling, which is slow enough for a five-second shot to hold cleanly, and naming one raking lamp keeps the paper texture legible rather than flattening the wash into grey. The wide 21:9 frame gives the body room to coil without crowding the paper.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/sumi-e-ink-dragon",
+    "generator": "https://callirra.com/seedance2.5?atlas=sumi-e-ink-dragon&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

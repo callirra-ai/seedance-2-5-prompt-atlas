@@ -1,0 +1,29 @@
+{
+  "slug": "bamboo-grove-wirework",
+  "position": 83,
+  "category": "historical-fantasy",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "wuxia wirework prompt",
+    "bamboo forest duel scene",
+    "martial arts ai video",
+    "vertical video prompt",
+    "historical ai video prompt"
+  ],
+  "prompt": "Two swordswomen in pale grey robes leap between bamboo trunks, robes snapping open like wings as they trade one mid-air pass, blades never quite touching. The camera rises with them on a wire-assisted arc from ground level to canopy height, one continuous vertical move through green light. Thin morning mist between the stalks, sun in soft shafts. Raw silk, polished bamboo, worn leather grips. Wind through leaves and cloth cracking on the turn.",
+  "title": "Bamboo Grove Wirework",
+  "summary": "Two swordswomen trade one mid-air pass between bamboo trunks as the camera rises with them.",
+  "why": "Wirework reads as weightless fakery when a prompt only says 'they fly', so this one ties the leap to cloth physics — robes snapping open, silk cracking on the turn — which is what sells the arc. The vertical frame follows the direction of the movement, and the camera rises with the subjects instead of cutting around them, so the five seconds stay legible. Blades explicitly never connect, which keeps the shot elegant and advertiser-safe.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/bamboo-grove-wirework",
+    "generator": "https://callirra.com/seedance2.5?atlas=bamboo-grove-wirework&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

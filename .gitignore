@@ -1,0 +1,7 @@
+# Nothing here is generated at build time — every file is committed on purpose.
+# Keep the tree free of editor and OS noise only.
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

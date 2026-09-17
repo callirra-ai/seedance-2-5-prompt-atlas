@@ -1,0 +1,29 @@
+{
+  "slug": "terraced-rice-fields-mist",
+  "position": 52,
+  "category": "nature-landscape",
+  "scene": "image-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": false
+  },
+  "credits": 195,
+  "keywords": [
+    "rice terrace prompt",
+    "misty paddies video",
+    "photo to video landscape",
+    "terraced fields morning"
+  ],
+  "prompt": "Keep the terrace lines, field shapes and colours exactly as in the reference image. Thin mist lifts off the flooded paddies and drifts up the slope in slow layers, exposing the mirror surface of each step one after another, while a light breeze ripples the top paddies only. The camera pans slowly right along the hillside, staying level. Pastel dawn tones, natural colour, calm, no people, no birds, no added buildings.",
+  "title": "Terraced Rice Fields in Morning Mist",
+  "summary": "A terraced hillside photo, with mist lifting off the flooded paddies step by step at dawn.",
+  "why": "Terraces are made of parallel lines, and parallel lines are the first thing a video model bends, so the geometry goes in the protected clause and the motion is handed to the mist instead. The pan is kept slow and level for the same reason: any tilt would change the apparent shape of every single step.",
+  "reference_note": "Upload a photo of a terraced hillside in soft light, with the flooded paddies stacked in clear visible steps. Avoid tourist crowds, power lines and wide fisheye shots — the terrace lines have to stay readable for the model to hold them.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/terraced-rice-fields-mist",
+    "generator": "https://callirra.com/seedance2.5?atlas=terraced-rice-fields-mist&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

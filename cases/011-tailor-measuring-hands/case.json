@@ -1,0 +1,29 @@
+{
+  "slug": "tailor-measuring-hands",
+  "position": 11,
+  "category": "cinematic",
+  "scene": "image-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": false
+  },
+  "credits": 195,
+  "keywords": [
+    "image to video craft shot",
+    "tailor hands close up prompt",
+    "slow arc camera move",
+    "warm window light video prompt"
+  ],
+  "prompt": "Everything in the reference image, the tailor, the hands, the tape and the shop, stays untouched. The tape is drawn slowly along a shoulder while chalk marks grey wool, and a pin is set and pressed flat with a thumb. The camera swings in a slow arc around the worktable at hand height, keeping the fingers large in frame and the background still. Warm late-afternoon window light falls across the table from the left. Fine 16mm grain, soft contrast.",
+  "title": "Tailor Measuring Hands",
+  "summary": "A tailor-shop photo animated with one slow arc: tape along a shoulder, chalk on wool, soft window light.",
+  "why": "Protecting every element of the reference frame by name is what lets the shot move at all: the model can animate the hands because it has been told the shop must not change. The arc keeps fingers large and the background soft, which hides small rendering errors. One directional window light gives it a single reference point rather than a room to invent.",
+  "reference_note": "Upload a close photo of hands at work on fabric, with a tape measure, chalk or a pin in frame. Keep it lit by one directional source so the model extends that light instead of inventing a bright studio, and avoid cluttered backgrounds full of objects it might try to animate.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/tailor-measuring-hands",
+    "generator": "https://callirra.com/seedance2.5?atlas=tailor-measuring-hands&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "floating-hologram-console",
+  "position": 77,
+  "category": "vfx-scifi",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "3:4",
+    "generate_audio": false
+  },
+  "credits": 195,
+  "keywords": [
+    "hologram ui prompt",
+    "sci-fi interface video",
+    "glitch hologram effect",
+    "futuristic ui prompt"
+  ],
+  "prompt": "A wristband wakes on a bare forearm and a panel of light unfolds above it in loose stacked layers. A hand passes through the projection, the layers tear into scanlines for a moment and then reassemble, and the glow spills cyan across a real mug and a stack of paper on the desk. The camera makes a slow lateral arc past the panel, catching parallax between the layers. One desk lamp in a dark studio room.",
+  "title": "Floating Hologram Console",
+  "summary": "A holographic panel unfolding from a wristband, its light spilling onto real objects on the desk.",
+  "why": "A hologram floating in a void tells the viewer nothing, so the prompt ties the light to objects it can actually fall on, a mug and a stack of paper, and gives the projection a failure mode, the scanline tear, which is what makes it read as a device. A lateral arc is chosen over a push because parallax between the layers is the only cue that the interface has depth. One desk lamp keeps ambient light low enough that the projection is the brightest thing in frame.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/floating-hologram-console",
+    "generator": "https://callirra.com/seedance2.5?atlas=floating-hologram-console&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "jungle-waterfall-vertical-flow",
+  "position": 48,
+  "category": "nature-landscape",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "waterfall vertical video",
+    "jungle waterfall prompt",
+    "slow motion water",
+    "9:16 nature wallpaper"
+  ],
+  "prompt": "Water pours over a dark basalt lip in one thick rope and shatters into spray halfway down. The camera climbs slowly up the face from the plunge pool to the top edge, keeping the falling water on the left third of the frame. Wet ferns and moss tremble at the sides, mist drifts through the gap in the canopy. Soft green filtered light, saturated leaves, fine spray detail, slow motion at two hundred frames. Audio: steady roar, water hitting stone, a single bird call.",
+  "title": "Jungle Waterfall in Full Flow",
+  "summary": "A vertical climb beside a jungle waterfall, from the plunge pool up to the lip it pours over.",
+  "why": "Vertical framing is the whole point, so the prompt fixes the water to the left third and the camera to one slow climb, which keeps the composition legible on a phone instead of letting the model re-frame mid-shot. The light is specified as soft and canopy-filtered because direct sun on spray blows out to white and erases the rock face behind it.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/jungle-waterfall-vertical-flow",
+    "generator": "https://callirra.com/seedance2.5?atlas=jungle-waterfall-vertical-flow&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

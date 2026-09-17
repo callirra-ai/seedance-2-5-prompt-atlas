@@ -1,0 +1,29 @@
+{
+  "slug": "parent-teaching-child-to-cook",
+  "position": 120,
+  "category": "story-dialogue",
+  "scene": "image-to-video",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "parent and child cooking prompt",
+    "teaching moment video prompt",
+    "warm family scene ai video",
+    "image to video two characters"
+  ],
+  "prompt": "Keep both people, their clothing and the kitchen exactly as in the reference image. A father steadies a child's hands around a wooden spoon, then lets go; the child stirs once, too fast, sauce flicks onto the counter, and both freeze and look at each other. The camera sits low at counter height, static with a tiny drift right. Warm late-afternoon light from a side window, steam rising. Flour dust, dented pan, tea towel. Simmering pot and a spoon tapped on enamel.",
+  "title": "Teaching a Child to Cook",
+  "summary": "A father lets go of the spoon, the child stirs too fast, and both freeze.",
+  "why": "The beat is a small failure followed by shared laughter, and both halves are physical: a hand released, one stir too fast, a shared freeze. That is a performance a model can hold because nothing depends on facial nuance. A nearly static camera at counter height keeps attention on the hands, and image-to-video is used so the two characters and the kitchen stay consistent across the whole take.",
+  "reference_note": "Upload a two-character still with an adult and a child together at a counter or table, both at similar distance from camera and lit by window light. Avoid images where the child's face is turned away or hidden, and avoid stock-photo gloss — the model keeps that polish and it flattens the moment.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/parent-teaching-child-to-cook",
+    "generator": "https://callirra.com/seedance2.5?atlas=parent-teaching-child-to-cook&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

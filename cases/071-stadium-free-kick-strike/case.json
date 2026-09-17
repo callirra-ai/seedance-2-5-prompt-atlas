@@ -1,0 +1,28 @@
+{
+  "slug": "stadium-free-kick-strike",
+  "position": 71,
+  "category": "sports-action",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "football free kick prompt",
+    "soccer slow motion video",
+    "night stadium sports clip",
+    "seedance 2.5 prompt"
+  ],
+  "prompt": "Twenty-two metres out, a midfielder plants one boot and strikes, the ball compressing against the laces for two frames before it leaves. Camera starts low on the grass beside the ball, then whips right to follow the flight and settles behind the net as it ripples. Night stadium under floodlight banks, flashbulbs popping in the upper stands. Broadcast telephoto look, real turf texture, shallow crowd blur. Audio: a rising roar, then the flat crack of the strike.",
+  "title": "Stadium Free Kick Strike",
+  "summary": "A free kick shot from turf level: two frames of ball compression, then a whip right into the back of the net.",
+  "why": "The prompt names one readable beat, the two frames where boot meets ball, because a video model holds a single impact far better than a whole passage of play. It states the camera in order, low on the grass then a whip right, so the model has a path rather than a suggestion, and pins the look to broadcast telephoto so the crowd stays soft instead of dissolving into noise. The audio line gives the strike a sync point to land on.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/stadium-free-kick-strike",
+    "generator": "https://callirra.com/seedance2.5?atlas=stadium-free-kick-strike&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

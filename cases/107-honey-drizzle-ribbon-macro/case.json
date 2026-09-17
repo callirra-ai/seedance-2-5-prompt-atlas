@@ -1,0 +1,28 @@
+{
+  "slug": "honey-drizzle-ribbon-macro",
+  "position": 107,
+  "category": "asmr-macro",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "honey macro video",
+    "asmr food prompt",
+    "slow motion liquid",
+    "viscous pour close up"
+  ],
+  "prompt": "Golden honey folds off the tip of a wooden dipper and falls in one unbroken ribbon, twisting slowly, piling on itself and holding a soft peak before it sinks. The camera creeps forward a few millimetres on a macro rail, filling the frame with the ribbon. A single warm lamp behind turns the honey translucent amber against a black backdrop, one specular line running down its spine, late afternoon indoors. Viscosity stays thick and glossy with small bubbles suspended inside. Audio: a low, sticky, continuous trickle.",
+  "title": "Honey Ribbon Drizzle",
+  "summary": "Honey folds off a dipper in one unbroken ribbon, backlit to amber against black, in wide macro.",
+  "why": "Viscosity is the whole subject, so the prompt describes behaviour instead of an adjective: an unbroken ribbon, a twist, a peak that holds before it sinks. The camera creeps on a rail by millimetres because a macro subject at this scale needs almost no travel to change composition, and a bigger move would throw it out of focus. Backlighting through the honey is what makes it read as thick rather than as syrup, and the audio cue is written as continuous rather than looping so it stays under the visual beat.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/honey-drizzle-ribbon-macro",
+    "generator": "https://callirra.com/seedance2.5?atlas=honey-drizzle-ribbon-macro&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

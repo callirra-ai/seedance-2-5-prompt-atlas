@@ -1,0 +1,29 @@
+{
+  "slug": "rooftop-breakup",
+  "position": 121,
+  "category": "story-dialogue",
+  "scene": "image-to-video",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "breakup scene prompt",
+    "rooftop blue hour video",
+    "image to video two characters",
+    "dialogue scene ai video prompt"
+  ],
+  "prompt": "Keep both people and their clothing exactly as in the reference image. They stand at the roof edge a metre apart, not touching; the taller one takes a single step back and pushes both hands into pockets, and the other turns their head away toward the city. The camera drifts slowly right along the parapet, keeping both in frame. Blue hour, warm window lights coming on below, wind moving hair and jacket hems. Distant traffic and a loose flagline flapping.",
+  "title": "Break-Up on the Roof",
+  "summary": "One step back at the roof edge: a break-up told by hands going into pockets.",
+  "why": "The whole scene is distance, so the prompt measures it: a metre apart, not touching, one step back, hands in pockets. Those are the cues a model can hold for eight seconds without inventing facial animation it cannot do well. Locking the two-character still first also means the drift along the parapet never risks re-casting or merging the pair, which is the usual failure in multi-person image-to-video.",
+  "reference_note": "Upload a still containing both characters at once — a two-shot with a clear gap between them and both faces visible works best. Avoid images where one person is cropped, heavily backlit, or much larger than the other, because image-to-video keeps that imbalance for the whole clip.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/rooftop-breakup",
+    "generator": "https://callirra.com/seedance2.5?atlas=rooftop-breakup&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

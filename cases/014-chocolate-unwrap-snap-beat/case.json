@@ -1,0 +1,29 @@
+{
+  "slug": "chocolate-unwrap-snap-beat",
+  "position": 14,
+  "category": "product-commercial",
+  "scene": "image-to-video",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "adaptive",
+    "generate_audio": true
+  },
+  "credits": 311,
+  "keywords": [
+    "chocolate product video",
+    "candy commercial prompt",
+    "unboxing close up",
+    "food ad image to video"
+  ],
+  "prompt": "Foil peels back from the chocolate bar in your reference photo, the printed sleeve staying face-up and unchanged, until two squares break away with a clean snap. The camera tilts down from the rumpled foil to the fractured edge, holding as cocoa crumbs scatter. A warm tungsten practical sits low on the right, low-key, falling off into deep brown shadow. Tempered chocolate shows a matte snap face and a faint gloss on the moulded side. Audio: dry foil crinkle, then one crisp snap.",
+  "title": "Chocolate Unwrap and Snap",
+  "summary": "Eight seconds of foil, snap and crumb: a warm low-key unwrap that keeps the wrapper facing the lens.",
+  "why": "Eight seconds is used here because the beat is really two actions in sequence: the peel and then the snap, and squeezing both into five usually rushes the second one into a blur. The camera only tilts, never cuts, because the interesting event is a fracture and a cut would hide it. Low-key tungsten is chosen over bright daylight so the foil keeps a warm specular edge instead of flaring white, and the two-part audio cue is written as crinkle then snap so the sound edit has an obvious sync point.",
+  "reference_note": "A photo of the wrapped bar with the printed sleeve facing the camera, plus a clean surface underneath. Avoid photos where the wrapper is already torn open or creased beyond recognition — the model animates the tear you show it, so start from an intact wrapper.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/chocolate-unwrap-snap-beat",
+    "generator": "https://callirra.com/seedance2.5?atlas=chocolate-unwrap-snap-beat&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

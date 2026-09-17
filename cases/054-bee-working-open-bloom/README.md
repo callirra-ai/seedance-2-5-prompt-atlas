@@ -1,0 +1,39 @@
+# Bee Working an Open Bloom
+
+Macro vertical of a bee landing, circling the stamens and grooming in hard midday sun.
+
+**Category** · Animals & pets &nbsp;·&nbsp; **Position** · 054 of the atlas
+
+## Try it
+
+- [Read the prompt page](https://callirra.com/seedance-prompt-library/bee-working-open-bloom) — the shot explained, with its settings
+- [Open it in the generator](https://callirra.com/seedance2.5?atlas=bee-working-open-bloom&utm_source=github&utm_medium=atlas) — fills the prompt and every setting below; nothing is submitted until you press generate
+
+## Settings
+
+| | |
+|---|---|
+| **Mode** | Text to video |
+| **Duration** | 4s |
+| **Resolution** | 720p |
+| **Aspect ratio** | 9:16 |
+| **Audio** | on |
+| **Credits** | 156 |
+
+## Prompt
+
+```text
+Landing on a wide open bloom, a honeybee walks a tight circle across the stamens, then stops and grooms its front legs over its head. Petals flex under its weight, pollen dusts its back legs, and one loose petal sways out of sync. The camera hovers a few centimetres above the flower and drifts gently to keep the bee centred. Hard midday sun, deep shadows inside the petals, crisp macro detail, shallow focus, no other insects, no hands. Audio: close buzzing, faint breeze, distant garden.
+```
+
+## Why it works
+
+Insects are where prompts usually lose the body plan, so only four things are asked of the bee — land, circle, stop, groom — with no flight after the landing. The hovering camera keeps the subject centred inside a tall crop, and the hard midday sun is deliberate: it throws the deep petal shadows that make a macro shot look lit rather than flat.
+
+## Keywords
+
+`bee on flower macro` · `pollination close up` · `insect macro prompt` · `vertical nature video`
+
+---
+
+<sub>From the [Seedance 2.5 Prompt Atlas](https://callirra.com/seedance-prompt-library) · CC BY 4.0 · the credit figure is the live price the generator charges for exactly this configuration.</sub>

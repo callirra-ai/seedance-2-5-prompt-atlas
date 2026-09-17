@@ -1,0 +1,28 @@
+{
+  "slug": "plaza-pigeon-burst",
+  "position": 100,
+  "category": "urban-city",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "720p",
+    "aspect_ratio": "4:3",
+    "generate_audio": true
+  },
+  "credits": 195,
+  "keywords": [
+    "whip pan shot prompt",
+    "street photography video prompt",
+    "pigeons city b-roll",
+    "four by three cinematic ai video"
+  ],
+  "prompt": "A flock of pigeons lifts off a stone plaza in one burst as a skateboarder rolls through them, board clacking, arms out for balance. The camera whip pans left with the birds, then settles back on the rider as the flock blows apart across the top of the frame. The plaza sits in the shade of a tall building, so the birds flare white when they cross the one hard band of afternoon sun. 35mm, warm dust, quick motion blur. Audio: wing beats, wheels on stone, a shout.",
+  "title": "Plaza Pigeon Burst",
+  "summary": "One whip pan catches a pigeon flock exploding off a plaza as a skateboarder rolls through the sun line.",
+  "why": "A whip pan is a fast, forgiving move: motion blur does the work and the audience reads the flock rather than individual birds, which is where models fail. The single band of sun at the edge of the shaded plaza is what makes the burst visible, and it is a lighting decision a still photographer would make too. The 4:3 frame is deliberate, giving the flock vertical room without going fully vertical.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/plaza-pigeon-burst",
+    "generator": "https://callirra.com/seedance2.5?atlas=plaza-pigeon-burst&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

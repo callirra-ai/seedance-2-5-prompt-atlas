@@ -1,0 +1,39 @@
+# Pre-Dawn Kitchen Letter
+
+A quiet pre-dawn beat: one slow push-in on a woman reading a single page under a warm bulb.
+
+**Category** · Cinematic & film scenes &nbsp;·&nbsp; **Position** · 007 of the atlas
+
+## Try it
+
+- [Read the prompt page](https://callirra.com/seedance-prompt-library/pre-dawn-kitchen-letter) — the shot explained, with its settings
+- [Open it in the generator](https://callirra.com/seedance2.5?atlas=pre-dawn-kitchen-letter&utm_source=github&utm_medium=atlas) — fills the prompt and every setting below; nothing is submitted until you press generate
+
+## Settings
+
+| | |
+|---|---|
+| **Mode** | Text to video |
+| **Duration** | 5s |
+| **Resolution** | 480p |
+| **Aspect ratio** | 16:9 |
+| **Audio** | off |
+| **Credits** | 87 |
+
+## Prompt
+
+```text
+Before sunrise a woman in an oversized jumper sits alone at a kitchen table, reading one sheet of paper, thumb smoothing the crease. The camera pushes in very slowly from across the room, drifting past an empty chair until the page fills a third of the frame. Cold blue pre-dawn light comes through the window behind her, and a single warm bulb over the table catches the edge of the paper. 35mm, available-light palette, soft grain, no camera shake.
+```
+
+## Why it works
+
+A quiet beat needs stillness, so the prompt asks for one very slow push and rules out camera shake in the same breath. Cold blue from the window against one warm bulb splits the room into two temperatures, which does the emotional work a script would normally do. Available-light framing keeps it from drifting into a bright commercial kitchen.
+
+## Keywords
+
+`quiet character moment prompt` · `slow push in shot` · `cinematic morning scene` · `ai film scene prompt`
+
+---
+
+<sub>From the [Seedance 2.5 Prompt Atlas](https://callirra.com/seedance-prompt-library) · CC BY 4.0 · the credit figure is the live price the generator charges for exactly this configuration.</sub>

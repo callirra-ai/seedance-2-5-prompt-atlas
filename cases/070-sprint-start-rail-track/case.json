@@ -1,0 +1,28 @@
+{
+  "slug": "sprint-start-rail-track",
+  "position": 70,
+  "category": "sports-action",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "480p",
+    "aspect_ratio": "21:9",
+    "generate_audio": true
+  },
+  "credits": 87,
+  "keywords": [
+    "sprint start video prompt",
+    "track and field prompt",
+    "starting blocks slow motion",
+    "sports broadcast prompt"
+  ],
+  "prompt": "Eight sprinters leave the blocks as the pistol sounds. The nearest runner's rear foot drives, spikes biting the rubber, arms opening into the first long stride while the rest of the field is still rising. A rail-side camera runs level with the lane at ankle height and holds the gap as they pull away. Overcast morning, flat even light, cool grey track. Long-lens compression, motion blur on the forearms. Audio: the pistol, spikes clawing rubber, a swelling crowd.",
+  "title": "Sprint Start From The Rail",
+  "summary": "The first three strides of a sprint final, tracked at ankle height from beside the lane.",
+  "why": "The beat is the first three steps, not the race, so the prompt keeps one lane in frame and lets the field move away inside the same shot. Ankle height and a rail-side position are specific enough that the model will not fall back on a stadium wide or a finish-line pan. Flat overcast light removes the temptation to add flares and keeps the spikes legible against the rubber, and 480p suits a shot where motion blur covers the finest detail anyway.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/sprint-start-rail-track",
+    "generator": "https://callirra.com/seedance2.5?atlas=sprint-start-rail-track&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

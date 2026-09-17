@@ -1,0 +1,28 @@
+{
+  "slug": "asking-for-directions",
+  "position": 114,
+  "category": "story-dialogue",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 5,
+    "resolution": "480p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 87,
+  "keywords": [
+    "stranger asking directions prompt",
+    "street conversation video prompt",
+    "vertical street scene ai video",
+    "dialogue scene ai video prompt"
+  ],
+  "prompt": "A tourist holds up a phone map for a stranger on a busy corner, pointing at the screen and then down the street; the stranger squints, shakes their head, and points the opposite way, and both laugh at the confusion. The camera stands back at head height in the foot traffic, letting pedestrians cross the foreground. Overcast midday, flat light, pavement still wet from earlier rain. Backpacks, umbrellas, paper cups. Street traffic and overlapping footsteps.",
+  "title": "Asking for Directions",
+  "summary": "Two strangers point opposite ways down the same street and laugh about it.",
+  "why": "The comedy is two conflicting gestures, so the prompt gives the model a clear mismatch to animate: one arm points left, one points right, and both people shrug it off. Shooting vertically from inside the crowd mirrors how this moment is actually filmed on a phone, and the 480p setting matches that register. Pedestrians crossing the foreground are deliberate cover, hiding the imperfect edges that busy street scenes usually produce.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/asking-for-directions",
+    "generator": "https://callirra.com/seedance2.5?atlas=asking-for-directions&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

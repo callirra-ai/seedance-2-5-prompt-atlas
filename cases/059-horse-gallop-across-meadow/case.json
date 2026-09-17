@@ -1,0 +1,28 @@
+{
+  "slug": "horse-gallop-across-meadow",
+  "position": 59,
+  "category": "animals-pets",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false
+  },
+  "credits": 311,
+  "keywords": [
+    "horse galloping prompt",
+    "running animal video",
+    "backlit wildlife shot",
+    "slow motion hooves"
+  ],
+  "prompt": "A lean chestnut horse runs flat out from left to right across a wide summer meadow, mane streaming, tail lifted, hooves cutting through long grass and throwing up seeds. The camera tracks alongside at the same speed on a long lens, keeping the horse in profile with the horizon steady behind it. The sun sits directly behind the animal, rimming its outline and stretching a long shadow ahead of it. Slight motion blur on the legs, warm dry haze, nothing else in frame, no riders, no fences.",
+  "title": "Horse Galloping Across a Meadow",
+  "summary": "A horse runs flat out from left to right, tracked at speed with the sun directly behind it.",
+  "why": "Eight seconds is what a full crossing needs, and tracking alongside keeps the horse in profile the entire way, which is the angle where a gallop reads cleanest. The backlight is doing two jobs: it rims the mane and tail, and the long shadow thrown ahead of the horse gives the frame a second moving element that signals speed without blurring the body.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/horse-gallop-across-meadow",
+    "generator": "https://callirra.com/seedance2.5?atlas=horse-gallop-across-meadow&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}

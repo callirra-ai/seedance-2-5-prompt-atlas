@@ -1,0 +1,28 @@
+{
+  "slug": "underwater-silk-duet",
+  "position": 42,
+  "category": "dance-music",
+  "scene": "text-to-video",
+  "settings": {
+    "duration_seconds": 10,
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "generate_audio": true
+  },
+  "credits": 389,
+  "keywords": [
+    "underwater dance prompt",
+    "slow motion duet",
+    "silk fabric video",
+    "artistic dance scene"
+  ],
+  "prompt": "Two dancers in long silk skirts move through warm water in slow, weightless unison, fabric trailing above them and hair floating outward on every turn. The camera sinks from the surface in one continuous descent, then holds level as they cross in front of it. Shafts of daylight break through the surface, silt drifting in the beams. Clear underwater grade, soft contrast, tiny bubbles catching the light. Audio: music heard through water, low and muffled, with a slow bubble wash.",
+  "title": "Underwater Silk Duet",
+  "summary": "Two dancers in silk, weightless and in unison, as the camera sinks from the surface.",
+  "why": "Water is forgiving to fabric and brutal to faces, so the prompt keeps the dancers at a distance, covers the details in flowing silk, and limits the action to slow unison. One continuous descent is far easier to hold than a cut list, and levelling out at the end gives the shot a stable half where the fabric can settle. The muffled music cue tells the model the mix is low-passed, not that the shot is silent.",
+  "site": {
+    "prompt_page": "https://callirra.com/seedance-prompt-library/underwater-silk-duet",
+    "generator": "https://callirra.com/seedance2.5?atlas=underwater-silk-duet&utm_source=github&utm_medium=atlas",
+    "hub": "https://callirra.com/seedance-prompt-library"
+  }
+}
